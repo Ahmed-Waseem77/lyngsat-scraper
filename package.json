@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jsdom": "^24.0.0",
+    "puppeteer": "^22.5.0"
+  },
+  "name": "scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "satellite": "TDRS 8",
+    "launchData": "TDRS 8 was launched with Atlas AC-139 2000-06-30.",
+    "launchDate": "2000-06-30",
+    "launchRocket": "Atlas AC-139"
+  },
+  {
+    "satellite": "TDRS 10",
+    "launchData": "TDRS 10 was launched with Atlas 2A - AC-144 2002-12-05.",
+    "launchDate": "2002-12-05",
+    "launchRocket": "Atlas 2A - AC-144"
+  },
+  {
+    "satellite": "TDRS 11",
+    "launchData": "TDRS 11 was launched with Atlas 5 - V401 2013-01-31.",
+    "launchDate": "2013-01-31",
+    "launchRocket": "Atlas 5 - V401"
+  },
+  {
+    "satellite": "Yamal 300K",
+    "launchData": "Yamal 300K was launched with Proton 2012-11-02.",
+    "launchDate": "2012-11-02",
+    "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Intelsat 18",
+    "launchData": "Intelsat 18 was launched with Zenit 3/Baikonur 2011-10-05.",
+    "launchDate": "2011-10-05",
+    "launchRocket": "Zenit 3/Baikonur"
+  },
+  {
+    "satellite": "NSS 9",
+    "launchData": "NSS 9 was launched with Ariane 5 - V187 2009-02-12.",
+    "launchDate": "2009-02-12",
+    "launchRocket": "Ariane 5 - V187"
+  },
+  {
+    "satellite": "NSS 11",
+    "launchData": "NSS 11 was launched with Proton 2000-10-01.",
+    "launchDate": "2000-10-01",
+    "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Eutelsat 172B",
+    "launchData": "Eutelsat 172B was launched with Ariane 5 - VA237 2017-06-01.",
+    "launchDate": "2017-06-01",
+    "launchRocket": "Ariane 5 - VA237"
+  },
+  {
+    "satellite": "Eutelsat 174A",
+    "launchData": "Eutelsat 174A was launched with Proton 2005-12-29.",
+    "launchDate": "2005-12-29",
+    "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Horizons 3e",
+    "launchData": "Horizons 3e was launched with Ariane 5 - VA243 2018-09-25.",
+    "launchDate": "2018-09-25",
+    "launchRocket": "Ariane 5 - VA243"
+  },
+  {
+    "satellite": "Intelsat 5",
+    "launchData": "Intelsat 5 was launched with Proton 1997-08-28.",
+    "launchDate": "1997-08-28",
+    "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Luch 5A",
+    "launchData": "Luch 5A was launched with Proton 2011-12-11.",
+    "launchDate": "2011-12-11",
+    "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Yamal 202",
+    "launchData": "Yamal 202 was launched with Proton 2003-11-24.",
+    "launchDate": "2003-11-24",
+    "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Intelsat 19",
+    "launchData": "Intelsat 19 was launched with Zenit 3/Sea Launch 2012-06-01.",
+    "launchDate": "2012-06-01",
+    "launchRocket": "Zenit 3/Sea Launch"
+  },
+  {
+    "satellite": "Galaxy 11",
+    "launchData": "Galaxy 11 was launched with Ariane V125 1999-12-22.",
+    "launchDate": "1999-12-22",
+    "launchRocket": "Ariane V125"
+  }
+]
