@@ -1,37 +1,77 @@
 const {colors, format} = require('./ansi');
 const utils = require('./utils');
 const regions = require('./config').regions;
+const packageScrape = require('./packages-scrape');
+const fs = require('fs');
 
-const linkScraperAndFilter = async (page, url) => {
+const linkScraperAndFilter = async (browser, page, url) => {
 
-	const links = await page.evaluate((url, regions) => {		
-		const elements = document.querySelectorAll('a');
-		links = Array.from(elements).map(element => {
-			return element.href;
-		});
+	filteredTables = [];
+	const tables = await page.$$('table');
 
-		// filter out links that are not channels
-		providerlinks = links.filter(link => link.includes('/providers/'));	
-		tvChannelLinks = links.filter(link => link.includes('.com/tvchannels/'));	
-		packagesLinks = links.filter(link => link.includes('/packages/'));
+	for (let table of tables) {
+		const firstRow = await table.$('tr:first-child');
+		if (firstRow) {
+			const firstRowText = await page.evaluate(row => row.innerText, firstRow);
+			if (firstRowText.includes('last updated')) {
+				filteredTables.push(table);
+			}
+		}
+	}
 
-		// exclude package links that have 'packages/<region>' in them
-		for (let region of regions)
-			packagesLinks = packagesLinks.filter(link => !link.includes('/packages/' + region));
+	console.log('Filtered Tables: ' + filteredTables.length);
 
-		// remove duplicates
-		providerlinks = [...new Set(providerlinks)];
-		tvChannelLinks = [...new Set(tvChannelLinks)];
-		packagesLinks = [...new Set(packagesLinks)];
+	links = [];
+	for (let table of filteredTables) {
+		links.push(await table.$$('a').then(async links => {
+			return await Promise.all(links.map(async link => {
+				return await page.evaluate(link => link.href, link);
+			}));
+		}));
+	}
 
+	links = links.flat();
+	
+	links = [...new Set(links)];
+	const includedLinkPatterns = /(.com\/tvchannels\/|.providers\/|.packages\/)/;
+	links = links.filter(link => includedLinkPatterns.test(link));
 
-			
-		return { providerlinks, tvChannelLinks, packagesLinks };
-	}, url, regions);
+	for (let region of regions)
+		links = links.filter(link => !link.includes('/packages/' + region));
 
-	return links;
+	const groupedLinks = [];
+	let currentGroup = null;
+
+	for (const link of links) {
+		isPackage = link.includes('packages');
+		if (isPackage) {
+			currentPackageLink = link;
+			currentPackageChannels = await packageScrape(browser, page, link);
+		}
+
+		if (link.includes('provider') || link.includes('packages')) {
+			if (currentGroup) {
+				groupedLinks.push(currentGroup);
+			}
+			currentGroup = { providerLink: link, providerTvchannels: [], tvchannels: [] };
+		} else {
+			if (currentGroup) {
+				if (isPackage) {
+					currentGroup.providerTvchannels.push(currentPackageChannels);
+					currentGroup.providerTvchannels = [...new Set(currentGroup.providerTvchannels)];
+				}
+				currentGroup.tvchannels.push(link);
+				currentGroup.tvchannels = [...new Set(currentGroup.tvchannels)];
+			}
+		}
+	}
+
+	if (currentGroup) {
+		groupedLinks.push(currentGroup);
+	}
+
+	return groupedLinks;
 }
-
 
 const satChannelsScrape = async (browser, satellites, url) => {
 	const page = await browser.newPage();
@@ -40,20 +80,28 @@ const satChannelsScrape = async (browser, satellites, url) => {
 
 	// loop through all satellites
 	for (let i=0; i<satellites.length; i++) {
-		await page.goto(url + satellitesConverted[i] + '.html'); 
+		satelliteURL = url + satellitesConverted[i] + '.html';
+		await page.goto(satelliteURL); 
 		j = i + 1;
 		console.log('\nScraping Sattellite ' + j + ' : ' + satellitesConverted[i]);
 		console.log(colors.blue + format.underline + url + satellitesConverted[i] + '.html' + colors.reset);
 
 		// get all links on the page
-		const links = await linkScraperAndFilter(page, satellitesConverted[i]);
-		console.log(links.providerlinks);
-		console.log(links.tvChannelLinks);
-		console.log(links.packagesLinks);
+		const groupedLinks = await linkScraperAndFilter(browser, page, satellitesConverted[i]);
+		const satelliteGroupedLinks = { satellite: satelliteURL, groupedLinks: groupedLinks };
+
+		// append links json to a file 
+		// Read the existing data from the JSON file
+
+		const filePath = './satChannelData.json';
+		utils.appendToJSON(filePath, satelliteGroupedLinks, (err) => {
+			if (err) {
+				console.error('Error appending to JSON file:', err);
+			}
+		});
+		
+		
 	}
-	// write satChannelData to file
-	// fs.writeFileSync('satChannelData.json', JSON.stringify(satChannelData, null, 2));
-	
 	
 	await page.close();
 	return satChannelData;

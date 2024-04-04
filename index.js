@@ -5,11 +5,14 @@ const satScrape						= require('./sat-scrape');
 const satLaunchesScrape		= require('./satLaunch-scrape');
 const satChannelsScrape		= require('./satChannel-scrape'); 
 const { regions, url } 		= require('./config');
+const fs 									= require('fs');
 
 
 const main = async () => {
 
   const args = process.argv.slice(2);
+
+	fs.writeFileSync('./satChannelData.json', '[\n]');	
 
 	if ( args.includes('-h') || args.includes('--help') ) {
 		console.log(colors.magenta+ format.bold + 
@@ -40,10 +43,10 @@ const main = async () => {
 	
 	if (!(args.includes('-wc') || args.includes('--without-channels'))) {
 		console.log( colors.magenta + format.bold + 'scraping channels..' + colors.reset);
-		satData = await satChannelsScrape(browser, ['Intelsat-18'] , url);
+		channelData = await satChannelsScrape(browser, satellites , url);
 	}
 	else {
-		satData = [];
+		channelData = [];
 	}
 
 	if (!(args.includes('-wl') || args.includes('--without-launches'))) {
