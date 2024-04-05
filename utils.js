@@ -3,7 +3,7 @@ const fs = require('fs');
 
 // join two JSON object arrays on a common key
 const joinJSON = (arr1, arr2, key) => {
-    return arr2.map(x => Object.assign(x, arr1.find(y => y.key == x.key)));
+    return arr2.map(x => Object.assign(x, arr1.find(y => y[key] === x[key])));
 }
 
 function joinJsonArrays(arrayA, arrayB, key) {

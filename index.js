@@ -74,11 +74,7 @@ const main = async () => {
 	let joinedSats = joinJSON(satData, launchData, 'satellite');
 	fs.writeFileSync('./final_satelliteData.json', JSON.stringify(joinedSats, null, 2));
 
-	console.log(colors.green + 'Joining Satellite and Launch Data' + colors.reset);
-	console.log(joinedSats);
-
 	console.log(colors.green + 'Scraping complete' + colors.reset);
-
 	await browser.close();
 }
 
