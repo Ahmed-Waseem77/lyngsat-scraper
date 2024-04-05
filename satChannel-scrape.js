@@ -89,6 +89,7 @@ const satChannelExtractor = async (satellite, channelName, page) => {
         const cells = await row.$$('td');
 
         const satellite = await cells[1]?.getProperty('textContent') || null;
+				if (satellite === null) { continue; }
         const satelliteText = await satellite.jsonValue();
 				if (satelliteText === 'Satellite') { continue; }
 
