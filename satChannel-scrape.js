@@ -79,46 +79,49 @@ const linkScraperAndFilter = async (browser, page, url) => {
 
 const satChannelExtractor = async (satellite, channelName, page) => {
 
-	const relationsObjsArray = [];
-	const tableSelector = 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(12)';
+    const relationsObjsArray = [];
+    const tableSelector = 'table[width="700"][cellpadding="0"][cellspacing="0"][border="1"] tr:not(:first-child)';
 
-	const table = await page.$(tableSelector);
-	const rows = await table.$$('tr');
-	
-	// filter out rows that have more than 1 columns
-	const rows = rows.filter( async row => {
-		const columns = await row.$$('td');
-		return columns.length > 1;
-	});
+    const rows = await page.$$(tableSelector);
 
-	// loop through the rows extract text from columns
-	for (let row of rows) {
-		const cols = await row.$$('td');	
-		const satellite = await page.evaluate(col => col.innerText, cols[1]);
-		const beam = await page.evaluate(col => col.innerText, cols[2]).split(' ')[0];
-		const EIRP = await page.evaluate(col => col.innerText, cols[2]).split(' ')[1];
-		const freq = await page.evaluate(col => col.innerText, cols[3]);
-		const system = await page.evaluate(col => col.innerText, cols[4]);
-		const SRFEC = await page.evaluate(col => col.innerText, cols[5]);
-		const video = await page.evaluate(col => col.innerText, cols[6]);
-		const lang = await page.evaluate(col => col.innerText, cols[7]).split(' ');
-		const encryption = await page.evaluate(col => col.innerText, cols[8]);
+    // loop through the rows extract text from columns
+    for (let row of rows) {
+        const cells = await row.$$('td');
 
-		const relationsObj = {
-			satellite: satellite,
-			beam: beam,
-			EIRP: EIRP,
-			freq: freq,
-			system: system,
-			SRFEC: SRFEC,
-			video: video,
-			lang: lang,
-			encryption: encryption
-		};
+        const satellite = await cells[1].getProperty('textContent');
+        const beam = await cells[2].getProperty('textContent');
+        const freq = await cells[3].getProperty('textContent');
+        const system = await cells[4].getProperty('textContent');
+        const SRFEC = await cells[5].getProperty('textContent');
+        const video = await cells[6].getProperty('textContent');
+        const lang = await cells[7].getProperty('textContent');
+        const encryption = await cells[8].getProperty('textContent');
 
-		relationsObjsArray.push(relationsObj);
-	}
-	return relationsObjsArray;
+        const satelliteText = await satellite.jsonValue();
+        const beamText = await beam.jsonValue();
+        const freqText = await freq.jsonValue();
+        const systemText = await system.jsonValue();
+        const SRFECText = await SRFEC.jsonValue();
+        const videoText = await video.jsonValue();
+        const langText = await lang.jsonValue();
+        const encryptionText = await encryption.jsonValue();
+
+        console.log(satelliteText, beamText, freqText, systemText, SRFECText, videoText, langText, encryptionText);
+
+        const relationsObj = {
+            satellite: satelliteText.trim(),
+            beam: beamText.trim(),
+            freq: freqText.trim(),
+            system: systemText.trim(),
+            SRFEC: SRFECText.trim(),
+            video: videoText.trim(),
+            lang: langText.trim(),
+            encryption: encryptionText.trim()
+        };
+
+        relationsObjsArray.push(relationsObj);
+    }
+    return relationsObjsArray;
 }
 
 
@@ -182,17 +185,21 @@ const satChannelsScrape = async (browser, satellites, url) => {
 			
 				const providerName = providerNameElements.length > 0 ? await page.evaluate(el => el.innerText, providerNameElements[0]) : null;
 
+				// for providerCountry we need to extract the country from the url betwee  the last '/' and '.html'
+				const providerCountryRegex = /\/([a-zA-Z]+)\.html/;
+
+				providerCountry = providerCountryElements.length > 0 ? await page.evaluate(el => el.href, providerCountryElements[0]) : null;
+
 				providerData = {
 						satellite: satellites[i],
 						providerName: providerName,
 						providerLogo: providerLogoElements.length > 0 ? await page.evaluate(el => el.src, providerLogoElements[0]) : null,
 						providerWebsite: providerWebsiteElements.length > 0 ? await page.evaluate(el => el.href, providerWebsiteElements[0]) : null,
-						providerCountry: providerCountryElements.length > 0 ? await page.evaluate(el => el.href, providerCountryElements[0]) : null
+						providerCountry: providerCountry
 				};
 
 				console.log(providerData);
 				providerDataObjArray.push(providerData); 
-			
 
 				for (let tvChannel of group.tvchannels) {
 					if (tvChannel === null) { continue; }
