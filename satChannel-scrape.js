@@ -88,16 +88,18 @@ const satChannelExtractor = async (satellite, channelName, page) => {
     for (let row of rows) {
         const cells = await row.$$('td');
 
-        const satellite = await cells[1].getProperty('textContent');
-        const beam = await cells[2].getProperty('textContent');
-        const freq = await cells[3].getProperty('textContent');
-        const system = await cells[4].getProperty('textContent');
-        const SRFEC = await cells[5].getProperty('textContent');
-        const video = await cells[6].getProperty('textContent');
-        const lang = await cells[7].getProperty('textContent');
-        const encryption = await cells[8].getProperty('textContent');
-
+        const satellite = await cells[1]?.getProperty('textContent') || null;
         const satelliteText = await satellite.jsonValue();
+				if (satelliteText === 'Satellite') { continue; }
+
+        const beam = await cells[2]?.getProperty('textContent') || null;
+        const freq = await cells[3]?.getProperty('textContent') || null;
+        const system = await cells[4]?.getProperty('textContent') || null;
+        const SRFEC = await cells[5]?.getProperty('textContent');
+        const video = await cells[6]?.getProperty('textContent');
+        const lang = await cells[7]?.getProperty('textContent');
+        const encryption = await cells[8]?.getProperty('textContent');
+
         const beamText = await beam.jsonValue();
         const freqText = await freq.jsonValue();
         const systemText = await system.jsonValue();
