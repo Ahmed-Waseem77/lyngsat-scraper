@@ -23,7 +23,7 @@ const satScrape = async (browser, regions, url) => {
 			rowData = rows.map(row => {
 				cols = row.querySelectorAll('td');
 
-				// we can get some position data beside name example: (incl. <degree>) so we remove it
+				// we can get some position data beside satellite example: (incl. <degree>) so we remove it
 				spanText = cols[1].innerText;
 				if (spanText.includes('incl.')) {
 					spanText = spanText.split('(')[0].trim();
@@ -32,12 +32,12 @@ const satScrape = async (browser, regions, url) => {
 				rowObject = {
 					region: regions[i],
 					position: cols[0].innerText,	
-					name:			spanText === '' ? null : spanText,
+					satellite:			spanText === '' ? null : spanText,
 					band:			cols[2].innerText === '' ? null : cols[2].innerText,
 				};
 
 				// remove Object if it has empty values
-				if (rowObject.position === '\n' || rowObject.name === '\n') {
+				if (rowObject.position === '\n' || rowObject.satellite === '\n') {
 					return;
 				}
 
@@ -52,7 +52,7 @@ const satScrape = async (browser, regions, url) => {
 		}, regions, i);
 
 		satData = satData.concat(satRegionData);
-		satData = satData.filter(sat => sat?.name || false);
+		satData = satData.filter(sat => sat?.satellite || false);
 
 	};
 

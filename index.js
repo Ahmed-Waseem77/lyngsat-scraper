@@ -6,6 +6,7 @@ const satLaunchesScrape		= require('./satLaunch-scrape');
 const satChannelsScrape		= require('./satChannel-scrape'); 
 const { regions, url } 		= require('./config');
 const fs 									= require('fs');
+const { joinJSON }				= require('./utils');
 
 
 const main = async () => {
@@ -38,7 +39,7 @@ const main = async () => {
 	console.log( colors.magenta + format.bold + 'scraping satellites..' + colors.reset);
 	satData = await satScrape(browser, regions, url);
 
-	satellites = satData.map(sat => sat.name);
+	satellites = satData.map(sat => sat.satellite);
 	console.log( satellites.length + ' satellites found');
 	
 	if (!(args.includes('-wc') || args.includes('--without-channels'))) {
@@ -67,8 +68,15 @@ const main = async () => {
 	if (args.includes('-v') || args.includes('--verbose')) {
 		console.log( colors.cyan + format.bold + '\n\nSatellite data:\n' + colors.reset, satData);
 		console.log( colors.cyan + format.bold + '\n\nLaunch data:\n' + colors.reset, launchData);
+		console.log( colors.cyan + format.bold + '\n\nChannel data:\n' + colors.reset, channelData);
 	}
 	
+	let joinedSats = joinJSON(satData, launchData, 'satellite');
+	fs.writeFileSync('./final_satelliteData.json', JSON.stringify(joinedSats, null, 2));
+
+	console.log(colors.green + 'Joining Satellite and Launch Data' + colors.reset);
+	console.log(joinedSats);
+
 	console.log(colors.green + 'Scraping complete' + colors.reset);
 
 	await browser.close();

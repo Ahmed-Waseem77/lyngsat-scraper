@@ -1,9 +1,36 @@
-
 //js helper utility functions
-//
-//
-
 const fs = require('fs');
+
+// join two JSON object arrays on a common key
+const joinJSON = (arr1, arr2, key) => {
+    return arr2.map(x => Object.assign(x, arr1.find(y => y.key == x.key)));
+}
+
+function joinJsonArrays(arrayA, arrayB, key) {
+    const resultMap = new Map();
+
+    // Populate resultMap with data from arrayA using the specified key
+    arrayA.forEach(item => resultMap.set(item[key], item));
+
+    // Iterate over arrayB and merge the objects using the specified key
+    arrayB.forEach(item => {
+        const keyVal = item[key];
+        const existingItem = resultMap.get(keyVal);
+        
+        if (existingItem) {
+            // Merge the objects if they share the same key
+            resultMap.set(keyVal, { ...existingItem, ...item });
+        } else {
+            // Add the object to resultMap if it doesn't exist in arrayA
+            resultMap.set(keyVal, item);
+        }
+    });
+
+    // Convert resultMap values back to an array
+    const mergedArray = Array.from(resultMap.values());
+
+    return mergedArray;
+}
 
 
 function appendToJSON(filename, newData, callback) {
@@ -76,5 +103,5 @@ const extractRocket = (str) => {
 	return rocket ? rocket[0] : null;
 }
 
-module.exports = { convertToUrl, extractDate, extractRocket, appendToJSON };
+module.exports = { convertToUrl, extractDate, extractRocket, appendToJSON, joinJSON };
 

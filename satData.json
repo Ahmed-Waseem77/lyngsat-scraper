@@ -2,2197 +2,2197 @@
   {
     "region": "asia",
     "position": "167.0°W",
-    "name": "TDRS 8",
+    "satellite": "TDRS 8",
     "band": null
   },
   {
     "region": "asia",
     "position": "171.0°W",
-    "name": "TDRS 10",
+    "satellite": "TDRS 10",
     "band": null
   },
   {
     "region": "asia",
     "position": "174.0°W",
-    "name": "TDRS 11",
+    "satellite": "TDRS 11",
     "band": null
   },
   {
     "region": "asia",
     "position": "177.0°W",
-    "name": "NSS 9",
+    "satellite": "NSS 9",
     "band": "C"
   },
   {
     "region": "asia",
     "position": "177.0°W",
-    "name": "Yamal 300K",
+    "satellite": "Yamal 300K",
     "band": null
   },
   {
     "region": "asia",
     "position": "180.0°E",
-    "name": "Intelsat 18",
+    "satellite": "Intelsat 18",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "176.0°E",
-    "name": "NSS 11",
+    "satellite": "NSS 11",
     "band": null
   },
   {
     "region": "asia",
     "position": "174.0°E",
-    "name": "Eutelsat 174A",
+    "satellite": "Eutelsat 174A",
     "band": null
   },
   {
     "region": "asia",
     "position": "172.0°E",
-    "name": "Eutelsat 172B",
+    "satellite": "Eutelsat 172B",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "169.0°E",
-    "name": "Horizons 3e",
+    "satellite": "Horizons 3e",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "166.1°E",
-    "name": "Intelsat 5",
+    "satellite": "Intelsat 5",
     "band": null
   },
   {
     "region": "asia",
     "position": "166.0°E",
-    "name": "Luch 5A",
+    "satellite": "Luch 5A",
     "band": null
   },
   {
     "region": "asia",
     "position": "166.0°E",
-    "name": "Intelsat 19",
+    "satellite": "Intelsat 19",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "166.0°E",
-    "name": "Galaxy 11",
+    "satellite": "Galaxy 11",
     "band": null
   },
   {
     "region": "asia",
     "position": "163.5°E",
-    "name": "Yamal 202",
+    "satellite": "Yamal 202",
     "band": null
   },
   {
     "region": "asia",
     "position": "163.0°E",
-    "name": "ChinaSat 19",
+    "satellite": "ChinaSat 19",
     "band": null
   },
   {
     "region": "asia",
     "position": "162.0°E",
-    "name": "Superbird B3",
+    "satellite": "Superbird B3",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "160.0°E",
-    "name": "Optus D2",
+    "satellite": "Optus D2",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "159.0°E",
-    "name": "ABS 6",
+    "satellite": "ABS 6",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "157.0°E",
-    "name": "Intelsat 1R",
+    "satellite": "Intelsat 1R",
     "band": null
   },
   {
     "region": "asia",
     "position": "156.0°E",
-    "name": "Optus C1",
+    "satellite": "Optus C1",
     "band": null
   },
   {
     "region": "asia",
     "position": "156.0°E",
-    "name": "Optus D3",
+    "satellite": "Optus D3",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "156.0°E",
-    "name": "Optus 10",
+    "satellite": "Optus 10",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "155.5°E",
-    "name": "Intelsat 10 (drifting 0.4°W/day)",
+    "satellite": "Intelsat 10 (drifting 0.4°W/day)",
     "band": null
   },
   {
     "region": "asia",
     "position": "154.0°E",
-    "name": "JCSAT 2B",
+    "satellite": "JCSAT 2B",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "152.0°E",
-    "name": "Optus D1",
+    "satellite": "Optus D1",
     "band": null
   },
   {
     "region": "asia",
     "position": "150.5°E",
-    "name": "BRIsat",
+    "satellite": "BRIsat",
     "band": "C"
   },
   {
     "region": "asia",
     "position": "150.0°E",
-    "name": "JCSAT 1C",
+    "satellite": "JCSAT 1C",
     "band": null
   },
   {
     "region": "asia",
     "position": "147.5°E",
-    "name": "AsiaSat 4",
+    "satellite": "AsiaSat 4",
     "band": null
   },
   {
     "region": "asia",
     "position": "146.0°E",
-    "name": "Nusantara Satu",
+    "satellite": "Nusantara Satu",
     "band": "C"
   },
   {
     "region": "asia",
     "position": "145.0°E",
-    "name": "Express AMU7",
+    "satellite": "Express AMU7",
     "band": "C"
   },
   {
     "region": "asia",
     "position": "144.0°E",
-    "name": "JCSAT 16",
+    "satellite": "JCSAT 16",
     "band": null
   },
   {
     "region": "asia",
     "position": "144.0°E",
-    "name": "Superbird C2",
+    "satellite": "Superbird C2",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "142.0°E",
-    "name": "Apstar 9",
+    "satellite": "Apstar 9",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "140.0°E",
-    "name": "Express AM5",
+    "satellite": "Express AM5",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "140.0°E",
-    "name": "Express AT2",
+    "satellite": "Express AT2",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "138.0°E",
-    "name": "Telstar 18 Vantage",
+    "satellite": "Telstar 18 Vantage",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "136.0°E",
-    "name": "JCSAT 17",
+    "satellite": "JCSAT 17",
     "band": null
   },
   {
     "region": "asia",
     "position": "134.0°E",
-    "name": "Apstar 6D",
+    "satellite": "Apstar 6D",
     "band": null
   },
   {
     "region": "asia",
     "position": "134.0°E",
-    "name": "Apstar 6C",
+    "satellite": "Apstar 6C",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "132.0°E",
-    "name": "JCSAT 12",
+    "satellite": "JCSAT 12",
     "band": null
   },
   {
     "region": "asia",
     "position": "132.0°E",
-    "name": "JCSAT 5A",
+    "satellite": "JCSAT 5A",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "132.0°E",
-    "name": "Vinasat 1",
+    "satellite": "Vinasat 1",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "131.8°E",
-    "name": "Vinasat 2",
+    "satellite": "Vinasat 2",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "130.5°E",
-    "name": "ChinaSat 6C",
+    "satellite": "ChinaSat 6C",
     "band": "C"
   },
   {
     "region": "asia",
     "position": "130.0°E",
-    "name": "ChinaSat 1D",
+    "satellite": "ChinaSat 1D",
     "band": null
   },
   {
     "region": "asia",
     "position": "130.0°E",
-    "name": "ChinaSat 2D",
+    "satellite": "ChinaSat 2D",
     "band": null
   },
   {
     "region": "asia",
     "position": "128.5°E",
-    "name": "LaoSat 1",
+    "satellite": "LaoSat 1",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "128.0°E",
-    "name": "JCSAT 3A",
+    "satellite": "JCSAT 3A",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "128.0°E",
-    "name": "Cosmos 2526",
+    "satellite": "Cosmos 2526",
     "band": null
   },
   {
     "region": "asia",
     "position": "125.0°E",
-    "name": "ChinaSat 26",
+    "satellite": "ChinaSat 26",
     "band": null
   },
   {
     "region": "asia",
     "position": "125.0°E",
-    "name": "ChinaSat 6D",
+    "satellite": "ChinaSat 6D",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "124.0°E",
-    "name": "JCSAT 4B",
+    "satellite": "JCSAT 4B",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "122.0°E",
-    "name": "AsiaSat 9",
+    "satellite": "AsiaSat 9",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "121.5°E",
-    "name": "Hylas 1 (drifting west)",
+    "satellite": "Hylas 1 (drifting west)",
     "band": null
   },
   {
     "region": "asia",
     "position": "120.0°E",
-    "name": "AsiaSat 6/Thaicom 7",
+    "satellite": "AsiaSat 6/Thaicom 7",
     "band": "C"
   },
   {
     "region": "asia",
     "position": "119.5°E",
-    "name": "Thaicom 4",
+    "satellite": "Thaicom 4",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "119.1°E",
-    "name": "Bangabandhu 1",
+    "satellite": "Bangabandhu 1",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "118.0°E",
-    "name": "Telkom 3S",
+    "satellite": "Telkom 3S",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "116.0°E",
-    "name": "Koreasat 6",
+    "satellite": "Koreasat 6",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "116.0°E",
-    "name": "Koreasat 7",
+    "satellite": "Koreasat 7",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "115.5°E",
-    "name": "ChinaSat 6B",
+    "satellite": "ChinaSat 6B",
     "band": null
   },
   {
     "region": "asia",
     "position": "115.5°E",
-    "name": "ChinaSat 6E",
+    "satellite": "ChinaSat 6E",
     "band": "C"
   },
   {
     "region": "asia",
     "position": "113.0°E",
-    "name": "Koreasat 5",
+    "satellite": "Koreasat 5",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "113.0°E",
-    "name": "Koreasat 5A",
+    "satellite": "Koreasat 5A",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "113.0°E",
-    "name": "Merah Putih 2",
+    "satellite": "Merah Putih 2",
     "band": null
   },
   {
     "region": "asia",
     "position": "110.5°E",
-    "name": "ChinaSat 10",
+    "satellite": "ChinaSat 10",
     "band": "C"
   },
   {
     "region": "asia",
     "position": "110.5°E",
-    "name": "ChinaSat 16",
+    "satellite": "ChinaSat 16",
     "band": null
   },
   {
     "region": "asia",
     "position": "110.0°E",
-    "name": "BSAT 4B",
+    "satellite": "BSAT 4B",
     "band": null
   },
   {
     "region": "asia",
     "position": "110.0°E",
-    "name": "BSAT 3A",
+    "satellite": "BSAT 3A",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "110.0°E",
-    "name": "BSAT 3C/JCSAT 110R",
+    "satellite": "BSAT 3C/JCSAT 110R",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "110.0°E",
-    "name": "JCSAT 15",
+    "satellite": "JCSAT 15",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "110.0°E",
-    "name": "BSAT 4A",
+    "satellite": "BSAT 4A",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "110.0°E",
-    "name": "BSAT 3B",
+    "satellite": "BSAT 3B",
     "band": null
   },
   {
     "region": "asia",
     "position": "108.2°E",
-    "name": "SES 7",
+    "satellite": "SES 7",
     "band": "SKu"
   },
   {
     "region": "asia",
     "position": "108.2°E",
-    "name": "SES 9",
+    "satellite": "SES 9",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "108.0°E",
-    "name": "Telkom 4",
+    "satellite": "Telkom 4",
     "band": "C"
   },
   {
     "region": "asia",
     "position": "105.5°E",
-    "name": "AsiaSat 7",
+    "satellite": "AsiaSat 7",
     "band": "C"
   },
   {
     "region": "asia",
     "position": "103.5°E",
-    "name": "ChinaSat 2C",
+    "satellite": "ChinaSat 2C",
     "band": null
   },
   {
     "region": "asia",
     "position": "103.0°E",
-    "name": "Express AMU3",
+    "satellite": "Express AMU3",
     "band": "C"
   },
   {
     "region": "asia",
     "position": "101.4°E",
-    "name": "ChinaSat 9B",
+    "satellite": "ChinaSat 9B",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "100.5°E",
-    "name": "AsiaSat 5",
+    "satellite": "AsiaSat 5",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "98.5°E",
-    "name": "ChinaSat 2A",
+    "satellite": "ChinaSat 2A",
     "band": null
   },
   {
     "region": "asia",
     "position": "98.0°E",
-    "name": "ChinaSat 11",
+    "satellite": "ChinaSat 11",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "98.0°E",
-    "name": "ChinaSat 2E",
+    "satellite": "ChinaSat 2E",
     "band": null
   },
   {
     "region": "asia",
     "position": "97.3°E",
-    "name": "G-Sat 9",
+    "satellite": "G-Sat 9",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "96.5°E",
-    "name": "Express 103",
+    "satellite": "Express 103",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "95.0°E",
-    "name": "SES 8",
+    "satellite": "SES 8",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "95.0°E",
-    "name": "SES 12",
+    "satellite": "SES 12",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "93.5°E",
-    "name": "G-Sat 15",
+    "satellite": "G-Sat 15",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "93.5°E",
-    "name": "G-Sat 17",
+    "satellite": "G-Sat 17",
     "band": "C"
   },
   {
     "region": "asia",
     "position": "92.2°E",
-    "name": "ChinaSat 9",
+    "satellite": "ChinaSat 9",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "91.5°E",
-    "name": "Measat 3b",
+    "satellite": "Measat 3b",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "91.5°E",
-    "name": "Measat 3d",
+    "satellite": "Measat 3d",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "91.4°E",
-    "name": "Measat 3a",
+    "satellite": "Measat 3a",
     "band": "C"
   },
   {
     "region": "asia",
     "position": "90.0°E",
-    "name": "Yamal 401",
+    "satellite": "Yamal 401",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "88.0°E",
-    "name": "ST 2",
+    "satellite": "ST 2",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "87.5°E",
-    "name": "ChinaSat 12",
+    "satellite": "ChinaSat 12",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "86.5°E",
-    "name": "KazSat 2",
+    "satellite": "KazSat 2",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "85.2°E",
-    "name": "Intelsat 15",
+    "satellite": "Intelsat 15",
     "band": null
   },
   {
     "region": "asia",
     "position": "84.5°E",
-    "name": "TDRS 7",
+    "satellite": "TDRS 7",
     "band": null
   },
   {
     "region": "asia",
     "position": "83.0°E",
-    "name": "G-Sat 10",
+    "satellite": "G-Sat 10",
     "band": "C"
   },
   {
     "region": "asia",
     "position": "83.0°E",
-    "name": "G-Sat 24",
+    "satellite": "G-Sat 24",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "83.0°E",
-    "name": "G-Sat 30",
+    "satellite": "G-Sat 30",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "83.0°E",
-    "name": "CMS 1",
+    "satellite": "CMS 1",
     "band": null
   },
   {
     "region": "asia",
     "position": "82.0°E",
-    "name": "G-Sat 6",
+    "satellite": "G-Sat 6",
     "band": null
   },
   {
     "region": "asia",
     "position": "82.0°E",
-    "name": "Insat 3D",
+    "satellite": "Insat 3D",
     "band": null
   },
   {
     "region": "asia",
     "position": "81.5°E",
-    "name": "ChinaSat 1E",
+    "satellite": "ChinaSat 1E",
     "band": null
   },
   {
     "region": "asia",
     "position": "80.0°E",
-    "name": "Express 80",
+    "satellite": "Express 80",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "78.5°E",
-    "name": "Thaicom 6",
+    "satellite": "Thaicom 6",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "78.5°E",
-    "name": "Thaicom 8",
+    "satellite": "Thaicom 8",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "76.5°E",
-    "name": "Apstar 7",
+    "satellite": "Apstar 7",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "75.0°E",
-    "name": "ABS 2",
+    "satellite": "ABS 2",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "75.0°E",
-    "name": "ABS 2A",
+    "satellite": "ABS 2A",
     "band": "Ku"
   },
   {
     "region": "asia",
     "position": "74.0°E",
-    "name": "G-Sat 7",
+    "satellite": "G-Sat 7",
     "band": null
   },
   {
     "region": "asia",
     "position": "74.0°E",
-    "name": "G-Sat 14",
+    "satellite": "G-Sat 14",
     "band": null
   },
   {
     "region": "asia",
     "position": "74.0°E",
-    "name": "Insat 3DR",
+    "satellite": "Insat 3DR",
     "band": null
   },
   {
     "region": "asia",
     "position": "74.0°E",
-    "name": "G-Sat 18",
+    "satellite": "G-Sat 18",
     "band": "CKu"
   },
   {
     "region": "asia",
     "position": "74.0°E",
-    "name": "G-Sat 11",
+    "satellite": "G-Sat 11",
     "band": null
   },
   {
     "region": "europe",
     "position": "72.1°E",
-    "name": "Intelsat 22",
+    "satellite": "Intelsat 22",
     "band": "C"
   },
   {
     "region": "europe",
     "position": "70.5°E",
-    "name": "Eutelsat 70B",
+    "satellite": "Eutelsat 70B",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "68.5°E",
-    "name": "Intelsat 20",
+    "satellite": "Intelsat 20",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "68.5°E",
-    "name": "Intelsat 36",
+    "satellite": "Intelsat 36",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "66.0°E",
-    "name": "Intelsat 17",
+    "satellite": "Intelsat 17",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "65.0°E",
-    "name": "Amos 4",
+    "satellite": "Amos 4",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "64.2°E",
-    "name": "Intelsat 906",
+    "satellite": "Intelsat 906",
     "band": null
   },
   {
     "region": "europe",
     "position": "63.0°E",
-    "name": "G-Sat 7A",
+    "satellite": "G-Sat 7A",
     "band": null
   },
   {
     "region": "europe",
     "position": "62.0°E",
-    "name": "Intelsat 39",
+    "satellite": "Intelsat 39",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "61.0°E",
-    "name": "ABS 4",
+    "satellite": "ABS 4",
     "band": null
   },
   {
     "region": "europe",
     "position": "60.0°E",
-    "name": "Intelsat 33e",
+    "satellite": "Intelsat 33e",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "58.5°E",
-    "name": "KazSat 3",
+    "satellite": "KazSat 3",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "57.2°E",
-    "name": "Astra 2A",
+    "satellite": "Astra 2A",
     "band": null
   },
   {
     "region": "europe",
     "position": "57.0°E",
-    "name": "NSS 12",
+    "satellite": "NSS 12",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "56.0°E",
-    "name": "Express AT1",
+    "satellite": "Express AT1",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "55.0°E",
-    "name": "G-Sat 29",
+    "satellite": "G-Sat 29",
     "band": null
   },
   {
     "region": "europe",
     "position": "55.0°E",
-    "name": "G-Sat 16",
+    "satellite": "G-Sat 16",
     "band": null
   },
   {
     "region": "europe",
     "position": "55.0°E",
-    "name": "G-Sat 8",
+    "satellite": "G-Sat 8",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "54.9°E",
-    "name": "Yamal 402",
+    "satellite": "Yamal 402",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "53.0°E",
-    "name": "Express AM6",
+    "satellite": "Express AM6",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "52.5°E",
-    "name": "Al Yah 1",
+    "satellite": "Al Yah 1",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "52.0°E",
-    "name": "TurkmenÄlem/MonacoSat",
+    "satellite": "TurkmenÄlem/MonacoSat",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "51.5°E",
-    "name": "Belintersat 1",
+    "satellite": "Belintersat 1",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "50.0°E",
-    "name": "Türksat 4B",
+    "satellite": "Türksat 4B",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "49.0°E",
-    "name": "Yamal 601",
+    "satellite": "Yamal 601",
     "band": "C"
   },
   {
     "region": "europe",
     "position": "48.0°E",
-    "name": "G-Sat 31",
+    "satellite": "G-Sat 31",
     "band": null
   },
   {
     "region": "europe",
     "position": "48.0°E",
-    "name": "G-Sat 19",
+    "satellite": "G-Sat 19",
     "band": null
   },
   {
     "region": "europe",
     "position": "48.0°E",
-    "name": "Eutelsat Quantum",
+    "satellite": "Eutelsat Quantum",
     "band": null
   },
   {
     "region": "europe",
     "position": "47.5°E",
-    "name": "Al Yah 2",
+    "satellite": "Al Yah 2",
     "band": null
   },
   {
     "region": "europe",
     "position": "46.0°E",
-    "name": "Azerspace 1",
+    "satellite": "Azerspace 1",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "45.1°E",
-    "name": "Azerspace 2/Intelsat 38",
+    "satellite": "Azerspace 2/Intelsat 38",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "45.0°E",
-    "name": "Cosmos 2520",
+    "satellite": "Cosmos 2520",
     "band": "C"
   },
   {
     "region": "europe",
     "position": "42.5°E",
-    "name": "NigComSat 1R",
+    "satellite": "NigComSat 1R",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "42.0°E",
-    "name": "Türksat 3A",
+    "satellite": "Türksat 3A",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "42.0°E",
-    "name": "Türksat 4A",
+    "satellite": "Türksat 4A",
     "band": "KuKa"
   },
   {
     "region": "europe",
     "position": "42.0°E",
-    "name": "Türksat 5B",
+    "satellite": "Türksat 5B",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "40.0°E",
-    "name": "Express AM7",
+    "satellite": "Express AM7",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "39.0°E",
-    "name": "Hellas Sat 3",
+    "satellite": "Hellas Sat 3",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "39.0°E",
-    "name": "Hellas Sat 4",
+    "satellite": "Hellas Sat 4",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "38.0°E",
-    "name": "Paksat 1R",
+    "satellite": "Paksat 1R",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "36.1°E",
-    "name": "Express AMU1",
+    "satellite": "Express AMU1",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "35.9°E",
-    "name": "Eutelsat 36B",
+    "satellite": "Eutelsat 36B",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "33.0°E",
-    "name": "Eutelsat 33F",
+    "satellite": "Eutelsat 33F",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "32.9°E",
-    "name": "Intelsat 28",
+    "satellite": "Intelsat 28",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "32.9°E",
-    "name": "Galaxy 14",
+    "satellite": "Galaxy 14",
     "band": null
   },
   {
     "region": "europe",
     "position": "31.0°E",
-    "name": "Hylas 2",
+    "satellite": "Hylas 2",
     "band": null
   },
   {
     "region": "europe",
     "position": "31.0°E",
-    "name": "Türksat 5A",
+    "satellite": "Türksat 5A",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "30.5°E",
-    "name": "Arabsat 5A",
+    "satellite": "Arabsat 5A",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "30.5°E",
-    "name": "Arabsat 6A",
+    "satellite": "Arabsat 6A",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "28.5°E",
-    "name": "Astra 2E",
+    "satellite": "Astra 2E",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "28.2°E",
-    "name": "Astra 2F",
+    "satellite": "Astra 2F",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "28.2°E",
-    "name": "Astra 2G",
+    "satellite": "Astra 2G",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "26.0°E",
-    "name": "Badr 6",
+    "satellite": "Badr 6",
     "band": null
   },
   {
     "region": "europe",
     "position": "26.0°E",
-    "name": "Badr 4",
+    "satellite": "Badr 4",
     "band": null
   },
   {
     "region": "europe",
     "position": "26.0°E",
-    "name": "Badr 5",
+    "satellite": "Badr 5",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "26.0°E",
-    "name": "Badr 7",
+    "satellite": "Badr 7",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "26.0°E",
-    "name": "Badr 8",
+    "satellite": "Badr 8",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "25.8°E",
-    "name": "Es'hail 2",
+    "satellite": "Es'hail 2",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "25.5°E",
-    "name": "Es'hail 1",
+    "satellite": "Es'hail 1",
     "band": "KuKa"
   },
   {
     "region": "europe",
     "position": "23.5°E",
-    "name": "Astra 3B",
+    "satellite": "Astra 3B",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "23.5°E",
-    "name": "Astra 3C",
+    "satellite": "Astra 3C",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "23.0°E",
-    "name": "Angosat 2",
+    "satellite": "Angosat 2",
     "band": null
   },
   {
     "region": "europe",
     "position": "21.5°E",
-    "name": "SES 16/GovSat 1",
+    "satellite": "SES 16/GovSat 1",
     "band": null
   },
   {
     "region": "europe",
     "position": "21.5°E",
-    "name": "Eutelsat 21B",
+    "satellite": "Eutelsat 21B",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "21.5°E",
-    "name": "EDRS C",
+    "satellite": "EDRS C",
     "band": null
   },
   {
     "region": "europe",
     "position": "20.0°E",
-    "name": "Arabsat 5C",
+    "satellite": "Arabsat 5C",
     "band": "C"
   },
   {
     "region": "europe",
     "position": "19.2°E",
-    "name": "Astra 1KR",
+    "satellite": "Astra 1KR",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "19.2°E",
-    "name": "Astra 1L",
+    "satellite": "Astra 1L",
     "band": "KuKa"
   },
   {
     "region": "europe",
     "position": "19.2°E",
-    "name": "Astra 1M",
+    "satellite": "Astra 1M",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "19.2°E",
-    "name": "Astra 1N",
+    "satellite": "Astra 1N",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "19.0°E",
-    "name": "AMC 14",
+    "satellite": "AMC 14",
     "band": null
   },
   {
     "region": "europe",
     "position": "17.0°E",
-    "name": "Amos 17",
+    "satellite": "Amos 17",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "16.0°E",
-    "name": "Eutelsat 16A",
+    "satellite": "Eutelsat 16A",
     "band": "KuKa"
   },
   {
     "region": "europe",
     "position": "13.0°E",
-    "name": "Hotbird 13F",
+    "satellite": "Hotbird 13F",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "13.0°E",
-    "name": "Hotbird 13G",
+    "satellite": "Hotbird 13G",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "12.8°E",
-    "name": "Hotbird 13E",
+    "satellite": "Hotbird 13E",
     "band": null
   },
   {
     "region": "europe",
     "position": "10.2°E",
-    "name": "EchoStar 21",
+    "satellite": "EchoStar 21",
     "band": null
   },
   {
     "region": "europe",
     "position": "10.0°E",
-    "name": "Eutelsat 10B",
+    "satellite": "Eutelsat 10B",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "9.0°E",
-    "name": "Eutelsat Ka-Sat 9A",
+    "satellite": "Eutelsat Ka-Sat 9A",
     "band": "Ka"
   },
   {
     "region": "europe",
     "position": "9.0°E",
-    "name": "Eutelsat 9B",
+    "satellite": "Eutelsat 9B",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "7.2°E",
-    "name": "Eutelsat Konnect",
+    "satellite": "Eutelsat Konnect",
     "band": null
   },
   {
     "region": "europe",
     "position": "7.0°E",
-    "name": "Eutelsat 7B",
+    "satellite": "Eutelsat 7B",
     "band": "KuKa"
   },
   {
     "region": "europe",
     "position": "7.0°E",
-    "name": "Eutelsat 7C",
+    "satellite": "Eutelsat 7C",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "5.0°E",
-    "name": "SES 5",
+    "satellite": "SES 5",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "4.8°E",
-    "name": "Astra 4A",
+    "satellite": "Astra 4A",
     "band": "Ku"
   },
   {
     "region": "europe",
     "position": "3.1°E",
-    "name": "Eutelsat 3B",
+    "satellite": "Eutelsat 3B",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "2.8°E",
-    "name": "Rascom QAF 1R",
+    "satellite": "Rascom QAF 1R",
     "band": "CKu"
   },
   {
     "region": "europe",
     "position": "2.7°E",
-    "name": "Eutelsat Konnect VHTS",
+    "satellite": "Eutelsat Konnect VHTS",
     "band": null
   },
   {
     "region": "europe",
     "position": "1.9°E",
-    "name": "BulgariaSat 1",
+    "satellite": "BulgariaSat 1",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "0.6°W",
-    "name": "Thor 7",
+    "satellite": "Thor 7",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "0.8°W",
-    "name": "Thor 5",
+    "satellite": "Thor 5",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "0.8°W",
-    "name": "Thor 6",
+    "satellite": "Thor 6",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "1.0°W",
-    "name": "Intelsat 10-02",
+    "satellite": "Intelsat 10-02",
     "band": "CKu"
   },
   {
     "region": "atlantic",
     "position": "3.0°W",
-    "name": "ABS 3A",
+    "satellite": "ABS 3A",
     "band": "CKu"
   },
   {
     "region": "atlantic",
     "position": "3.9°W",
-    "name": "Amos 7",
+    "satellite": "Amos 7",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "4.0°W",
-    "name": "Amos 3",
+    "satellite": "Amos 3",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "5.0°W",
-    "name": "Eutelsat 5 West B",
+    "satellite": "Eutelsat 5 West B",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "7.0°W",
-    "name": "Nilesat 201",
+    "satellite": "Nilesat 201",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "7.0°W",
-    "name": "Nilesat 301",
+    "satellite": "Nilesat 301",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "7.3°W",
-    "name": "Eutelsat 7 West A",
+    "satellite": "Eutelsat 7 West A",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "8.0°W",
-    "name": "Eutelsat 8 West B",
+    "satellite": "Eutelsat 8 West B",
     "band": "CKu"
   },
   {
     "region": "atlantic",
     "position": "10.0°W",
-    "name": "Hellas Sat 2",
+    "satellite": "Hellas Sat 2",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "11.0°W",
-    "name": "Express AM44",
+    "satellite": "Express AM44",
     "band": "C"
   },
   {
     "region": "atlantic",
     "position": "12.0°W",
-    "name": "TDRS 13",
+    "satellite": "TDRS 13",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "12.5°W",
-    "name": "Eutelsat 12 West G",
+    "satellite": "Eutelsat 12 West G",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "14.0°W",
-    "name": "Express AM8",
+    "satellite": "Express AM8",
     "band": "CKu"
   },
   {
     "region": "atlantic",
     "position": "15.0°W",
-    "name": "Telstar 12 Vantage",
+    "satellite": "Telstar 12 Vantage",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "16.0°W",
-    "name": "Luch 5B",
+    "satellite": "Luch 5B",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "18.0°W",
-    "name": "Intelsat 37e",
+    "satellite": "Intelsat 37e",
     "band": "CKu"
   },
   {
     "region": "atlantic",
     "position": "20.0°W",
-    "name": "Al Yah 3",
+    "satellite": "Al Yah 3",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "22.0°W",
-    "name": "SES 4",
+    "satellite": "SES 4",
     "band": "CKu"
   },
   {
     "region": "atlantic",
     "position": "24.5°W",
-    "name": "Intelsat 905",
+    "satellite": "Intelsat 905",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "24.8°W",
-    "name": "Alcomsat 1",
+    "satellite": "Alcomsat 1",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "27.5°W",
-    "name": "Intelsat 9 (drifting east)",
+    "satellite": "Intelsat 9 (drifting east)",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "27.5°W",
-    "name": "Intelsat 901",
+    "satellite": "Intelsat 901",
     "band": "CKu"
   },
   {
     "region": "atlantic",
     "position": "29.5°W",
-    "name": "Intelsat 904",
+    "satellite": "Intelsat 904",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "30.0°W",
-    "name": "Hispasat 30W-5",
+    "satellite": "Hispasat 30W-5",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "30.0°W",
-    "name": "Hispasat 30W-6",
+    "satellite": "Hispasat 30W-6",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "30.0°W",
-    "name": "SpainSat",
+    "satellite": "SpainSat",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "31.5°W",
-    "name": "Intelsat 25",
+    "satellite": "Intelsat 25",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "33.5°W",
-    "name": "Hylas 4",
+    "satellite": "Hylas 4",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "34.5°W",
-    "name": "Intelsat 35e",
+    "satellite": "Intelsat 35e",
     "band": "CKu"
   },
   {
     "region": "atlantic",
     "position": "36.0°W",
-    "name": "Hispasat 36W-1",
+    "satellite": "Hispasat 36W-1",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "37.4°W",
-    "name": "NSS 10",
+    "satellite": "NSS 10",
     "band": "C"
   },
   {
     "region": "atlantic",
     "position": "37.6°W",
-    "name": "Telstar 11N",
+    "satellite": "Telstar 11N",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "40.5°W",
-    "name": "SES 6",
+    "satellite": "SES 6",
     "band": "CKu"
   },
   {
     "region": "atlantic",
     "position": "41.0°W",
-    "name": "TDRS 12",
+    "satellite": "TDRS 12",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "42.8°W",
-    "name": "WGS 3",
+    "satellite": "WGS 3",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "43.1°W",
-    "name": "Intelsat 11",
+    "satellite": "Intelsat 11",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "43.1°W",
-    "name": "Sky Brasil 1",
+    "satellite": "Sky Brasil 1",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "45.0°W",
-    "name": "Intelsat 14",
+    "satellite": "Intelsat 14",
     "band": "CKu"
   },
   {
     "region": "atlantic",
     "position": "46.0°W",
-    "name": "TDRS 6",
+    "satellite": "TDRS 6",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "47.5°W",
-    "name": "SES 14",
+    "satellite": "SES 14",
     "band": "C"
   },
   {
     "region": "atlantic",
     "position": "50.0°W",
-    "name": "TDRS 3",
+    "satellite": "TDRS 3",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "50.1°W",
-    "name": "Intelsat 902",
+    "satellite": "Intelsat 902",
     "band": null
   },
   {
     "region": "atlantic",
     "position": "53.0°W",
-    "name": "Intelsat 23",
+    "satellite": "Intelsat 23",
     "band": "CKu"
   },
   {
     "region": "atlantic",
     "position": "55.5°W",
-    "name": "Intelsat 34",
+    "satellite": "Intelsat 34",
     "band": "C"
   },
   {
     "region": "atlantic",
     "position": "58.0°W",
-    "name": "Intelsat 21",
+    "satellite": "Intelsat 21",
     "band": "CKu"
   },
   {
     "region": "atlantic",
     "position": "61.0°W",
-    "name": "Amazonas 2",
+    "satellite": "Amazonas 2",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "61.0°W",
-    "name": "Amazonas 3",
+    "satellite": "Amazonas 3",
     "band": "CKu"
   },
   {
     "region": "atlantic",
     "position": "61.0°W",
-    "name": "Amazonas 5",
+    "satellite": "Amazonas 5",
     "band": "Ku"
   },
   {
     "region": "atlantic",
     "position": "61.0°W",
-    "name": "Amazonas Nexus",
+    "satellite": "Amazonas Nexus",
     "band": null
   },
   {
     "region": "america",
     "position": "61.4°W",
-    "name": "EchoStar 18",
+    "satellite": "EchoStar 18",
     "band": null
   },
   {
     "region": "america",
     "position": "61.5°W",
-    "name": "EchoStar 15",
+    "satellite": "EchoStar 15",
     "band": null
   },
   {
     "region": "america",
     "position": "61.5°W",
-    "name": "EchoStar 16",
+    "satellite": "EchoStar 16",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "63.0°W",
-    "name": "Telstar 14R",
+    "satellite": "Telstar 14R",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "63.0°W",
-    "name": "Telstar 19 Vantage",
+    "satellite": "Telstar 19 Vantage",
     "band": null
   },
   {
     "region": "america",
     "position": "65.0°W",
-    "name": "Star One C2",
+    "satellite": "Star One C2",
     "band": "C"
   },
   {
     "region": "america",
     "position": "65.2°W",
-    "name": "Eutelsat 65 West A",
+    "satellite": "Eutelsat 65 West A",
     "band": "CKu"
   },
   {
     "region": "america",
     "position": "67.0°W",
-    "name": "SES 10",
+    "satellite": "SES 10",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "67.1°W",
-    "name": "SES 17",
+    "satellite": "SES 17",
     "band": null
   },
   {
     "region": "america",
     "position": "69.9°W",
-    "name": "ViaSat 2",
+    "satellite": "ViaSat 2",
     "band": null
   },
   {
     "region": "america",
     "position": "70.0°W",
-    "name": "Star One C4",
+    "satellite": "Star One C4",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "70.0°W",
-    "name": "Star One D2",
+    "satellite": "Star One D2",
     "band": "CKu"
   },
   {
     "region": "america",
     "position": "71.8°W",
-    "name": "Arsat 1",
+    "satellite": "Arsat 1",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "72.0°W",
-    "name": "AMC 3",
+    "satellite": "AMC 3",
     "band": null
   },
   {
     "region": "america",
     "position": "72.5°W",
-    "name": "Astra 2C",
+    "satellite": "Astra 2C",
     "band": null
   },
   {
     "region": "america",
     "position": "72.7°W",
-    "name": "Nimiq 5",
+    "satellite": "Nimiq 5",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "73.0°W",
-    "name": "ChinaSat 9A (drifting west)",
+    "satellite": "ChinaSat 9A (drifting west)",
     "band": null
   },
   {
     "region": "america",
     "position": "73.8°W",
-    "name": "Horizons 2",
+    "satellite": "Horizons 2",
     "band": null
   },
   {
     "region": "america",
     "position": "73.9°W",
-    "name": "Hispasat 74W-1",
+    "satellite": "Hispasat 74W-1",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "75.0°W",
-    "name": "SGDC",
+    "satellite": "SGDC",
     "band": null
   },
   {
     "region": "america",
     "position": "75.0°W",
-    "name": "Star One C3",
+    "satellite": "Star One C3",
     "band": "C"
   },
   {
     "region": "america",
     "position": "76.2°W",
-    "name": "Intelsat 16",
+    "satellite": "Intelsat 16",
     "band": null
   },
   {
     "region": "america",
     "position": "77.0°W",
-    "name": "QuetzSat 1",
+    "satellite": "QuetzSat 1",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "78.8°W",
-    "name": "Sky Mexico 1",
+    "satellite": "Sky Mexico 1",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "81.0°W",
-    "name": "Arsat 2",
+    "satellite": "Arsat 2",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "82.0°W",
-    "name": "Nimiq 4",
+    "satellite": "Nimiq 4",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "84.0°W",
-    "name": "Star One D1",
+    "satellite": "Star One D1",
     "band": "C"
   },
   {
     "region": "america",
     "position": "84.0°W",
-    "name": "Sirius XM 8",
+    "satellite": "Sirius XM 8",
     "band": null
   },
   {
     "region": "america",
     "position": "85.0°W",
-    "name": "Galaxy 17",
+    "satellite": "Galaxy 17",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "85.1°W",
-    "name": "XM 3",
+    "satellite": "XM 3",
     "band": "S"
   },
   {
     "region": "america",
     "position": "85.2°W",
-    "name": "Sirius XM 7",
+    "satellite": "Sirius XM 7",
     "band": null
   },
   {
     "region": "america",
     "position": "86.2°W",
-    "name": "Sirius FM 5",
+    "satellite": "Sirius FM 5",
     "band": null
   },
   {
     "region": "america",
     "position": "87.0°W",
-    "name": "SES 2",
+    "satellite": "SES 2",
     "band": "CKu"
   },
   {
     "region": "america",
     "position": "87.2°W",
-    "name": "TKSat 1",
+    "satellite": "TKSat 1",
     "band": "CKu"
   },
   {
     "region": "america",
     "position": "88.5°W",
-    "name": "ABS 7 (drifting west)",
+    "satellite": "ABS 7 (drifting west)",
     "band": null
   },
   {
     "region": "america",
     "position": "88.9°W",
-    "name": "ViaSat 3 Americas",
+    "satellite": "ViaSat 3 Americas",
     "band": null
   },
   {
     "region": "america",
     "position": "89.0°W",
-    "name": "Galaxy 28",
+    "satellite": "Galaxy 28",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "89.0°W",
-    "name": "Galaxy 36",
+    "satellite": "Galaxy 36",
     "band": "C"
   },
   {
     "region": "america",
     "position": "91.0°W",
-    "name": "Intelsat 40e",
+    "satellite": "Intelsat 40e",
     "band": null
   },
   {
     "region": "america",
     "position": "91.0°W",
-    "name": "Galaxy 32",
+    "satellite": "Galaxy 32",
     "band": "C"
   },
   {
     "region": "america",
     "position": "91.1°W",
-    "name": "Nimiq 6",
+    "satellite": "Nimiq 6",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "93.1°W",
-    "name": "Galaxy 35",
+    "satellite": "Galaxy 35",
     "band": "C"
   },
   {
     "region": "america",
     "position": "94.9°W",
-    "name": "Galaxy 3C",
+    "satellite": "Galaxy 3C",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "95.0°W",
-    "name": "Intelsat 31",
+    "satellite": "Intelsat 31",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "95.1°W",
-    "name": "Intelsat 30",
+    "satellite": "Intelsat 30",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "95.2°W",
-    "name": "Jupiter 3/EchoStar 24",
+    "satellite": "Jupiter 3/EchoStar 24",
     "band": null
   },
   {
     "region": "america",
     "position": "95.4°W",
-    "name": "Eutelsat 33E",
+    "satellite": "Eutelsat 33E",
     "band": null
   },
   {
     "region": "america",
     "position": "97.0°W",
-    "name": "Galaxy 19",
+    "satellite": "Galaxy 19",
     "band": "CKu"
   },
   {
     "region": "america",
     "position": "97.1°W",
-    "name": "EchoStar 19",
+    "satellite": "EchoStar 19",
     "band": null
   },
   {
     "region": "america",
     "position": "99.0°W",
-    "name": "Galaxy 16",
+    "satellite": "Galaxy 16",
     "band": "CKu"
   },
   {
     "region": "america",
     "position": "99.2°W",
-    "name": "T11",
+    "satellite": "T11",
     "band": null
   },
   {
     "region": "america",
     "position": "99.2°W",
-    "name": "T14",
+    "satellite": "T14",
     "band": null
   },
   {
     "region": "america",
     "position": "100.5°W",
-    "name": "TDRS 5 (drifting 1.4°E/day)",
+    "satellite": "TDRS 5 (drifting 1.4°E/day)",
     "band": null
   },
   {
     "region": "america",
     "position": "100.8°W",
-    "name": "T16",
+    "satellite": "T16",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "101.0°W",
-    "name": "SES 1",
+    "satellite": "SES 1",
     "band": "CKu"
   },
   {
     "region": "america",
     "position": "101.1°W",
-    "name": "T9S",
+    "satellite": "T9S",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "102.6°W",
-    "name": "T10",
+    "satellite": "T10",
     "band": null
   },
   {
     "region": "america",
     "position": "102.8°W",
-    "name": "T12",
+    "satellite": "T12",
     "band": null
   },
   {
     "region": "america",
     "position": "103.0°W",
-    "name": "T15",
+    "satellite": "T15",
     "band": null
   },
   {
     "region": "america",
     "position": "103.0°W",
-    "name": "SES 3",
+    "satellite": "SES 3",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "103.0°W",
-    "name": "SES 18",
+    "satellite": "SES 18",
     "band": "C"
   },
   {
     "region": "america",
     "position": "103.5°W",
-    "name": "SES 20",
+    "satellite": "SES 20",
     "band": null
   },
   {
     "region": "america",
     "position": "105.0°W",
-    "name": "AMC 15",
+    "satellite": "AMC 15",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "105.0°W",
-    "name": "EchoStar 105/SES 11",
+    "satellite": "EchoStar 105/SES 11",
     "band": "CKu"
   },
   {
     "region": "america",
     "position": "107.1°W",
-    "name": "EchoStar 17",
+    "satellite": "EchoStar 17",
     "band": null
   },
   {
     "region": "america",
     "position": "107.3°W",
-    "name": "Anik F1R",
+    "satellite": "Anik F1R",
     "band": "C"
   },
   {
     "region": "america",
     "position": "107.3°W",
-    "name": "Anik G1",
+    "satellite": "Anik G1",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "109.2°W",
-    "name": "Nimiq 2",
+    "satellite": "Nimiq 2",
     "band": null
   },
   {
     "region": "america",
     "position": "109.3°W",
-    "name": "Anik F1",
+    "satellite": "Anik F1",
     "band": null
   },
   {
     "region": "america",
     "position": "109.9°W",
-    "name": "EchoStar 23",
+    "satellite": "EchoStar 23",
     "band": null
   },
   {
     "region": "america",
     "position": "109.8°W",
-    "name": "T5",
+    "satellite": "T5",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "110.0°W",
-    "name": "EchoStar 10",
+    "satellite": "EchoStar 10",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "110.0°W",
-    "name": "EchoStar 11",
+    "satellite": "EchoStar 11",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "111.0°W",
-    "name": "WildBlue 1",
+    "satellite": "WildBlue 1",
     "band": null
   },
   {
     "region": "america",
     "position": "111.1°W",
-    "name": "Anik F2",
+    "satellite": "Anik F2",
     "band": "CKa"
   },
   {
     "region": "america",
     "position": "111.1°W",
-    "name": "TerreStar 1",
+    "satellite": "TerreStar 1",
     "band": null
   },
   {
     "region": "america",
     "position": "111.1°W",
-    "name": "Anik F4",
+    "satellite": "Anik F4",
     "band": null
   },
   {
     "region": "america",
     "position": "113.0°W",
-    "name": "Morelos 3",
+    "satellite": "Morelos 3",
     "band": null
   },
   {
     "region": "america",
     "position": "114.8°W",
-    "name": "Mexsat Bicentenario",
+    "satellite": "Mexsat Bicentenario",
     "band": null
   },
   {
     "region": "america",
     "position": "114.9°W",
-    "name": "Eutelsat 115 West B",
+    "satellite": "Eutelsat 115 West B",
     "band": "CKu"
   },
   {
     "region": "america",
     "position": "115.1°W",
-    "name": "ViaSat 1",
+    "satellite": "ViaSat 1",
     "band": null
   },
   {
     "region": "america",
     "position": "115.2°W",
-    "name": "Sirius XM 5",
+    "satellite": "Sirius XM 5",
     "band": "S"
   },
   {
     "region": "america",
     "position": "116.0°W",
-    "name": "Sirius FM 6",
+    "satellite": "Sirius FM 6",
     "band": null
   },
   {
     "region": "america",
     "position": "116.8°W",
-    "name": "Eutelsat 117 West A",
+    "satellite": "Eutelsat 117 West A",
     "band": "CKu"
   },
   {
     "region": "america",
     "position": "117.0°W",
-    "name": "Eutelsat 117 West B",
+    "satellite": "Eutelsat 117 West B",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "118.8°W",
-    "name": "Anik F3",
+    "satellite": "Anik F3",
     "band": "CKu"
   },
   {
     "region": "america",
     "position": "119.0°W",
-    "name": "T8",
+    "satellite": "T8",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "119.0°W",
-    "name": "EchoStar 14",
+    "satellite": "EchoStar 14",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "119.5°W",
-    "name": "Eutelsat 113 West A (drifting west)",
+    "satellite": "Eutelsat 113 West A (drifting west)",
     "band": null
   },
   {
     "region": "america",
     "position": "121.0°W",
-    "name": "EchoStar 9/Galaxy 23",
+    "satellite": "EchoStar 9/Galaxy 23",
     "band": null
   },
   {
     "region": "america",
     "position": "121.0°W",
-    "name": "Galaxy 31",
+    "satellite": "Galaxy 31",
     "band": "C"
   },
   {
     "region": "america",
     "position": "123.0°W",
-    "name": "Galaxy 18",
+    "satellite": "Galaxy 18",
     "band": "CKu"
   },
   {
     "region": "america",
     "position": "124.9°W",
-    "name": "AMC 21",
+    "satellite": "AMC 21",
     "band": null
   },
   {
     "region": "america",
     "position": "125.0°W",
-    "name": "Galaxy 30",
+    "satellite": "Galaxy 30",
     "band": "C"
   },
   {
     "region": "america",
     "position": "127.0°W",
-    "name": "Galaxy 37/Horizons 4",
+    "satellite": "Galaxy 37/Horizons 4",
     "band": "C"
   },
   {
     "region": "america",
     "position": "129.0°W",
-    "name": "SES 15",
+    "satellite": "SES 15",
     "band": "Ku"
   },
   {
     "region": "america",
     "position": "129.0°W",
-    "name": "Galaxy 34",
+    "satellite": "Galaxy 34",
     "band": null
   },
   {
     "region": "america",
     "position": "131.0°W",
-    "name": "SES 21",
+    "satellite": "SES 21",
     "band": "C"
   },
   {
     "region": "america",
     "position": "133.0°W",
-    "name": "Galaxy 33",
+    "satellite": "Galaxy 33",
     "band": "CKu"
   },
   {
     "region": "america",
     "position": "135.0°W",
-    "name": "SES 22",
+    "satellite": "SES 22",
     "band": "C"
   },
   {
     "region": "america",
     "position": "135.0°W",
-    "name": "SES 19",
+    "satellite": "SES 19",
     "band": null
   },
   {
     "region": "america",
     "position": "138.9°W",
-    "name": "Spaceway 2",
+    "satellite": "Spaceway 2",
     "band": null
   },
   {
     "region": "america",
     "position": "139.0°W",
-    "name": "AMC 6",
+    "satellite": "AMC 6",
     "band": "C"
   },
   {
     "region": "america",
     "position": "139.2°W",
-    "name": "Eutelsat 139 West A",
+    "satellite": "Eutelsat 139 West A",
     "band": null
   },
   {
     "region": "america",
     "position": "150.0°W",
-    "name": "Galaxy 13/Horizons 1",
+    "satellite": "Galaxy 13/Horizons 1",
     "band": null
   }
 ]
