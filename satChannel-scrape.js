@@ -94,12 +94,19 @@ const satChannelExtractor = async (satellite, channelName, page) => {
 				if (satelliteText === 'Satellite') { continue; }
 
         const beam = await cells[2]?.getProperty('textContent') || null;
+				if (beam === null) { continue; }
         const freq = await cells[3]?.getProperty('textContent') || null;
+				if (freq === null) { continue; }
         const system = await cells[4]?.getProperty('textContent') || null;
+				if (system === null) { continue; }
         const SRFEC = await cells[5]?.getProperty('textContent');
+				if (SRFEC === null) { continue; }
         const video = await cells[6]?.getProperty('textContent');
+				if (video === null) { continue; }
         const lang = await cells[7]?.getProperty('textContent');
+				if (lang === null) { continue; }
         const encryption = await cells[8]?.getProperty('textContent');
+				if (encryption === null) { continue; }
 
         const beamText = await beam.jsonValue();
         const freqText = await freq.jsonValue();
