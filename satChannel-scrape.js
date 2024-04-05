@@ -229,7 +229,7 @@ const satChannelsScrape = async (browser, satellites, url) => {
 						tvChannelName: tvChannelName,
 						tvChannelLogo: tvChannelLogoElements.length > 0 ? await page.evaluate(el => el.src, tvChannelLogoElements[0]) : null,
 						tvChannelWebsite: tvChannelWebsiteElements.length > 0 ? await page.evaluate(el => el.href, tvChannelWebsiteElements[0]) : null,
-						tvChannelCountry: tvChannelCountryElements.length > 0 ? await page.evaluate(el => el.href, tvChannelCountryElements[0]) : null
+						tvChannelCountry: tvChannelCountryElements.length > 0 ? await page.evaluate(el => el.textContent, tvChannelCountryElements[0]) : null
 					};
 
 					console.log(tvChannelData);
@@ -241,7 +241,7 @@ const satChannelsScrape = async (browser, satellites, url) => {
 	}	
 
 	await page.close();
-	return satChannelDataObjArray;
+	return { providerDataObjArray, tvChannelDataObjArray, satChannelDataObjArray };
 };
 
 
