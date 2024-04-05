@@ -77,34 +77,38 @@ const linkScraperAndFilter = async (browser, page, url) => {
 }
 
 
-const satChannelExtractor = async (page, satellite, channelName) => {
-	const tvChannelSelector	= 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(2) > tbody > tr:nth-child(1) > td > font > b > font';
-	//tbody selector 
-	const tbodySelector = 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(12) > tbody';
-	const tbodyElements = await page.$$(tbodySelector);
-
-	//filter tr rows having 11 tds
-	const trElements = await page.$$('tr');
-	const trFiltered = trElements.filter(async tr => {
-		const tdElements = await tr.$$('td');
-		return tdElements.length === 11;
-	});
-
-	//extract data from tr rows
-	return {
-		channelName:	channelName,
-		satellite:		satellite,
-		beam:					trFiltered[2].split('\n').map(beam => beam.trim()).filter(beam => beam !== '')[0] || null,
-		EIRP:					trFiltered[2].split('\n').map(eirp => eirp.trim()).filter(eirp => eirp !== '')[1] || null, 
-		frequency:		trFiltered[3],
-		system:				trFiltered[4],
-		SRFEC:				trFiltered[5],
-		video:				trFiltered[6],
-		language:			trFiltered[7].split('\n').map(lang => lang.trim()).filter(lang => lang !== ''),
-		encryption: 	trFiltered[8],
-	}		
+const satChannelExtractor = async (satellite, channelName, page) => {
 	
-	
+	filteredTable = [];
+	const tables = await page.$$('table');
+
+	const firstRow = await tables[0].$('tr:first-child');
+	if (firstRow) {
+		const firstRowText = await page.evaluate(row => row.innerText, firstRow);
+		if (firstRowText.includes('last updated')) {
+			filteredTable = tables[0];
+		}
+	}
+
+	const relationsObjsArray = [];
+	const rows = await filteredTable.$$('tr');
+	for (let row of rows) {
+		cols = await row.$$('td');
+		relationsObjsArray.push({
+			satellite: satellite,
+			channelName: channelName,
+			beam: cols[2],
+			EIRP: cols[2],
+			frequency: cols[3],
+			system: cols[4],
+			SRFEC: cols[5],
+			video: cols[6],
+			language: cols[7],
+			encryption: cols[8]
+		});
+	}
+
+	return relationsObjsArray;
 }
 
 
@@ -184,14 +188,14 @@ const satChannelsScrape = async (browser, satellites, url) => {
 					if (tvChannel === null) { continue; }
 					await page.goto(tvChannel);
 
-					//call satChannelRelationship function
-					const tvChannelName = tvChannelElements.length > 0 ? await page.evaluate(el => el.innerText, tvChannelElements[0]) : null;
-					satChannelDataObjArray.push(satChannelExtractor(satellite[i],  ,page));
-				
 					const tvChannelElements					= await page.$$(tvChannelSelector);
 					const tvChannelLogoElements 		= await page.$$(tvChannelLogoSelector);
 					const tvChannelWebsiteElements	= await page.$$(tvChannelWebsiteSelector);
 					const tvChannelCountryElements 	= await page.$$(tvChannelCountrySelector);
+
+					//call satChannelRelationship function
+					const tvChannelName = tvChannelElements.length > 0 ? await page.evaluate(el => el.innerText, tvChannelElements[0]) : null;
+					satChannelDataObjArray.push( await satChannelExtractor(satellites[i], tvChannelName ,page));
 
 					tvChannelData = {
 						providerName: providerName,
