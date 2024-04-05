@@ -78,36 +78,46 @@ const linkScraperAndFilter = async (browser, page, url) => {
 
 
 const satChannelExtractor = async (satellite, channelName, page) => {
-	
-	filteredTable = [];
-	const tables = await page.$$('table');
-
-	const firstRow = await tables[0].$('tr:first-child');
-	if (firstRow) {
-		const firstRowText = await page.evaluate(row => row.innerText, firstRow);
-		if (firstRowText.includes('last updated')) {
-			filteredTable = tables[0];
-		}
-	}
 
 	const relationsObjsArray = [];
-	const rows = await filteredTable.$$('tr');
-	for (let row of rows) {
-		cols = await row.$$('td');
-		relationsObjsArray.push({
-			satellite: satellite,
-			channelName: channelName,
-			beam: cols[2],
-			EIRP: cols[2],
-			frequency: cols[3],
-			system: cols[4],
-			SRFEC: cols[5],
-			video: cols[6],
-			language: cols[7],
-			encryption: cols[8]
-		});
-	}
+	const tableSelector = 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(12)';
 
+	const table = await page.$(tableSelector);
+	const rows = await table.$$('tr');
+	
+	// filter out rows that have more than 1 columns
+	const rows = rows.filter( async row => {
+		const columns = await row.$$('td');
+		return columns.length > 1;
+	});
+
+	// loop through the rows extract text from columns
+	for (let row of rows) {
+		const cols = await row.$$('td');	
+		const satellite = await page.evaluate(col => col.innerText, cols[1]);
+		const beam = await page.evaluate(col => col.innerText, cols[2]).split(' ')[0];
+		const EIRP = await page.evaluate(col => col.innerText, cols[2]).split(' ')[1];
+		const freq = await page.evaluate(col => col.innerText, cols[3]);
+		const system = await page.evaluate(col => col.innerText, cols[4]);
+		const SRFEC = await page.evaluate(col => col.innerText, cols[5]);
+		const video = await page.evaluate(col => col.innerText, cols[6]);
+		const lang = await page.evaluate(col => col.innerText, cols[7]).split(' ');
+		const encryption = await page.evaluate(col => col.innerText, cols[8]);
+
+		const relationsObj = {
+			satellite: satellite,
+			beam: beam,
+			EIRP: EIRP,
+			freq: freq,
+			system: system,
+			SRFEC: SRFEC,
+			video: video,
+			lang: lang,
+			encryption: encryption
+		};
+
+		relationsObjsArray.push(relationsObj);
+	}
 	return relationsObjsArray;
 }
 
