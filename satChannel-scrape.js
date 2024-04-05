@@ -144,8 +144,6 @@ const satChannelsScrape = async (browser, satellites, url) => {
 		// append the sat channel relationship to a file
 	
 		// providers
-		const satChannelRelationship = [];
-
 		const providerNameSelector		= 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(2) > tbody > tr:nth-child(1) > td > font > b > font';
 		const providerLogoSelector 		= 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(7) > tbody > tr > td:nth-child(1) > img';
 		const providerWebsiteSelector = 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(7) > tbody > tr > td:nth-child(1) > font:nth-child(3) > a';
@@ -188,7 +186,7 @@ const satChannelsScrape = async (browser, satellites, url) => {
 
 					//call satChannelRelationship function
 					const tvChannelName = tvChannelElements.length > 0 ? await page.evaluate(el => el.innerText, tvChannelElements[0]) : null;
-					satChannelRelationship.push(satChannelExtractor(satellite[i],  ,page));
+					satChannelDataObjArray.push(satChannelExtractor(satellite[i],  ,page));
 				
 					const tvChannelElements					= await page.$$(tvChannelSelector);
 					const tvChannelLogoElements 		= await page.$$(tvChannelLogoSelector);
@@ -209,12 +207,10 @@ const satChannelsScrape = async (browser, satellites, url) => {
 
 		}
 
-
-
 	}	
 
 	await page.close();
-	return tvChannelDataObjArray;
+	return satChannelDataObjArray;
 };
 
 
