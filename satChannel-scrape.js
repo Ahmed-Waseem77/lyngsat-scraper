@@ -77,12 +77,44 @@ const linkScraperAndFilter = async (browser, page, url) => {
 }
 
 
+const satChannelExtractor = async (page, satellite, channelName) => {
+	const tvChannelSelector	= 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(2) > tbody > tr:nth-child(1) > td > font > b > font';
+	//tbody selector 
+	const tbodySelector = 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(12) > tbody';
+	const tbodyElements = await page.$$(tbodySelector);
+
+	//filter tr rows having 11 tds
+	const trElements = await page.$$('tr');
+	const trFiltered = trElements.filter(async tr => {
+		const tdElements = await tr.$$('td');
+		return tdElements.length === 11;
+	});
+
+	//extract data from tr rows
+	return {
+		channelName:	channelName,
+		satellite:		satellite,
+		beam:					trFiltered[2].split('\n').map(beam => beam.trim()).filter(beam => beam !== '')[0] || null,
+		EIRP:					trFiltered[2].split('\n').map(eirp => eirp.trim()).filter(eirp => eirp !== '')[1] || null, 
+		frequency:		trFiltered[3],
+		system:				trFiltered[4],
+		SRFEC:				trFiltered[5],
+		video:				trFiltered[6],
+		language:			trFiltered[7].split('\n').map(lang => lang.trim()).filter(lang => lang !== ''),
+		encryption: 	trFiltered[8],
+	}		
+	
+	
+}
+
+
 const satChannelsScrape = async (browser, satellites, url) => {
 	const page = await browser.newPage();
 	satChannelData = [];
 	satellitesConverted = satellites.map(sat => utils.convertToUrl(sat));
 	const providerDataObjArray = [];
 	const tvChannelDataObjArray = [];
+	const satChannelDataObjArray = [];
 
 	// loop through all satellites
 	for (let i=0; i<satellites.length; i++) {
@@ -94,10 +126,9 @@ const satChannelsScrape = async (browser, satellites, url) => {
 
 		// get all links on the page
 		const groupedLinks = await linkScraperAndFilter(browser, page, satellitesConverted[i]);
-		const satelliteGroupedLinks = { satellite: satelliteURL, groupedLinks: groupedLinks };
 
 		// append links json to a file 
-		// Read the existing data from the JSON file
+		// read the existing data from the JSON file
 
 		const satChannelRelationshipFilepath = './satChannelData.json';
 
@@ -115,27 +146,25 @@ const satChannelsScrape = async (browser, satellites, url) => {
 		// providers
 		const satChannelRelationship = [];
 
-		const providerNameSelector = 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(2) > tbody > tr:nth-child(1) > td > font > b > font';
-		const providerLogoSelector = 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(7) > tbody > tr > td:nth-child(1) > img';
+		const providerNameSelector		= 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(2) > tbody > tr:nth-child(1) > td > font > b > font';
+		const providerLogoSelector 		= 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(7) > tbody > tr > td:nth-child(1) > img';
 		const providerWebsiteSelector = 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(7) > tbody > tr > td:nth-child(1) > font:nth-child(3) > a';
 		const providerCountrySelector = 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(7) > tbody > tr > td:nth-child(1) > font:nth-child(5) > a';
-
 		providerData = {};
 	
 		// tvchannels 
-		const tvChannelSelector			= 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(2) > tbody > tr:nth-child(1) > td > font > b > font';
-		const tvChannelLogoSelector = 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(7) > tbody > tr > td:nth-child(1) > img';
-		const tvChannelWebsiteSelector = 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(7) > tbody > tr > td:nth-child(1) > font:nth-child(3) > a';
-		const tvChannelCountrySelector = 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(7) > tbody > tr > td:nth-child(1) > font:nth-child(5) > a';
-
+		const tvChannelSelector					= 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(2) > tbody > tr:nth-child(1) > td > font > b > font';
+		const tvChannelLogoSelector 		= 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(7) > tbody > tr > td:nth-child(1) > img';
+		const tvChannelWebsiteSelector	= 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(7) > tbody > tr > td:nth-child(1) > font:nth-child(3) > a';
+		const tvChannelCountrySelector 	= 'body > div > table > tbody > tr > td:nth-child(2) > table:nth-child(7) > tbody > tr > td:nth-child(1) > font:nth-child(5) > a';
 		tvChannelData = {};
 
 		for (let group of groupedLinks) {
 				if (group.providerLink === null) { continue; }
 				await page.goto(group.providerLink);	 
 
-				const providerNameElements = await page.$$(providerNameSelector);
-				const providerLogoElements = await page.$$(providerLogoSelector);
+				const providerNameElements		= await page.$$(providerNameSelector);
+				const providerLogoElements 		= await page.$$(providerLogoSelector);
 				const providerWebsiteElements = await page.$$(providerWebsiteSelector);
 				const providerCountryElements = await page.$$(providerCountrySelector);
 			
@@ -151,19 +180,24 @@ const satChannelsScrape = async (browser, satellites, url) => {
 
 				console.log(providerData);
 				providerDataObjArray.push(providerData); 
+			
 
 				for (let tvChannel of group.tvchannels) {
 					if (tvChannel === null) { continue; }
 					await page.goto(tvChannel);
+
+					//call satChannelRelationship function
+					const tvChannelName = tvChannelElements.length > 0 ? await page.evaluate(el => el.innerText, tvChannelElements[0]) : null;
+					satChannelRelationship.push(satChannelExtractor(satellite[i],  ,page));
 				
-					const tvChannelElements			= await page.$$(tvChannelSelector);
-					const tvChannelLogoElements = await page.$$(tvChannelLogoSelector);
-					const tvChannelWebsiteElements = await page.$$(tvChannelWebsiteSelector);
-					const tvChannelCountryElements = await page.$$(tvChannelCountrySelector);
+					const tvChannelElements					= await page.$$(tvChannelSelector);
+					const tvChannelLogoElements 		= await page.$$(tvChannelLogoSelector);
+					const tvChannelWebsiteElements	= await page.$$(tvChannelWebsiteSelector);
+					const tvChannelCountryElements 	= await page.$$(tvChannelCountrySelector);
 
 					tvChannelData = {
 						providerName: providerName,
-						tvChannelName: tvChannelElements.length > 0 ? await page.evaluate(el => el.innerText, tvChannelElements[0]) : null,
+						tvChannelName: tvChannelName,
 						tvChannelLogo: tvChannelLogoElements.length > 0 ? await page.evaluate(el => el.src, tvChannelLogoElements[0]) : null,
 						tvChannelWebsite: tvChannelWebsiteElements.length > 0 ? await page.evaluate(el => el.href, tvChannelWebsiteElements[0]) : null,
 						tvChannelCountry: tvChannelCountryElements.length > 0 ? await page.evaluate(el => el.href, tvChannelCountryElements[0]) : null
@@ -174,6 +208,9 @@ const satChannelsScrape = async (browser, satellites, url) => {
 				}
 
 		}
+
+
+
 	}	
 
 	await page.close();
