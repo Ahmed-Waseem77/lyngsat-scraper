@@ -152,31 +152,32 @@ const satChannelsScrape = async (browser, satellites, url) => {
 				console.log(providerData);
 				providerDataObjArray.push(providerData); 
 
-
-				if (group.tvChannelLink === null) { continue; }
-				await page.goto(group.tvChannelLink);
+				for (let tvChannel of group.tvchannels) {
+					if (tvChannel === null) { continue; }
+					await page.goto(tvChannel);
 				
-				const tvChannelElements			= await page.$$(tvChannelSelector);
-				const tvChannelLogoElements = await page.$$(tvChannelLogoSelector);
-				const tvChannelWebsiteElements = await page.$$(tvChannelWebsiteSelector);
-				const tvChannelCountryElements = await page.$$(tvChannelCountrySelector);
+					const tvChannelElements			= await page.$$(tvChannelSelector);
+					const tvChannelLogoElements = await page.$$(tvChannelLogoSelector);
+					const tvChannelWebsiteElements = await page.$$(tvChannelWebsiteSelector);
+					const tvChannelCountryElements = await page.$$(tvChannelCountrySelector);
 
-				tvChannelData = {
-					providerName: providerName,
-					tvChannelName: tvChannelElements.length > 0 ? await page.evaluate(el => el.innerText, tvChannelElements[0]) : null,
-					tvChannelLogo: tvChannelLogoElements.length > 0 ? await page.evaluate(el => el.src, tvChannelLogoElements[0]) : null,
-					tvChannelWebsite: tvChannelWebsiteElements.length > 0 ? await page.evaluate(el => el.href, tvChannelWebsiteElements[0]) : null,
-					tvChannelCountry: tvChannelCountryElements.length > 0 ? await page.evaluate(el => el.href, tvChannelCountryElements[0]) : null
-				};
+					tvChannelData = {
+						providerName: providerName,
+						tvChannelName: tvChannelElements.length > 0 ? await page.evaluate(el => el.innerText, tvChannelElements[0]) : null,
+						tvChannelLogo: tvChannelLogoElements.length > 0 ? await page.evaluate(el => el.src, tvChannelLogoElements[0]) : null,
+						tvChannelWebsite: tvChannelWebsiteElements.length > 0 ? await page.evaluate(el => el.href, tvChannelWebsiteElements[0]) : null,
+						tvChannelCountry: tvChannelCountryElements.length > 0 ? await page.evaluate(el => el.href, tvChannelCountryElements[0]) : null
+					};
 
-				console.log(tvChannelData);
-				tvChannelDataObjArray.push(tvChannelData);	
+					console.log(tvChannelData);
+					tvChannelDataObjArray.push(tvChannelData);	
+				}
 
 		}
 	}	
 
 	await page.close();
-	return providerDataObjArray;
+	return tvChannelDataObjArray;
 };
 
 

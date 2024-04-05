@@ -11,9 +11,6 @@ First Run
 ```
 npm install 
 ```
-
-in `/src/` to install dependencies
-
 Then Run 
 
 ```
