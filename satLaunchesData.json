@@ -1,27 +1,21 @@
 [
   {
-    "satellite": "TDRS 8",
-    "launchData": "TDRS 8 was launched with Atlas AC-139 2000-06-30.",
-    "launchDate": "2000-06-30",
-    "launchRocket": "Atlas AC-139"
-  },
-  {
     "satellite": "TDRS 11",
     "launchData": "TDRS 11 was launched with Atlas 5 - V401 2013-01-31.",
     "launchDate": "2013-01-31",
     "launchRocket": "Atlas 5 - V401"
   },
   {
+    "satellite": "TDRS 8",
+    "launchData": "TDRS 8 was launched with Atlas AC-139 2000-06-30.",
+    "launchDate": "2000-06-30",
+    "launchRocket": "Atlas AC-139"
+  },
+  {
     "satellite": "TDRS 10",
     "launchData": "TDRS 10 was launched with Atlas 2A - AC-144 2002-12-05.",
     "launchDate": "2002-12-05",
     "launchRocket": "Atlas 2A - AC-144"
-  },
-  {
-    "satellite": "NSS 9",
-    "launchData": "NSS 9 was launched with Ariane 5 - V187 2009-02-12.",
-    "launchDate": "2009-02-12",
-    "launchRocket": "Ariane 5 - V187"
   },
   {
     "satellite": "Intelsat 18",
@@ -34,6 +28,12 @@
     "launchData": "Yamal 300K was launched with Proton 2012-11-02.",
     "launchDate": "2012-11-02",
     "launchRocket": "Proton"
+  },
+  {
+    "satellite": "NSS 9",
+    "launchData": "NSS 9 was launched with Ariane 5 - V187 2009-02-12.",
+    "launchDate": "2009-02-12",
+    "launchRocket": "Ariane 5 - V187"
   },
   {
     "satellite": "Eutelsat 172B",
@@ -54,28 +54,22 @@
     "launchRocket": "Proton"
   },
   {
-    "satellite": "Luch 5A",
-    "launchData": "Luch 5A was launched with Proton 2011-12-11.",
-    "launchDate": "2011-12-11",
-    "launchRocket": "Proton"
-  },
-  {
     "satellite": "Horizons 3e",
     "launchData": "Horizons 3e was launched with Ariane 5 - VA243 2018-09-25.",
     "launchDate": "2018-09-25",
     "launchRocket": "Ariane 5 - VA243"
   },
   {
+    "satellite": "Luch 5A",
+    "launchData": "Luch 5A was launched with Proton 2011-12-11.",
+    "launchDate": "2011-12-11",
+    "launchRocket": "Proton"
+  },
+  {
     "satellite": "Intelsat 5",
     "launchData": "Intelsat 5 was launched with Proton 1997-08-28.",
     "launchDate": "1997-08-28",
     "launchRocket": "Proton"
-  },
-  {
-    "satellite": "Galaxy 11",
-    "launchData": "Galaxy 11 was launched with Ariane V125 1999-12-22.",
-    "launchDate": "1999-12-22",
-    "launchRocket": "Ariane V125"
   },
   {
     "satellite": "Yamal 202",
@@ -90,22 +84,28 @@
     "launchRocket": "Zenit 3/Sea Launch"
   },
   {
+    "satellite": "Galaxy 11",
+    "launchData": "Galaxy 11 was launched with Ariane V125 1999-12-22.",
+    "launchDate": "1999-12-22",
+    "launchRocket": "Ariane V125"
+  },
+  {
     "satellite": "Optus D2",
     "launchData": "Optus D2 was launched with Ariane 5 2007-10-05.",
     "launchDate": "2007-10-05",
     "launchRocket": "Ariane 5"
   },
   {
-    "satellite": "ChinaSat 19",
-    "launchData": "ChinaSat 19 was launched with Long March 3B 2022-11-05.",
-    "launchDate": "2022-11-05",
-    "launchRocket": "Long March 3B"
-  },
-  {
     "satellite": "Superbird B3",
     "launchData": "Superbird B3 was launched with Ariane 5 - VA242 2018-04-05.",
     "launchDate": "2018-04-05",
     "launchRocket": "Ariane 5 - VA242"
+  },
+  {
+    "satellite": "ChinaSat 19",
+    "launchData": "ChinaSat 19 was launched with Long March 3B 2022-11-05.",
+    "launchDate": "2022-11-05",
+    "launchRocket": "Long March 3B"
   },
   {
     "satellite": "Optus C1",
@@ -126,12 +126,6 @@
     "launchRocket": "Ariane 5 - V135"
   },
   {
-    "satellite": "Optus 10",
-    "launchData": "Optus 10 was launched with Ariane 5 - VA218 2014-09-11.",
-    "launchDate": "2014-09-11",
-    "launchRocket": "Ariane 5 - VA218"
-  },
-  {
     "satellite": "Intelsat 10 (drifting 0.4°W/day)",
     "launchData": "Intelsat 10 was launched with Ariane 4 - V141 2001-05-15.",
     "launchDate": "2001-05-15",
@@ -142,6 +136,18 @@
     "launchData": "Optus D3 was launched with Ariane 5 - V190 2009-08-21.",
     "launchDate": "2009-08-21",
     "launchRocket": "Ariane 5 - V190"
+  },
+  {
+    "satellite": "Optus 10",
+    "launchData": "Optus 10 was launched with Ariane 5 - VA218 2014-09-11.",
+    "launchDate": "2014-09-11",
+    "launchRocket": "Ariane 5 - VA218"
+  },
+  {
+    "satellite": "Optus D1",
+    "launchData": "Optus D1 was launched with Ariane 5 2006-10-13.",
+    "launchDate": "2006-10-13",
+    "launchRocket": "Ariane 5"
   },
   {
     "satellite": "JCSAT 2B",
@@ -156,10 +162,10 @@
     "launchRocket": "Ariane 5 - VA230"
   },
   {
-    "satellite": "Optus D1",
-    "launchData": "Optus D1 was launched with Ariane 5 2006-10-13.",
-    "launchDate": "2006-10-13",
-    "launchRocket": "Ariane 5"
+    "satellite": "Nusantara Satu",
+    "launchData": "Nusantara Satu was launched with Falcon 9 2019-02-22.",
+    "launchDate": "2019-02-22",
+    "launchRocket": "Falcon 9"
   },
   {
     "satellite": "AsiaSat 4",
@@ -171,12 +177,6 @@
     "satellite": "JCSAT 1C",
     "launchData": "JCSAT 1C was launched with Falcon 9 2019-12-17.",
     "launchDate": "2019-12-17",
-    "launchRocket": "Falcon 9"
-  },
-  {
-    "satellite": "Nusantara Satu",
-    "launchData": "Nusantara Satu was launched with Falcon 9 2019-02-22.",
-    "launchDate": "2019-02-22",
     "launchRocket": "Falcon 9"
   },
   {
@@ -198,16 +198,16 @@
     "launchRocket": "Proton"
   },
   {
-    "satellite": "Apstar 9",
-    "launchData": "Apstar 9 was launched with Xichang 2015-10-16.",
-    "launchDate": "2015-10-16",
-    "launchRocket": "Xichang"
-  },
-  {
     "satellite": "Express AT2",
     "launchData": "Express AT2 was launched with Proton 2014-03-15.",
     "launchDate": "2014-03-15",
     "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Apstar 9",
+    "launchData": "Apstar 9 was launched with Xichang 2015-10-16.",
+    "launchDate": "2015-10-16",
+    "launchRocket": "Xichang"
   },
   {
     "satellite": "Express AM5",
@@ -240,16 +240,16 @@
     "launchRocket": "Zenit 3"
   },
   {
-    "satellite": "JCSAT 12",
-    "launchData": "JCSAT 12 was launched with Ariane 5 - V190 2009-08-21.",
-    "launchDate": "2009-08-21",
-    "launchRocket": "Ariane 5 - V190"
-  },
-  {
     "satellite": "Apstar 6C",
     "launchData": "Apstar 6C was launched with Long March 3B 2018-05-03.",
     "launchDate": "2018-05-03",
     "launchRocket": "Long March 3B"
+  },
+  {
+    "satellite": "JCSAT 12",
+    "launchData": "JCSAT 12 was launched with Ariane 5 - V190 2009-08-21.",
+    "launchDate": "2009-08-21",
+    "launchRocket": "Ariane 5 - V190"
   },
   {
     "satellite": "Vinasat 1",
@@ -258,16 +258,16 @@
     "launchRocket": "Ariane 5"
   },
   {
-    "satellite": "Vinasat 2",
-    "launchData": "Vinasat 2 was launched with Ariane 5 - VA206 2012-05-15.",
-    "launchDate": "2012-05-15",
-    "launchRocket": "Ariane 5 - VA206"
-  },
-  {
     "satellite": "ChinaSat 6C",
     "launchData": "ChinaSat 6C was launched with Long March 3B 2019-03-09.",
     "launchDate": "2019-03-09",
     "launchRocket": "Long March 3B"
+  },
+  {
+    "satellite": "Vinasat 2",
+    "launchData": "Vinasat 2 was launched with Ariane 5 - VA206 2012-05-15.",
+    "launchDate": "2012-05-15",
+    "launchRocket": "Ariane 5 - VA206"
   },
   {
     "satellite": "ChinaSat 1D",
@@ -312,22 +312,16 @@
     "launchRocket": "Ariane 5 - VA206"
   },
   {
-    "satellite": "AsiaSat 9",
-    "launchData": "AsiaSat 9 was launched with Proton 2017-09-28.",
-    "launchDate": "2017-09-28",
-    "launchRocket": "Proton"
-  },
-  {
     "satellite": "ChinaSat 6D",
     "launchData": "ChinaSat 6D was launched with Long March 3B/E 2022-04-15.",
     "launchDate": "2022-04-15",
     "launchRocket": "Long March 3B/E"
   },
   {
-    "satellite": "Thaicom 4",
-    "launchData": "Thaicom 4 was launched with Ariane 2005-08-11.",
-    "launchDate": "2005-08-11",
-    "launchRocket": "Ariane"
+    "satellite": "AsiaSat 9",
+    "launchData": "AsiaSat 9 was launched with Proton 2017-09-28.",
+    "launchDate": "2017-09-28",
+    "launchRocket": "Proton"
   },
   {
     "satellite": "AsiaSat 6/Thaicom 7",
@@ -342,10 +336,10 @@
     "launchRocket": "Ariane 5 - V198"
   },
   {
-    "satellite": "Bangabandhu 1",
-    "launchData": "Bangabandhu 1 was launched with Falcon 9 2018-05-11.",
-    "launchDate": "2018-05-11",
-    "launchRocket": "Falcon 9"
+    "satellite": "Thaicom 4",
+    "launchData": "Thaicom 4 was launched with Ariane 2005-08-11.",
+    "launchDate": "2005-08-11",
+    "launchRocket": "Ariane"
   },
   {
     "satellite": "Telkom 3S",
@@ -354,10 +348,22 @@
     "launchRocket": "Ariane 5 - VA235"
   },
   {
+    "satellite": "Bangabandhu 1",
+    "launchData": "Bangabandhu 1 was launched with Falcon 9 2018-05-11.",
+    "launchDate": "2018-05-11",
+    "launchRocket": "Falcon 9"
+  },
+  {
     "satellite": "Koreasat 6",
     "launchData": "Koreasat 6 was launched with Ariane 5 - V199 2010-12-29.",
     "launchDate": "2010-12-29",
     "launchRocket": "Ariane 5 - V199"
+  },
+  {
+    "satellite": "ChinaSat 6E",
+    "launchData": "ChinaSat 6E was launched with Long March 3B 2023-11-09.",
+    "launchDate": "2023-11-09",
+    "launchRocket": "Long March 3B"
   },
   {
     "satellite": "ChinaSat 6B",
@@ -372,18 +378,6 @@
     "launchRocket": "Ariane 5 - VA236"
   },
   {
-    "satellite": "ChinaSat 6E",
-    "launchData": "ChinaSat 6E was launched with Long March 3B 2023-11-09.",
-    "launchDate": "2023-11-09",
-    "launchRocket": "Long March 3B"
-  },
-  {
-    "satellite": "Koreasat 5",
-    "launchData": "Koreasat 5 was launched with Zenit 3 2006-08-22.",
-    "launchDate": "2006-08-22",
-    "launchRocket": "Zenit 3"
-  },
-  {
     "satellite": "Merah Putih 2",
     "launchData": "Merah Putih 2 was launched with Falcon 9 2024-02-20.",
     "launchDate": "2024-02-20",
@@ -396,10 +390,16 @@
     "launchRocket": "Falcon 9"
   },
   {
-    "satellite": "ChinaSat 10",
-    "launchData": "ChinaSat 10 was launched with Long March 3B 2011-06-20.",
-    "launchDate": "2011-06-20",
-    "launchRocket": "Long March 3B"
+    "satellite": "Koreasat 5",
+    "launchData": "Koreasat 5 was launched with Zenit 3 2006-08-22.",
+    "launchDate": "2006-08-22",
+    "launchRocket": "Zenit 3"
+  },
+  {
+    "satellite": "BSAT 4B",
+    "launchData": "BSAT 4B was launched with Ariane 5 - VA253 2020-08-15.",
+    "launchDate": "2020-08-15",
+    "launchRocket": "Ariane 5 - VA253"
   },
   {
     "satellite": "ChinaSat 16",
@@ -408,10 +408,16 @@
     "launchRocket": "Long March 3BE"
   },
   {
-    "satellite": "BSAT 4B",
-    "launchData": "BSAT 4B was launched with Ariane 5 - VA253 2020-08-15.",
-    "launchDate": "2020-08-15",
-    "launchRocket": "Ariane 5 - VA253"
+    "satellite": "ChinaSat 10",
+    "launchData": "ChinaSat 10 was launched with Long March 3B 2011-06-20.",
+    "launchDate": "2011-06-20",
+    "launchRocket": "Long March 3B"
+  },
+  {
+    "satellite": "JCSAT 15",
+    "launchData": "JCSAT 15 was launched with Ariane 5 - VA234 2016-12-21.",
+    "launchDate": "2016-12-21",
+    "launchRocket": "Ariane 5 - VA234"
   },
   {
     "satellite": "BSAT 3A",
@@ -426,10 +432,10 @@
     "launchRocket": "Ariane 5 - VA203"
   },
   {
-    "satellite": "JCSAT 15",
-    "launchData": "JCSAT 15 was launched with Ariane 5 - VA234 2016-12-21.",
-    "launchDate": "2016-12-21",
-    "launchRocket": "Ariane 5 - VA234"
+    "satellite": "SES 7",
+    "launchData": "SES 7 was launched with Proton 2009-05-16.",
+    "launchDate": "2009-05-16",
+    "launchRocket": "Proton"
   },
   {
     "satellite": "BSAT 3B",
@@ -442,12 +448,6 @@
     "launchData": "BSAT 4A was launched with Ariane 5 - VA239 2017-09-29.",
     "launchDate": "2017-09-29",
     "launchRocket": "Ariane 5 - VA239"
-  },
-  {
-    "satellite": "SES 7",
-    "launchData": "SES 7 was launched with Proton 2009-05-16.",
-    "launchDate": "2009-05-16",
-    "launchRocket": "Proton"
   },
   {
     "satellite": "AsiaSat 7",
@@ -468,6 +468,12 @@
     "launchRocket": "Falcon 9"
   },
   {
+    "satellite": "ChinaSat 9B",
+    "launchData": "ChinaSat 9B was launched with Long March 3B 2021-09-09.",
+    "launchDate": "2021-09-09",
+    "launchRocket": "Long March 3B"
+  },
+  {
     "satellite": "ChinaSat 2C",
     "launchData": "ChinaSat 2C was launched with Long March 3B 2015-11-03.",
     "launchDate": "2015-11-03",
@@ -480,22 +486,10 @@
     "launchRocket": "Proton"
   },
   {
-    "satellite": "ChinaSat 9B",
-    "launchData": "ChinaSat 9B was launched with Long March 3B 2021-09-09.",
-    "launchDate": "2021-09-09",
-    "launchRocket": "Long March 3B"
-  },
-  {
     "satellite": "AsiaSat 5",
     "launchData": "AsiaSat 5 was launched with Proton 2009-08-11.",
     "launchDate": "2009-08-11",
     "launchRocket": "Proton"
-  },
-  {
-    "satellite": "ChinaSat 2A",
-    "launchData": "ChinaSat 2A was launched with Long March 3B 2012-05-26.",
-    "launchDate": "2012-05-26",
-    "launchRocket": "Long March 3B"
   },
   {
     "satellite": "ChinaSat 11",
@@ -504,10 +498,10 @@
     "launchRocket": "Long March 3B"
   },
   {
-    "satellite": "Express 103",
-    "launchData": "Express 103 was launched with Proton 2020-07-30.",
-    "launchDate": "2020-07-30",
-    "launchRocket": "Proton"
+    "satellite": "ChinaSat 2A",
+    "launchData": "ChinaSat 2A was launched with Long March 3B 2012-05-26.",
+    "launchDate": "2012-05-26",
+    "launchRocket": "Long March 3B"
   },
   {
     "satellite": "ChinaSat 2E",
@@ -522,6 +516,18 @@
     "launchRocket": "GSLV"
   },
   {
+    "satellite": "Express 103",
+    "launchData": "Express 103 was launched with Proton 2020-07-30.",
+    "launchDate": "2020-07-30",
+    "launchRocket": "Proton"
+  },
+  {
+    "satellite": "SES 8",
+    "launchData": "SES 8 was launched with Falcon 9 2013-12-03.",
+    "launchDate": "2013-12-03",
+    "launchRocket": "Falcon 9"
+  },
+  {
     "satellite": "G-Sat 15",
     "launchData": "G-Sat 15 was launched with Ariane 5 - VA227 2015-11-10.",
     "launchDate": "2015-11-10",
@@ -532,18 +538,6 @@
     "launchData": "SES 12 was launched with Falcon 9 2018-06-04.",
     "launchDate": "2018-06-04",
     "launchRocket": "Falcon 9"
-  },
-  {
-    "satellite": "SES 8",
-    "launchData": "SES 8 was launched with Falcon 9 2013-12-03.",
-    "launchDate": "2013-12-03",
-    "launchRocket": "Falcon 9"
-  },
-  {
-    "satellite": "G-Sat 17",
-    "launchData": "G-Sat 17 was launched with Ariane 5 - VA238 2017-06-28.",
-    "launchDate": "2017-06-28",
-    "launchRocket": "Ariane 5 - VA238"
   },
   {
     "satellite": "Measat 3b",
@@ -558,16 +552,16 @@
     "launchRocket": "Long March 3B"
   },
   {
+    "satellite": "G-Sat 17",
+    "launchData": "G-Sat 17 was launched with Ariane 5 - VA238 2017-06-28.",
+    "launchDate": "2017-06-28",
+    "launchRocket": "Ariane 5 - VA238"
+  },
+  {
     "satellite": "Measat 3d",
     "launchData": "Measat 3d was launched with Ariane 5 - VA257 2022-06-22.",
     "launchDate": "2022-06-22",
     "launchRocket": "Ariane 5 - VA257"
-  },
-  {
-    "satellite": "Measat 3a",
-    "launchData": "Measat 3a was launched with Zenit 3/Baikonur 2009-06-21.",
-    "launchDate": "2009-06-21",
-    "launchRocket": "Zenit 3/Baikonur"
   },
   {
     "satellite": "Yamal 401",
@@ -576,16 +570,16 @@
     "launchRocket": "Proton"
   },
   {
+    "satellite": "Measat 3a",
+    "launchData": "Measat 3a was launched with Zenit 3/Baikonur 2009-06-21.",
+    "launchDate": "2009-06-21",
+    "launchRocket": "Zenit 3/Baikonur"
+  },
+  {
     "satellite": "KazSat 2",
     "launchData": "KazSat 2 was launched with Proton 2011-07-15.",
     "launchDate": "2011-07-15",
     "launchRocket": "Proton"
-  },
-  {
-    "satellite": "ST 2",
-    "launchData": "ST 2 was launched with Ariane 5 - VA202 2011-05-20.",
-    "launchDate": "2011-05-20",
-    "launchRocket": "Ariane 5 - VA202"
   },
   {
     "satellite": "ChinaSat 12",
@@ -594,10 +588,10 @@
     "launchRocket": "Long March 3B"
   },
   {
-    "satellite": "Intelsat 15",
-    "launchData": "Intelsat 15 was launched with Zenit 3/Baikonur 2009-11-30.",
-    "launchDate": "2009-11-30",
-    "launchRocket": "Zenit 3/Baikonur"
+    "satellite": "ST 2",
+    "launchData": "ST 2 was launched with Ariane 5 - VA202 2011-05-20.",
+    "launchDate": "2011-05-20",
+    "launchRocket": "Ariane 5 - VA202"
   },
   {
     "satellite": "TDRS 7",
@@ -606,22 +600,16 @@
     "launchRocket": "Atlantis"
   },
   {
+    "satellite": "Intelsat 15",
+    "launchData": "Intelsat 15 was launched with Zenit 3/Baikonur 2009-11-30.",
+    "launchDate": "2009-11-30",
+    "launchRocket": "Zenit 3/Baikonur"
+  },
+  {
     "satellite": "G-Sat 10",
     "launchData": "G-Sat 10 was launched with Ariane 5 - VA209 2012-09-28.",
     "launchDate": "2012-09-28",
     "launchRocket": "Ariane 5 - VA209"
-  },
-  {
-    "satellite": "CMS 1",
-    "launchData": "CMS 1 was launched with PSLV 2020-12-17.",
-    "launchDate": "2020-12-17",
-    "launchRocket": "PSLV"
-  },
-  {
-    "satellite": "G-Sat 24",
-    "launchData": "G-Sat 24 was launched with Ariane 5 - VA257 2022-06-22.",
-    "launchDate": "2022-06-22",
-    "launchRocket": "Ariane 5 - VA257"
   },
   {
     "satellite": "G-Sat 30",
@@ -630,10 +618,16 @@
     "launchRocket": "Ariane 5 - VA251"
   },
   {
-    "satellite": "Insat 3D",
-    "launchData": "Insat 3D was launched with Ariane 5 - VA214 2013-07-25.",
-    "launchDate": "2013-07-25",
-    "launchRocket": "Ariane 5 - VA214"
+    "satellite": "G-Sat 24",
+    "launchData": "G-Sat 24 was launched with Ariane 5 - VA257 2022-06-22.",
+    "launchDate": "2022-06-22",
+    "launchRocket": "Ariane 5 - VA257"
+  },
+  {
+    "satellite": "CMS 1",
+    "launchData": "CMS 1 was launched with PSLV 2020-12-17.",
+    "launchDate": "2020-12-17",
+    "launchRocket": "PSLV"
   },
   {
     "satellite": "ChinaSat 1E",
@@ -642,10 +636,22 @@
     "launchRocket": "Long March 7A"
   },
   {
+    "satellite": "Insat 3D",
+    "launchData": "Insat 3D was launched with Ariane 5 - VA214 2013-07-25.",
+    "launchDate": "2013-07-25",
+    "launchRocket": "Ariane 5 - VA214"
+  },
+  {
     "satellite": "G-Sat 6",
     "launchData": "G-Sat 6 was launched with GSLV 2015-08-27.",
     "launchDate": "2015-08-27",
     "launchRocket": "GSLV"
+  },
+  {
+    "satellite": "Express 80",
+    "launchData": "Express 80 was launched with Proton 2020-07-30.",
+    "launchDate": "2020-07-30",
+    "launchRocket": "Proton"
   },
   {
     "satellite": "Thaicom 6",
@@ -660,18 +666,6 @@
     "launchRocket": "Falcon 9"
   },
   {
-    "satellite": "Express 80",
-    "launchData": "Express 80 was launched with Proton 2020-07-30.",
-    "launchDate": "2020-07-30",
-    "launchRocket": "Proton"
-  },
-  {
-    "satellite": "ABS 2",
-    "launchData": "ABS 2 was launched with Ariane 5 - VA217 2014-02-06.",
-    "launchDate": "2014-02-06",
-    "launchRocket": "Ariane 5 - VA217"
-  },
-  {
     "satellite": "Apstar 7",
     "launchData": "Apstar 7 was launched with Long March 3B 2012-03-31.",
     "launchDate": "2012-03-31",
@@ -684,10 +678,10 @@
     "launchRocket": "Falcon 9"
   },
   {
-    "satellite": "Insat 3DR",
-    "launchData": "Insat 3DR was launched with GSLV 2016-09-08.",
-    "launchDate": "2016-09-08",
-    "launchRocket": "GSLV"
+    "satellite": "ABS 2",
+    "launchData": "ABS 2 was launched with Ariane 5 - VA217 2014-02-06.",
+    "launchDate": "2014-02-06",
+    "launchRocket": "Ariane 5 - VA217"
   },
   {
     "satellite": "G-Sat 7",
@@ -702,22 +696,28 @@
     "launchRocket": "GSLV"
   },
   {
+    "satellite": "Insat 3DR",
+    "launchData": "Insat 3DR was launched with GSLV 2016-09-08.",
+    "launchDate": "2016-09-08",
+    "launchRocket": "GSLV"
+  },
+  {
     "satellite": "G-Sat 11",
     "launchData": "G-Sat 11 was launched with Ariane 5 - VA246 2018-12-04.",
     "launchDate": "2018-12-04",
     "launchRocket": "Ariane 5 - VA246"
   },
   {
-    "satellite": "G-Sat 18",
-    "launchData": "G-Sat 18 was launched with Ariane 5 - VA231 2016-10-05.",
-    "launchDate": "2016-10-05",
-    "launchRocket": "Ariane 5 - VA231"
-  },
-  {
     "satellite": "Intelsat 22",
     "launchData": "Intelsat 22 was launched with Proton 2012-03-25.",
     "launchDate": "2012-03-25",
     "launchRocket": "Proton"
+  },
+  {
+    "satellite": "G-Sat 18",
+    "launchData": "G-Sat 18 was launched with Ariane 5 - VA231 2016-10-05.",
+    "launchDate": "2016-10-05",
+    "launchRocket": "Ariane 5 - VA231"
   },
   {
     "satellite": "Intelsat 36",
@@ -738,12 +738,6 @@
     "launchRocket": "Zenit 3/Sea Launch"
   },
   {
-    "satellite": "Intelsat 906",
-    "launchData": "Intelsat 906 was launched with Ariane 4 - V154 2002-09-06.",
-    "launchDate": "2002-09-06",
-    "launchRocket": "Ariane 4 - V154"
-  },
-  {
     "satellite": "Amos 4",
     "launchData": "Amos 4 was launched with Zenit 3/Baikonur 2013-08-31.",
     "launchDate": "2013-08-31",
@@ -756,16 +750,10 @@
     "launchRocket": "Ariane 5 - V198"
   },
   {
-    "satellite": "G-Sat 7A",
-    "launchData": "G-Sat 7A was launched with GSLV 2018-12-19.",
-    "launchDate": "2018-12-19",
-    "launchRocket": "GSLV"
-  },
-  {
-    "satellite": "Intelsat 39",
-    "launchData": "Intelsat 39 was launched with Ariane 5 - VA249 2019-08-06.",
-    "launchDate": "2019-08-06",
-    "launchRocket": "Ariane 5 - VA249"
+    "satellite": "Intelsat 906",
+    "launchData": "Intelsat 906 was launched with Ariane 4 - V154 2002-09-06.",
+    "launchDate": "2002-09-06",
+    "launchRocket": "Ariane 4 - V154"
   },
   {
     "satellite": "ABS 4",
@@ -774,15 +762,21 @@
     "launchRocket": "Atlas 3 - AC-202"
   },
   {
+    "satellite": "Intelsat 39",
+    "launchData": "Intelsat 39 was launched with Ariane 5 - VA249 2019-08-06.",
+    "launchDate": "2019-08-06",
+    "launchRocket": "Ariane 5 - VA249"
+  },
+  {
+    "satellite": "G-Sat 7A",
+    "launchData": "G-Sat 7A was launched with GSLV 2018-12-19.",
+    "launchDate": "2018-12-19",
+    "launchRocket": "GSLV"
+  },
+  {
     "satellite": "Astra 2A",
     "launchData": "Astra 2A was launched with Proton 1998-08-30.",
     "launchDate": "1998-08-30",
-    "launchRocket": "Proton"
-  },
-  {
-    "satellite": "KazSat 3",
-    "launchData": "KazSat 3 was launched with Proton 2014-04-28.",
-    "launchDate": "2014-04-28",
     "launchRocket": "Proton"
   },
   {
@@ -792,10 +786,10 @@
     "launchRocket": "Ariane 5 - VA232"
   },
   {
-    "satellite": "G-Sat 29",
-    "launchData": "G-Sat 29 was launched with GSLV 2018-11-14.",
-    "launchDate": "2018-11-14",
-    "launchRocket": "GSLV"
+    "satellite": "KazSat 3",
+    "launchData": "KazSat 3 was launched with Proton 2014-04-28.",
+    "launchDate": "2014-04-28",
+    "launchRocket": "Proton"
   },
   {
     "satellite": "Express AT1",
@@ -810,10 +804,10 @@
     "launchRocket": "Ariane 5 - V192"
   },
   {
-    "satellite": "Yamal 402",
-    "launchData": "Yamal 402 was launched with Proton 2012-12-08.",
-    "launchDate": "2012-12-08",
-    "launchRocket": "Proton"
+    "satellite": "G-Sat 29",
+    "launchData": "G-Sat 29 was launched with GSLV 2018-11-14.",
+    "launchDate": "2018-11-14",
+    "launchRocket": "GSLV"
   },
   {
     "satellite": "G-Sat 8",
@@ -828,6 +822,18 @@
     "launchRocket": "Ariane 5 - VA221"
   },
   {
+    "satellite": "Yamal 402",
+    "launchData": "Yamal 402 was launched with Proton 2012-12-08.",
+    "launchDate": "2012-12-08",
+    "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Express AM6",
+    "launchData": "Express AM6 was launched with Proton 2014-10-21.",
+    "launchDate": "2014-10-21",
+    "launchRocket": "Proton"
+  },
+  {
     "satellite": "Al Yah 1",
     "launchData": "Al Yah 1 was launched with Ariane 5 - VA201 2011-04-22.",
     "launchDate": "2011-04-22",
@@ -840,16 +846,10 @@
     "launchRocket": "Falcon 9"
   },
   {
-    "satellite": "Express AM6",
-    "launchData": "Express AM6 was launched with Proton 2014-10-21.",
-    "launchDate": "2014-10-21",
-    "launchRocket": "Proton"
-  },
-  {
-    "satellite": "Yamal 601",
-    "launchData": "Yamal 601 was launched with Proton 2019-05-30.",
-    "launchDate": "2019-05-30",
-    "launchRocket": "Proton"
+    "satellite": "Türksat 4B",
+    "launchData": "Türksat 4B was launched with Proton/Baikonur 2015-10-16.",
+    "launchDate": "2015-10-16",
+    "launchRocket": "Proton/Baikonur"
   },
   {
     "satellite": "Belintersat 1",
@@ -858,22 +858,10 @@
     "launchRocket": "Long March 3B"
   },
   {
-    "satellite": "Türksat 4B",
-    "launchData": "Türksat 4B was launched with Proton/Baikonur 2015-10-16.",
-    "launchDate": "2015-10-16",
-    "launchRocket": "Proton/Baikonur"
-  },
-  {
-    "satellite": "Eutelsat Quantum",
-    "launchData": "Eutelsat Quantum was launched with Ariane 5 - VA254 2021-07-30.",
-    "launchDate": "2021-07-30",
-    "launchRocket": "Ariane 5 - VA254"
-  },
-  {
-    "satellite": "G-Sat 31",
-    "launchData": "G-Sat 31 was launched with Ariane 5 - VA247 2019-02-05.",
-    "launchDate": "2019-02-05",
-    "launchRocket": "Ariane 5 - VA247"
+    "satellite": "Yamal 601",
+    "launchData": "Yamal 601 was launched with Proton 2019-05-30.",
+    "launchDate": "2019-05-30",
+    "launchRocket": "Proton"
   },
   {
     "satellite": "G-Sat 19",
@@ -882,16 +870,28 @@
     "launchRocket": "GSLV"
   },
   {
-    "satellite": "Al Yah 2",
-    "launchData": "Al Yah 2 was launched with Ariane 5 - VA206 2012-04-23.",
-    "launchDate": "2012-04-23",
-    "launchRocket": "Ariane 5 - VA206"
+    "satellite": "G-Sat 31",
+    "launchData": "G-Sat 31 was launched with Ariane 5 - VA247 2019-02-05.",
+    "launchDate": "2019-02-05",
+    "launchRocket": "Ariane 5 - VA247"
+  },
+  {
+    "satellite": "Eutelsat Quantum",
+    "launchData": "Eutelsat Quantum was launched with Ariane 5 - VA254 2021-07-30.",
+    "launchDate": "2021-07-30",
+    "launchRocket": "Ariane 5 - VA254"
   },
   {
     "satellite": "Azerspace 1",
     "launchData": "Azerspace 1 was launched with Ariane 5 - VA212 2013-02-07.",
     "launchDate": "2013-02-07",
     "launchRocket": "Ariane 5 - VA212"
+  },
+  {
+    "satellite": "Al Yah 2",
+    "launchData": "Al Yah 2 was launched with Ariane 5 - VA206 2012-04-23.",
+    "launchDate": "2012-04-23",
+    "launchRocket": "Ariane 5 - VA206"
   },
   {
     "satellite": "Azerspace 2/Intelsat 38",
@@ -906,27 +906,27 @@
     "launchRocket": "Long March 3B"
   },
   {
-    "satellite": "Cosmos 2520",
-    "launchData": "Cosmos 2520 was launched with Proton 2017-08-16.",
-    "launchDate": "2017-08-16",
-    "launchRocket": "Proton"
-  },
-  {
     "satellite": "Türksat 3A",
     "launchData": "Türksat 3A was launched with Ariane 5 2008-06-12.",
     "launchDate": "2008-06-12",
     "launchRocket": "Ariane 5"
   },
   {
-    "satellite": "Express AM7",
-    "launchData": "Express AM7 was launched with Proton 2015-03-18.",
-    "launchDate": "2015-03-18",
+    "satellite": "Cosmos 2520",
+    "launchData": "Cosmos 2520 was launched with Proton 2017-08-16.",
+    "launchDate": "2017-08-16",
     "launchRocket": "Proton"
   },
   {
     "satellite": "Türksat 4A",
     "launchData": "Türksat 4A was launched with Proton 2014-02-14.",
     "launchDate": "2014-02-14",
+    "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Express AM7",
+    "launchData": "Express AM7 was launched with Proton 2015-03-18.",
+    "launchDate": "2015-03-18",
     "launchRocket": "Proton"
   },
   {
@@ -960,22 +960,16 @@
     "launchRocket": "Proton"
   },
   {
-    "satellite": "Eutelsat 36B",
-    "launchData": "Eutelsat 36B was launched with Proton 2009-11-24.",
-    "launchDate": "2009-11-24",
-    "launchRocket": "Proton"
-  },
-  {
     "satellite": "Eutelsat 33F",
     "launchData": "Eutelsat 33F was launched with Proton 2006-08-04.",
     "launchDate": "2006-08-04",
     "launchRocket": "Proton"
   },
   {
-    "satellite": "Hylas 2",
-    "launchData": "Hylas 2 was launched with Ariane 5 - VA208 2012-08-02.",
-    "launchDate": "2012-08-02",
-    "launchRocket": "Ariane 5 - VA208"
+    "satellite": "Eutelsat 36B",
+    "launchData": "Eutelsat 36B was launched with Proton 2009-11-24.",
+    "launchDate": "2009-11-24",
+    "launchRocket": "Proton"
   },
   {
     "satellite": "Galaxy 14",
@@ -990,16 +984,16 @@
     "launchRocket": "Ariane 5 - VA201"
   },
   {
+    "satellite": "Hylas 2",
+    "launchData": "Hylas 2 was launched with Ariane 5 - VA208 2012-08-02.",
+    "launchDate": "2012-08-02",
+    "launchRocket": "Ariane 5 - VA208"
+  },
+  {
     "satellite": "Arabsat 5A",
     "launchData": "Arabsat 5A was launched with Ariane 5 - V195 2010-06-26.",
     "launchDate": "2010-06-26",
     "launchRocket": "Ariane 5 - V195"
-  },
-  {
-    "satellite": "Türksat 5A",
-    "launchData": "Türksat 5A was launched with Falcon 9 2021-01-08.",
-    "launchDate": "2021-01-08",
-    "launchRocket": "Falcon 9"
   },
   {
     "satellite": "Arabsat 6A",
@@ -1008,9 +1002,15 @@
     "launchRocket": "Falcon 9"
   },
   {
-    "satellite": "Astra 2G",
-    "launchData": "Astra 2G was launched with Proton 2014-12-27.",
-    "launchDate": "2014-12-27",
+    "satellite": "Türksat 5A",
+    "launchData": "Türksat 5A was launched with Falcon 9 2021-01-08.",
+    "launchDate": "2021-01-08",
+    "launchRocket": "Falcon 9"
+  },
+  {
+    "satellite": "Astra 2E",
+    "launchData": "Astra 2E was launched with Proton 2013-09-29.",
+    "launchDate": "2013-09-29",
     "launchRocket": "Proton"
   },
   {
@@ -1020,9 +1020,15 @@
     "launchRocket": "Ariane 5 - VA209"
   },
   {
-    "satellite": "Astra 2E",
-    "launchData": "Astra 2E was launched with Proton 2013-09-29.",
-    "launchDate": "2013-09-29",
+    "satellite": "Astra 2G",
+    "launchData": "Astra 2G was launched with Proton 2014-12-27.",
+    "launchDate": "2014-12-27",
+    "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Badr 5",
+    "launchData": "Badr 5 was launched with Proton 2010-06-03.",
+    "launchDate": "2010-06-03",
     "launchRocket": "Proton"
   },
   {
@@ -1032,16 +1038,16 @@
     "launchRocket": "Araine 5"
   },
   {
-    "satellite": "Badr 5",
-    "launchData": "Badr 5 was launched with Proton 2010-06-03.",
-    "launchDate": "2010-06-03",
-    "launchRocket": "Proton"
-  },
-  {
     "satellite": "Badr 4",
     "launchData": "Badr 4 was launched with Proton 2006-11-08.",
     "launchDate": "2006-11-08",
     "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Badr 7",
+    "launchData": "Badr 7 was launched with Ariane 5 - VA227 2015-11-10.",
+    "launchDate": "2015-11-10",
+    "launchRocket": "Ariane 5 - VA227"
   },
   {
     "satellite": "Es'hail 2",
@@ -1056,10 +1062,10 @@
     "launchRocket": "Falcon 9"
   },
   {
-    "satellite": "Badr 7",
-    "launchData": "Badr 7 was launched with Ariane 5 - VA227 2015-11-10.",
-    "launchDate": "2015-11-10",
-    "launchRocket": "Ariane 5 - VA227"
+    "satellite": "Es'hail 1",
+    "launchData": "Es'hail 1 was launched with Ariane 5 - VA215 2013-08-29.",
+    "launchDate": "2013-08-29",
+    "launchRocket": "Ariane 5 - VA215"
   },
   {
     "satellite": "Astra 3B",
@@ -1072,12 +1078,6 @@
     "launchData": "Astra 3C was launched with Ariane 5 - VA216 2014-03-22.",
     "launchDate": "2014-03-22",
     "launchRocket": "Ariane 5 - VA216"
-  },
-  {
-    "satellite": "Es'hail 1",
-    "launchData": "Es'hail 1 was launched with Ariane 5 - VA215 2013-08-29.",
-    "launchDate": "2013-08-29",
-    "launchRocket": "Ariane 5 - VA215"
   },
   {
     "satellite": "Angosat 2",
@@ -1098,6 +1098,12 @@
     "launchRocket": "Ariane 5 - VA210"
   },
   {
+    "satellite": "Astra 1KR",
+    "launchData": "Astra 1KR was launched with Atlas 5 2006-04-20.",
+    "launchDate": "2006-04-20",
+    "launchRocket": "Atlas 5"
+  },
+  {
     "satellite": "EDRS C",
     "launchData": "EDRS C was launched with Ariane 5 - VA249 2019-08-06.",
     "launchDate": "2019-08-06",
@@ -1108,12 +1114,6 @@
     "launchData": "Arabsat 5C was launched with Ariane 5 - VA204 2011-09-21.",
     "launchDate": "2011-09-21",
     "launchRocket": "Ariane 5 - VA204"
-  },
-  {
-    "satellite": "Astra 1KR",
-    "launchData": "Astra 1KR was launched with Atlas 5 2006-04-20.",
-    "launchDate": "2006-04-20",
-    "launchRocket": "Atlas 5"
   },
   {
     "satellite": "Astra 1N",
@@ -1134,10 +1134,10 @@
     "launchRocket": "Ariane 5 - V176"
   },
   {
-    "satellite": "AMC 14",
-    "launchData": "AMC 14 was launched with Proton 2008-03-14.",
-    "launchDate": "2008-03-14",
-    "launchRocket": "Proton"
+    "satellite": "Amos 17",
+    "launchData": "Amos 17 was launched with Falcon 9 2019-08-06.",
+    "launchDate": "2019-08-06",
+    "launchRocket": "Falcon 9"
   },
   {
     "satellite": "Eutelsat 16A",
@@ -1146,16 +1146,10 @@
     "launchRocket": "Long March 3B"
   },
   {
-    "satellite": "Amos 17",
-    "launchData": "Amos 17 was launched with Falcon 9 2019-08-06.",
-    "launchDate": "2019-08-06",
-    "launchRocket": "Falcon 9"
-  },
-  {
-    "satellite": "Hotbird 13G",
-    "launchData": "Hotbird 13G was launched with Falcon 9 2022-11-03.",
-    "launchDate": "2022-11-03",
-    "launchRocket": "Falcon 9"
+    "satellite": "AMC 14",
+    "launchData": "AMC 14 was launched with Proton 2008-03-14.",
+    "launchDate": "2008-03-14",
+    "launchRocket": "Proton"
   },
   {
     "satellite": "Hotbird 13E",
@@ -1164,16 +1158,16 @@
     "launchRocket": "Ariane 5"
   },
   {
+    "satellite": "Hotbird 13G",
+    "launchData": "Hotbird 13G was launched with Falcon 9 2022-11-03.",
+    "launchDate": "2022-11-03",
+    "launchRocket": "Falcon 9"
+  },
+  {
     "satellite": "Hotbird 13F",
     "launchData": "Hotbird 13F was launched with Falcon 9 2022-10-15.",
     "launchDate": "2022-10-15",
     "launchRocket": "Falcon 9"
-  },
-  {
-    "satellite": "EchoStar 21",
-    "launchData": "EchoStar 21 was launched with Proton 2017-06-08.",
-    "launchDate": "2017-06-08",
-    "launchRocket": "Proton"
   },
   {
     "satellite": "Eutelsat Ka-Sat 9A",
@@ -1188,15 +1182,9 @@
     "launchRocket": "Falcon 9"
   },
   {
-    "satellite": "Eutelsat Konnect",
-    "launchData": "Eutelsat Konnect was launched with Ariane 5 - VA251 2020-01-16.",
-    "launchDate": "2020-01-16",
-    "launchRocket": "Ariane 5 - VA251"
-  },
-  {
-    "satellite": "Eutelsat 7B",
-    "launchData": "Eutelsat 7B was launched with Proton 2013-05-14.",
-    "launchDate": "2013-05-14",
+    "satellite": "EchoStar 21",
+    "launchData": "EchoStar 21 was launched with Proton 2017-06-08.",
+    "launchDate": "2017-06-08",
     "launchRocket": "Proton"
   },
   {
@@ -1206,16 +1194,16 @@
     "launchRocket": "Proton"
   },
   {
-    "satellite": "Astra 4A",
-    "launchData": "Astra 4A was launched with Proton 2007-11-17.",
-    "launchDate": "2007-11-17",
+    "satellite": "Eutelsat 7B",
+    "launchData": "Eutelsat 7B was launched with Proton 2013-05-14.",
+    "launchDate": "2013-05-14",
     "launchRocket": "Proton"
   },
   {
-    "satellite": "SES 5",
-    "launchData": "SES 5 was launched with Proton 2012-07-09.",
-    "launchDate": "2012-07-09",
-    "launchRocket": "Proton"
+    "satellite": "Eutelsat Konnect",
+    "launchData": "Eutelsat Konnect was launched with Ariane 5 - VA251 2020-01-16.",
+    "launchDate": "2020-01-16",
+    "launchRocket": "Ariane 5 - VA251"
   },
   {
     "satellite": "Eutelsat 7C",
@@ -1224,10 +1212,16 @@
     "launchRocket": "Ariane 5 - VA248"
   },
   {
-    "satellite": "Eutelsat 3B",
-    "launchData": "Eutelsat 3B was launched with Zenit/Sea Launch 2014-05-26.",
-    "launchDate": "2014-05-26",
-    "launchRocket": "Zenit/Sea Launch"
+    "satellite": "SES 5",
+    "launchData": "SES 5 was launched with Proton 2012-07-09.",
+    "launchDate": "2012-07-09",
+    "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Astra 4A",
+    "launchData": "Astra 4A was launched with Proton 2007-11-17.",
+    "launchDate": "2007-11-17",
+    "launchRocket": "Proton"
   },
   {
     "satellite": "Rascom QAF 1R",
@@ -1240,6 +1234,12 @@
     "launchData": "Eutelsat Konnect VHTS was launched with Ariane 5 - VA258 2022-09-07.",
     "launchDate": "2022-09-07",
     "launchRocket": "Ariane 5 - VA258"
+  },
+  {
+    "satellite": "Eutelsat 3B",
+    "launchData": "Eutelsat 3B was launched with Zenit/Sea Launch 2014-05-26.",
+    "launchDate": "2014-05-26",
+    "launchRocket": "Zenit/Sea Launch"
   },
   {
     "satellite": "Thor 5",
@@ -1260,6 +1260,12 @@
     "launchRocket": "Falcon 9"
   },
   {
+    "satellite": "Intelsat 10-02",
+    "launchData": "Intelsat 10-02 was launched with Proton 2004-06-16.",
+    "launchDate": "2004-06-16",
+    "launchRocket": "Proton"
+  },
+  {
     "satellite": "Thor 6",
     "launchData": "Thor 6 was launched with Ariane 5 - V192 2009-10-26.",
     "launchDate": "2009-10-26",
@@ -1270,12 +1276,6 @@
     "launchData": "ABS 3A was launched with Falcon 9 2015-03-02.",
     "launchDate": "2015-03-02",
     "launchRocket": "Falcon 9"
-  },
-  {
-    "satellite": "Intelsat 10-02",
-    "launchData": "Intelsat 10-02 was launched with Proton 2004-06-16.",
-    "launchDate": "2004-06-16",
-    "launchRocket": "Proton"
   },
   {
     "satellite": "Eutelsat 5 West B",
@@ -1314,12 +1314,6 @@
     "launchRocket": "Ariane 5 - V196"
   },
   {
-    "satellite": "Eutelsat 8 West B",
-    "launchData": "Eutelsat 8 West B was launched with Ariane 5 - VA225 2015-08-20.",
-    "launchDate": "2015-08-20",
-    "launchRocket": "Ariane 5 - VA225"
-  },
-  {
     "satellite": "Express AM44",
     "launchData": "Express AM44 was launched with Proton 2009-02-11.",
     "launchDate": "2009-02-11",
@@ -1332,16 +1326,16 @@
     "launchRocket": "Atlas 5 - AV-002"
   },
   {
+    "satellite": "Eutelsat 8 West B",
+    "launchData": "Eutelsat 8 West B was launched with Ariane 5 - VA225 2015-08-20.",
+    "launchDate": "2015-08-20",
+    "launchRocket": "Ariane 5 - VA225"
+  },
+  {
     "satellite": "Eutelsat 12 West G",
     "launchData": "Eutelsat 12 West G was launched with Ariane 5 - V186 2008-12-20.",
     "launchDate": "2008-12-20",
     "launchRocket": "Ariane 5 - V186"
-  },
-  {
-    "satellite": "TDRS 13",
-    "launchData": "TDRS 13 was launched with Atlas 2017-08-18.",
-    "launchDate": "2017-08-18",
-    "launchRocket": "Atlas"
   },
   {
     "satellite": "Express AM8",
@@ -1350,16 +1344,22 @@
     "launchRocket": "Proton/Baikonur"
   },
   {
-    "satellite": "Intelsat 37e",
-    "launchData": "Intelsat 37e was launched with Ariane 5 - VA239 2017-09-29.",
-    "launchDate": "2017-09-29",
-    "launchRocket": "Ariane 5 - VA239"
+    "satellite": "TDRS 13",
+    "launchData": "TDRS 13 was launched with Atlas 2017-08-18.",
+    "launchDate": "2017-08-18",
+    "launchRocket": "Atlas"
   },
   {
     "satellite": "Luch 5B",
     "launchData": "Luch 5B was launched with Proton 2012-11-02.",
     "launchDate": "2012-11-02",
     "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Intelsat 37e",
+    "launchData": "Intelsat 37e was launched with Ariane 5 - VA239 2017-09-29.",
+    "launchDate": "2017-09-29",
+    "launchRocket": "Ariane 5 - VA239"
   },
   {
     "satellite": "Telstar 12 Vantage",
@@ -1386,16 +1386,16 @@
     "launchRocket": "Proton"
   },
   {
-    "satellite": "Intelsat 901",
-    "launchData": "Intelsat 901 was launched with Ariane 4 - V141 2001-06-09.",
-    "launchDate": "2001-06-09",
-    "launchRocket": "Ariane 4 - V141"
-  },
-  {
     "satellite": "Alcomsat 1",
     "launchData": "Alcomsat 1 was launched with Long March 3B 2017-12-10.",
     "launchDate": "2017-12-10",
     "launchRocket": "Long March 3B"
+  },
+  {
+    "satellite": "Intelsat 901",
+    "launchData": "Intelsat 901 was launched with Ariane 4 - V141 2001-06-09.",
+    "launchDate": "2001-06-09",
+    "launchRocket": "Ariane 4 - V141"
   },
   {
     "satellite": "Intelsat 9 (drifting east)",
@@ -1404,28 +1404,22 @@
     "launchRocket": "Zenit"
   },
   {
-    "satellite": "Intelsat 904",
-    "launchData": "Intelsat 904 was launched with Ariane 4 - V148 2002-02-23.",
-    "launchDate": "2002-02-23",
-    "launchRocket": "Ariane 4 - V148"
-  },
-  {
     "satellite": "Hispasat 30W-6",
     "launchData": "Hispasat 30W-6 was launched with Falcon 9 2018-03-06.",
     "launchDate": "2018-03-06",
     "launchRocket": "Falcon 9"
   },
   {
+    "satellite": "Intelsat 904",
+    "launchData": "Intelsat 904 was launched with Ariane 4 - V148 2002-02-23.",
+    "launchDate": "2002-02-23",
+    "launchRocket": "Ariane 4 - V148"
+  },
+  {
     "satellite": "Hispasat 30W-5",
     "launchData": "Hispasat 30W-5 was launched with Ariane 5 - V199 2010-12-29.",
     "launchDate": "2010-12-29",
     "launchRocket": "Ariane 5 - V199"
-  },
-  {
-    "satellite": "SpainSat",
-    "launchData": "SpainSat was launched with Ariane 5 2006-03-11.",
-    "launchDate": "2006-03-11",
-    "launchRocket": "Ariane 5"
   },
   {
     "satellite": "Hylas 4",
@@ -1440,16 +1434,16 @@
     "launchRocket": "Ariane 5"
   },
   {
+    "satellite": "SpainSat",
+    "launchData": "SpainSat was launched with Ariane 5 2006-03-11.",
+    "launchDate": "2006-03-11",
+    "launchRocket": "Ariane 5"
+  },
+  {
     "satellite": "Hispasat 36W-1",
     "launchData": "Hispasat 36W-1 was launched with Soyuz - VS16 2017-01-28.",
     "launchDate": "2017-01-28",
     "launchRocket": "Soyuz - VS16"
-  },
-  {
-    "satellite": "NSS 10",
-    "launchData": "NSS 10 was launched with Proton 2005-02-03.",
-    "launchDate": "2005-02-03",
-    "launchRocket": "Proton"
   },
   {
     "satellite": "Intelsat 35e",
@@ -1458,9 +1452,9 @@
     "launchRocket": "Falcon 9"
   },
   {
-    "satellite": "SES 6",
-    "launchData": "SES 6 was launched with Proton 2013-06-03.",
-    "launchDate": "2013-06-03",
+    "satellite": "NSS 10",
+    "launchData": "NSS 10 was launched with Proton 2005-02-03.",
+    "launchDate": "2005-02-03",
     "launchRocket": "Proton"
   },
   {
@@ -1476,10 +1470,10 @@
     "launchRocket": "Zenit 3"
   },
   {
-    "satellite": "Sky Brasil 1",
-    "launchData": "Sky Brasil 1 was launched with Ariane 5 - VA235 2017-02-14.",
-    "launchDate": "2017-02-14",
-    "launchRocket": "Ariane 5 - VA235"
+    "satellite": "SES 6",
+    "launchData": "SES 6 was launched with Proton 2013-06-03.",
+    "launchDate": "2013-06-03",
+    "launchRocket": "Proton"
   },
   {
     "satellite": "Intelsat 11",
@@ -1494,10 +1488,10 @@
     "launchRocket": "Delta"
   },
   {
-    "satellite": "TDRS 6",
-    "launchData": "TDRS 6 was launched with Endeavour 1993-01-13.",
-    "launchDate": "1993-01-13",
-    "launchRocket": "Endeavour"
+    "satellite": "Sky Brasil 1",
+    "launchData": "Sky Brasil 1 was launched with Ariane 5 - VA235 2017-02-14.",
+    "launchDate": "2017-02-14",
+    "launchRocket": "Ariane 5 - VA235"
   },
   {
     "satellite": "SES 14",
@@ -1506,22 +1500,16 @@
     "launchRocket": "Ariane 5 - VA241"
   },
   {
+    "satellite": "TDRS 6",
+    "launchData": "TDRS 6 was launched with Endeavour 1993-01-13.",
+    "launchDate": "1993-01-13",
+    "launchRocket": "Endeavour"
+  },
+  {
     "satellite": "Intelsat 14",
     "launchData": "Intelsat 14 was launched with Atlas 5 2009-11-23.",
     "launchDate": "2009-11-23",
     "launchRocket": "Atlas 5"
-  },
-  {
-    "satellite": "Intelsat 902",
-    "launchData": "Intelsat 902 was launched with Ariane 4 - V143 2001-08-30.",
-    "launchDate": "2001-08-30",
-    "launchRocket": "Ariane 4 - V143"
-  },
-  {
-    "satellite": "Intelsat 23",
-    "launchData": "Intelsat 23 was launched with Proton 2012-10-14.",
-    "launchDate": "2012-10-14",
-    "launchRocket": "Proton"
   },
   {
     "satellite": "TDRS 3",
@@ -1530,10 +1518,28 @@
     "launchRocket": "Discovery"
   },
   {
+    "satellite": "Intelsat 23",
+    "launchData": "Intelsat 23 was launched with Proton 2012-10-14.",
+    "launchDate": "2012-10-14",
+    "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Intelsat 902",
+    "launchData": "Intelsat 902 was launched with Ariane 4 - V143 2001-08-30.",
+    "launchDate": "2001-08-30",
+    "launchRocket": "Ariane 4 - V143"
+  },
+  {
     "satellite": "Intelsat 34",
     "launchData": "Intelsat 34 was launched with Ariane 5 - VA225 2015-08-20.",
     "launchDate": "2015-08-20",
     "launchRocket": "Ariane 5 - VA225"
+  },
+  {
+    "satellite": "Intelsat 21",
+    "launchData": "Intelsat 21 was launched with Zenit 3/Sea Launch 2012-08-19.",
+    "launchDate": "2012-08-19",
+    "launchRocket": "Zenit 3/Sea Launch"
   },
   {
     "satellite": "Amazonas 2",
@@ -1542,10 +1548,10 @@
     "launchRocket": "Ariane 5 - V191"
   },
   {
-    "satellite": "Intelsat 21",
-    "launchData": "Intelsat 21 was launched with Zenit 3/Sea Launch 2012-08-19.",
-    "launchDate": "2012-08-19",
-    "launchRocket": "Zenit 3/Sea Launch"
+    "satellite": "Amazonas 5",
+    "launchData": "Amazonas 5 was launched with Proton 2017-09-11.",
+    "launchDate": "2017-09-11",
+    "launchRocket": "Proton"
   },
   {
     "satellite": "Amazonas Nexus",
@@ -1560,9 +1566,15 @@
     "launchRocket": "Ariane 5 - VA212"
   },
   {
-    "satellite": "Amazonas 5",
-    "launchData": "Amazonas 5 was launched with Proton 2017-09-11.",
-    "launchDate": "2017-09-11",
+    "satellite": "EchoStar 18",
+    "launchData": "EchoStar 18 was launched with Ariane 5 - VA230 2016-06-18.",
+    "launchDate": "2016-06-18",
+    "launchRocket": "Ariane 5 - VA230"
+  },
+  {
+    "satellite": "EchoStar 15",
+    "launchData": "EchoStar 15 was launched with Proton 2010-07-10.",
+    "launchDate": "2010-07-10",
     "launchRocket": "Proton"
   },
   {
@@ -1572,28 +1584,10 @@
     "launchRocket": "Proton"
   },
   {
-    "satellite": "EchoStar 15",
-    "launchData": "EchoStar 15 was launched with Proton 2010-07-10.",
-    "launchDate": "2010-07-10",
-    "launchRocket": "Proton"
-  },
-  {
-    "satellite": "EchoStar 18",
-    "launchData": "EchoStar 18 was launched with Ariane 5 - VA230 2016-06-18.",
-    "launchDate": "2016-06-18",
-    "launchRocket": "Ariane 5 - VA230"
-  },
-  {
     "satellite": "Telstar 19 Vantage",
     "launchData": "Telstar 19 Vantage was launched with Falcon 9 2018-07-22.",
     "launchDate": "2018-07-22",
     "launchRocket": "Falcon 9"
-  },
-  {
-    "satellite": "Star One C2",
-    "launchData": "Star One C2 was launched with Ariane 5 2008-04-18.",
-    "launchDate": "2008-04-18",
-    "launchRocket": "Ariane 5"
   },
   {
     "satellite": "Telstar 14R",
@@ -1602,10 +1596,16 @@
     "launchRocket": "Proton"
   },
   {
-    "satellite": "Eutelsat 65 West A",
-    "launchData": "Eutelsat 65 West A was launched with Ariane 5 - VA229 2016-03-09.",
-    "launchDate": "2016-03-09",
-    "launchRocket": "Ariane 5 - VA229"
+    "satellite": "Star One C2",
+    "launchData": "Star One C2 was launched with Ariane 5 2008-04-18.",
+    "launchDate": "2008-04-18",
+    "launchRocket": "Ariane 5"
+  },
+  {
+    "satellite": "SES 10",
+    "launchData": "SES 10 was launched with Falcon 9 2017-03-30.",
+    "launchDate": "2017-03-30",
+    "launchRocket": "Falcon 9"
   },
   {
     "satellite": "SES 17",
@@ -1614,10 +1614,10 @@
     "launchRocket": "Ariane 5 - VA255"
   },
   {
-    "satellite": "SES 10",
-    "launchData": "SES 10 was launched with Falcon 9 2017-03-30.",
-    "launchDate": "2017-03-30",
-    "launchRocket": "Falcon 9"
+    "satellite": "Eutelsat 65 West A",
+    "launchData": "Eutelsat 65 West A was launched with Ariane 5 - VA229 2016-03-09.",
+    "launchDate": "2016-03-09",
+    "launchRocket": "Ariane 5 - VA229"
   },
   {
     "satellite": "Star One C4",
@@ -1644,22 +1644,16 @@
     "launchRocket": "Proton"
   },
   {
-    "satellite": "Arsat 1",
-    "launchData": "Arsat 1 was launched with Ariane 5 - VA220 2014-10-16.",
-    "launchDate": "2014-10-16",
-    "launchRocket": "Ariane 5 - VA220"
-  },
-  {
     "satellite": "AMC 3",
     "launchData": "AMC 3 was launched with Atlas 1997-09-04.",
     "launchDate": "1997-09-04",
     "launchRocket": "Atlas"
   },
   {
-    "satellite": "ChinaSat 9A (drifting west)",
-    "launchData": "ChinaSat 9A was launched with Long March 3B 2017-06-18.",
-    "launchDate": "2017-06-18",
-    "launchRocket": "Long March 3B"
+    "satellite": "Arsat 1",
+    "launchData": "Arsat 1 was launched with Ariane 5 - VA220 2014-10-16.",
+    "launchDate": "2014-10-16",
+    "launchRocket": "Ariane 5 - VA220"
   },
   {
     "satellite": "Nimiq 5",
@@ -1668,16 +1662,16 @@
     "launchRocket": "Proton"
   },
   {
+    "satellite": "ChinaSat 9A (drifting west)",
+    "launchData": "ChinaSat 9A was launched with Long March 3B 2017-06-18.",
+    "launchDate": "2017-06-18",
+    "launchRocket": "Long March 3B"
+  },
+  {
     "satellite": "Horizons 2",
     "launchData": "Horizons 2 was launched with Ariane 5 2007-12-21.",
     "launchDate": "2007-12-21",
     "launchRocket": "Ariane 5"
-  },
-  {
-    "satellite": "Hispasat 74W-1",
-    "launchData": "Hispasat 74W-1 was launched with Ariane 5 - VA216 2014-03-22.",
-    "launchDate": "2014-03-22",
-    "launchRocket": "Ariane 5 - VA216"
   },
   {
     "satellite": "Star One C3",
@@ -1686,16 +1680,16 @@
     "launchRocket": "Ariane 5 - VA210"
   },
   {
+    "satellite": "Hispasat 74W-1",
+    "launchData": "Hispasat 74W-1 was launched with Ariane 5 - VA216 2014-03-22.",
+    "launchDate": "2014-03-22",
+    "launchRocket": "Ariane 5 - VA216"
+  },
+  {
     "satellite": "SGDC",
     "launchData": "SGDC was launched with Ariane 5 - VA236 2017-05-04.",
     "launchDate": "2017-05-04",
     "launchRocket": "Ariane 5 - VA236"
-  },
-  {
-    "satellite": "Intelsat 16",
-    "launchData": "Intelsat 16 was launched with Proton 2010-02-12.",
-    "launchDate": "2010-02-12",
-    "launchRocket": "Proton"
   },
   {
     "satellite": "Sky Mexico 1",
@@ -1710,10 +1704,10 @@
     "launchRocket": "Proton"
   },
   {
-    "satellite": "Arsat 2",
-    "launchData": "Arsat 2 was launched with Ariane 5 - VA226 2015-09-30.",
-    "launchDate": "2015-09-30",
-    "launchRocket": "Ariane 5 - VA226"
+    "satellite": "Intelsat 16",
+    "launchData": "Intelsat 16 was launched with Proton 2010-02-12.",
+    "launchDate": "2010-02-12",
+    "launchRocket": "Proton"
   },
   {
     "satellite": "Nimiq 4",
@@ -1728,10 +1722,22 @@
     "launchRocket": "Ariane 5 - VA234"
   },
   {
+    "satellite": "Arsat 2",
+    "launchData": "Arsat 2 was launched with Ariane 5 - VA226 2015-09-30.",
+    "launchDate": "2015-09-30",
+    "launchRocket": "Ariane 5 - VA226"
+  },
+  {
     "satellite": "Sirius XM 8",
     "launchData": "Sirius XM 8 was launched with Falcon 9 2021-06-06.",
     "launchDate": "2021-06-06",
     "launchRocket": "Falcon 9"
+  },
+  {
+    "satellite": "Galaxy 17",
+    "launchData": "Galaxy 17 was launched with Ariane 5 - V176 2007-05-04.",
+    "launchDate": "2007-05-04",
+    "launchRocket": "Ariane 5 - V176"
   },
   {
     "satellite": "XM 3",
@@ -1740,10 +1746,10 @@
     "launchRocket": "Zenit"
   },
   {
-    "satellite": "Galaxy 17",
-    "launchData": "Galaxy 17 was launched with Ariane 5 - V176 2007-05-04.",
-    "launchDate": "2007-05-04",
-    "launchRocket": "Ariane 5 - V176"
+    "satellite": "Sirius FM 5",
+    "launchData": "Sirius FM 5 was launched with Proton 2009-06-30.",
+    "launchDate": "2009-06-30",
+    "launchRocket": "Proton"
   },
   {
     "satellite": "Sirius XM 7",
@@ -1758,22 +1764,10 @@
     "launchRocket": "Ariane 5 - VA204"
   },
   {
-    "satellite": "Sirius FM 5",
-    "launchData": "Sirius FM 5 was launched with Proton 2009-06-30.",
-    "launchDate": "2009-06-30",
-    "launchRocket": "Proton"
-  },
-  {
     "satellite": "ABS 7 (drifting west)",
     "launchData": "ABS 7 was launched with Ariane V120 1999-09-04.",
     "launchDate": "1999-09-04",
     "launchRocket": "Ariane V120"
-  },
-  {
-    "satellite": "ViaSat 3 Americas",
-    "launchData": "ViaSat 3 Americas was launched with Falcon Heavy 2023-05-01.",
-    "launchDate": "2023-05-01",
-    "launchRocket": "Falcon Heavy"
   },
   {
     "satellite": "TKSat 1",
@@ -1782,16 +1776,16 @@
     "launchRocket": "Long March 3B"
   },
   {
+    "satellite": "ViaSat 3 Americas",
+    "launchData": "ViaSat 3 Americas was launched with Falcon Heavy 2023-05-01.",
+    "launchDate": "2023-05-01",
+    "launchRocket": "Falcon Heavy"
+  },
+  {
     "satellite": "Intelsat 40e",
     "launchData": "Intelsat 40e was launched with Falcon 9 2023-04-07.",
     "launchDate": "2023-04-07",
     "launchRocket": "Falcon 9"
-  },
-  {
-    "satellite": "Galaxy 36",
-    "launchData": "Galaxy 36 was launched with Ariane 5 - VA259 2022-12-13.",
-    "launchDate": "2022-12-13",
-    "launchRocket": "Ariane 5 - VA259"
   },
   {
     "satellite": "Galaxy 28",
@@ -1800,8 +1794,8 @@
     "launchRocket": "Zenit"
   },
   {
-    "satellite": "Galaxy 35",
-    "launchData": "Galaxy 35 was launched with Ariane 5 - VA259 2022-12-13.",
+    "satellite": "Galaxy 36",
+    "launchData": "Galaxy 36 was launched with Ariane 5 - VA259 2022-12-13.",
     "launchDate": "2022-12-13",
     "launchRocket": "Ariane 5 - VA259"
   },
@@ -1812,10 +1806,22 @@
     "launchRocket": "Proton"
   },
   {
+    "satellite": "Galaxy 35",
+    "launchData": "Galaxy 35 was launched with Ariane 5 - VA259 2022-12-13.",
+    "launchDate": "2022-12-13",
+    "launchRocket": "Ariane 5 - VA259"
+  },
+  {
     "satellite": "Galaxy 32",
     "launchData": "Galaxy 32 was launched with Falcon 9 2022-11-12.",
     "launchDate": "2022-11-12",
     "launchRocket": "Falcon 9"
+  },
+  {
+    "satellite": "Intelsat 31",
+    "launchData": "Intelsat 31 was launched with Proton 2016-06-09.",
+    "launchDate": "2016-06-09",
+    "launchRocket": "Proton"
   },
   {
     "satellite": "Intelsat 30",
@@ -1830,10 +1836,10 @@
     "launchRocket": "Zenit"
   },
   {
-    "satellite": "Intelsat 31",
-    "launchData": "Intelsat 31 was launched with Proton 2016-06-09.",
-    "launchDate": "2016-06-09",
-    "launchRocket": "Proton"
+    "satellite": "Jupiter 3/EchoStar 24",
+    "launchData": "Jupiter 3/EchoStar 24 was launched with Falcon Heavy 2023-07-29.",
+    "launchDate": "2023-07-29",
+    "launchRocket": "Falcon Heavy"
   },
   {
     "satellite": "Galaxy 19",
@@ -1848,22 +1854,10 @@
     "launchRocket": "Ariane 5 - V187"
   },
   {
-    "satellite": "Jupiter 3/EchoStar 24",
-    "launchData": "Jupiter 3/EchoStar 24 was launched with Falcon Heavy 2023-07-29.",
-    "launchDate": "2023-07-29",
-    "launchRocket": "Falcon Heavy"
-  },
-  {
     "satellite": "EchoStar 19",
     "launchData": "EchoStar 19 was launched with Atlas 5 2016-12-18.",
     "launchDate": "2016-12-18",
     "launchRocket": "Atlas 5"
-  },
-  {
-    "satellite": "T11",
-    "launchData": "T11 was launched with Zenit 3 2008-03-19.",
-    "launchDate": "2008-03-19",
-    "launchRocket": "Zenit 3"
   },
   {
     "satellite": "Galaxy 16",
@@ -1872,10 +1866,10 @@
     "launchRocket": "Zenit 3"
   },
   {
-    "satellite": "TDRS 5 (drifting 1.4°E/day)",
-    "launchData": "TDRS 5 was launched with Atlantis 1991-08-02.",
-    "launchDate": "1991-08-02",
-    "launchRocket": "Atlantis"
+    "satellite": "T11",
+    "launchData": "T11 was launched with Zenit 3 2008-03-19.",
+    "launchDate": "2008-03-19",
+    "launchRocket": "Zenit 3"
   },
   {
     "satellite": "T16",
@@ -1890,10 +1884,10 @@
     "launchRocket": "Ariane 5 - VA221"
   },
   {
-    "satellite": "T9S",
-    "launchData": "T9S was launched with Ariane 5 2006-10-13.",
-    "launchDate": "2006-10-13",
-    "launchRocket": "Ariane 5"
+    "satellite": "TDRS 5 (drifting 1.4°E/day)",
+    "launchData": "TDRS 5 was launched with Atlantis 1991-08-02.",
+    "launchDate": "1991-08-02",
+    "launchRocket": "Atlantis"
   },
   {
     "satellite": "SES 1",
@@ -1906,6 +1900,12 @@
     "launchData": "T10 was launched with Proton 2007-07-07.",
     "launchDate": "2007-07-07",
     "launchRocket": "Proton"
+  },
+  {
+    "satellite": "T9S",
+    "launchData": "T9S was launched with Ariane 5 2006-10-13.",
+    "launchDate": "2006-10-13",
+    "launchRocket": "Ariane 5"
   },
   {
     "satellite": "SES 3",
@@ -1950,16 +1950,22 @@
     "launchRocket": "Falcon 9"
   },
   {
+    "satellite": "Anik F1R",
+    "launchData": "Anik F1R was launched with Proton 2005-09-08.",
+    "launchDate": "2005-09-08",
+    "launchRocket": "Proton"
+  },
+  {
     "satellite": "EchoStar 17",
     "launchData": "EchoStar 17 was launched with Ariane 5 - VA207 2012-07-05.",
     "launchDate": "2012-07-05",
     "launchRocket": "Ariane 5 - VA207"
   },
   {
-    "satellite": "Anik F1R",
-    "launchData": "Anik F1R was launched with Proton 2005-09-08.",
-    "launchDate": "2005-09-08",
-    "launchRocket": "Proton"
+    "satellite": "Anik F1",
+    "launchData": "Anik F1 was launched with Ariane 4 - V136 2000-11-21.",
+    "launchDate": "2000-11-21",
+    "launchRocket": "Ariane 4 - V136"
   },
   {
     "satellite": "Anik G1",
@@ -1974,10 +1980,10 @@
     "launchRocket": "Proton"
   },
   {
-    "satellite": "Anik F1",
-    "launchData": "Anik F1 was launched with Ariane 4 - V136 2000-11-21.",
-    "launchDate": "2000-11-21",
-    "launchRocket": "Ariane 4 - V136"
+    "satellite": "EchoStar 10",
+    "launchData": "EchoStar 10 was launched with Zenit 2006-02-15.",
+    "launchDate": "2006-02-15",
+    "launchRocket": "Zenit"
   },
   {
     "satellite": "EchoStar 23",
@@ -1986,22 +1992,16 @@
     "launchRocket": "Falcon 9"
   },
   {
-    "satellite": "EchoStar 10",
-    "launchData": "EchoStar 10 was launched with Zenit 2006-02-15.",
-    "launchDate": "2006-02-15",
-    "launchRocket": "Zenit"
-  },
-  {
     "satellite": "T5",
     "launchData": "T5 was launched with Proton 2002-05-07.",
     "launchDate": "2002-05-07",
     "launchRocket": "Proton"
   },
   {
-    "satellite": "EchoStar 11",
-    "launchData": "EchoStar 11 was launched with Zenit 3/Sea Launch 2008-07-16.",
-    "launchDate": "2008-07-16",
-    "launchRocket": "Zenit 3/Sea Launch"
+    "satellite": "Anik F2",
+    "launchData": "Anik F2 was launched with Ariane 5 - V163 2004-07-18.",
+    "launchDate": "2004-07-18",
+    "launchRocket": "Ariane 5 - V163"
   },
   {
     "satellite": "WildBlue 1",
@@ -2010,10 +2010,16 @@
     "launchRocket": "Ariane 5 - V174"
   },
   {
-    "satellite": "Anik F2",
-    "launchData": "Anik F2 was launched with Ariane 5 - V163 2004-07-18.",
-    "launchDate": "2004-07-18",
-    "launchRocket": "Ariane 5 - V163"
+    "satellite": "EchoStar 11",
+    "launchData": "EchoStar 11 was launched with Zenit 3/Sea Launch 2008-07-16.",
+    "launchDate": "2008-07-16",
+    "launchRocket": "Zenit 3/Sea Launch"
+  },
+  {
+    "satellite": "TerreStar 1",
+    "launchData": "TerreStar 1 was launched with Ariane 5 - V189 2009-07-01.",
+    "launchDate": "2009-07-01",
+    "launchRocket": "Ariane 5 - V189"
   },
   {
     "satellite": "Morelos 3",
@@ -2028,16 +2034,10 @@
     "launchRocket": "Atlas 2AS"
   },
   {
-    "satellite": "TerreStar 1",
-    "launchData": "TerreStar 1 was launched with Ariane 5 - V189 2009-07-01.",
-    "launchDate": "2009-07-01",
-    "launchRocket": "Ariane 5 - V189"
-  },
-  {
-    "satellite": "ViaSat 1",
-    "launchData": "ViaSat 1 was launched with Proton 2011-10-19.",
-    "launchDate": "2011-10-19",
-    "launchRocket": "Proton"
+    "satellite": "Eutelsat 115 West B",
+    "launchData": "Eutelsat 115 West B was launched with Falcon 9 2015-03-02.",
+    "launchDate": "2015-03-02",
+    "launchRocket": "Falcon 9"
   },
   {
     "satellite": "Mexsat Bicentenario",
@@ -2046,15 +2046,9 @@
     "launchRocket": "Ariane 5 - VA211"
   },
   {
-    "satellite": "Eutelsat 115 West B",
-    "launchData": "Eutelsat 115 West B was launched with Falcon 9 2015-03-02.",
-    "launchDate": "2015-03-02",
-    "launchRocket": "Falcon 9"
-  },
-  {
-    "satellite": "Sirius XM 5",
-    "launchData": "Sirius XM 5 was launched with Proton 2010-10-14.",
-    "launchDate": "2010-10-14",
+    "satellite": "ViaSat 1",
+    "launchData": "ViaSat 1 was launched with Proton 2011-10-19.",
+    "launchDate": "2011-10-19",
     "launchRocket": "Proton"
   },
   {
@@ -2064,15 +2058,15 @@
     "launchRocket": "Proton"
   },
   {
-    "satellite": "Sirius FM 6",
-    "launchData": "Sirius FM 6 was launched with Proton 2013-10-25.",
-    "launchDate": "2013-10-25",
+    "satellite": "Sirius XM 5",
+    "launchData": "Sirius XM 5 was launched with Proton 2010-10-14.",
+    "launchDate": "2010-10-14",
     "launchRocket": "Proton"
   },
   {
-    "satellite": "T8",
-    "launchData": "T8 was launched with Proton 2005-05-22.",
-    "launchDate": "2005-05-22",
+    "satellite": "Sirius FM 6",
+    "launchData": "Sirius FM 6 was launched with Proton 2013-10-25.",
+    "launchDate": "2013-10-25",
     "launchRocket": "Proton"
   },
   {
@@ -2088,9 +2082,9 @@
     "launchRocket": "Proton"
   },
   {
-    "satellite": "EchoStar 14",
-    "launchData": "EchoStar 14 was launched with Proton 2010-03-20.",
-    "launchDate": "2010-03-20",
+    "satellite": "T8",
+    "launchData": "T8 was launched with Proton 2005-05-22.",
+    "launchDate": "2005-05-22",
     "launchRocket": "Proton"
   },
   {
@@ -2106,10 +2100,10 @@
     "launchRocket": "Zenit 3"
   },
   {
-    "satellite": "AMC 21",
-    "launchData": "AMC 21 was launched with Ariane 5 - V185 2008-08-14.",
-    "launchDate": "2008-08-14",
-    "launchRocket": "Ariane 5 - V185"
+    "satellite": "EchoStar 14",
+    "launchData": "EchoStar 14 was launched with Proton 2010-03-20.",
+    "launchDate": "2010-03-20",
+    "launchRocket": "Proton"
   },
   {
     "satellite": "Galaxy 31",
@@ -2122,6 +2116,12 @@
     "launchData": "Galaxy 18 was launched with Zenit 3/Sea Launch 2008-05-21.",
     "launchDate": "2008-05-21",
     "launchRocket": "Zenit 3/Sea Launch"
+  },
+  {
+    "satellite": "AMC 21",
+    "launchData": "AMC 21 was launched with Ariane 5 - V185 2008-08-14.",
+    "launchDate": "2008-08-14",
+    "launchRocket": "Ariane 5 - V185"
   },
   {
     "satellite": "SES 15",
@@ -2160,28 +2160,22 @@
     "launchRocket": "Falcon 9"
   },
   {
-    "satellite": "SES 22",
-    "launchData": "SES 22 was launched with Falcon 9 2022-06-29.",
-    "launchDate": "2022-06-29",
-    "launchRocket": "Falcon 9"
-  },
-  {
     "satellite": "Spaceway 2",
     "launchData": "Spaceway 2 was launched with Ariane 5 - V167 2005-11-16.",
     "launchDate": "2005-11-16",
     "launchRocket": "Ariane 5 - V167"
   },
   {
+    "satellite": "SES 22",
+    "launchData": "SES 22 was launched with Falcon 9 2022-06-29.",
+    "launchDate": "2022-06-29",
+    "launchRocket": "Falcon 9"
+  },
+  {
     "satellite": "SES 19",
     "launchData": "SES 19 was launched with Falcon 9 2023-03-17.",
     "launchDate": "2023-03-17",
     "launchRocket": "Falcon 9"
-  },
-  {
-    "satellite": "Eutelsat 139 West A",
-    "launchData": "Eutelsat 139 West A was launched with Proton 2004-03-15.",
-    "launchDate": "2004-03-15",
-    "launchRocket": "Proton"
   },
   {
     "satellite": "Galaxy 13/Horizons 1",
@@ -2193,6 +2187,12 @@
     "satellite": "AMC 6",
     "launchData": "AMC 6 was launched with Proton 2000-10-21.",
     "launchDate": "2000-10-21",
+    "launchRocket": "Proton"
+  },
+  {
+    "satellite": "Eutelsat 139 West A",
+    "launchData": "Eutelsat 139 West A was launched with Proton 2004-03-15.",
+    "launchDate": "2004-03-15",
     "launchRocket": "Proton"
   }
 ]

@@ -2,8 +2,15 @@
 const fs = require('fs');
 
 // join two JSON object arrays on a common key
-const joinJSON = (arr1, arr2, key) => {
+const joinJSONs = (arr1, arr2, key) => {
     return arr2.map(x => Object.assign(x, arr1.find(y => y[key] === x[key])));
+}
+
+const joinJSON = (arr1, arr2, key) => {
+    return arr2.map(x => {
+        const matchingObj = arr1.find(y => y[key] === x[key]);
+        return matchingObj ? Object.assign({}, x, matchingObj) : x;
+    });
 }
 
 function joinJsonArrays(arrayA, arrayB, key) {

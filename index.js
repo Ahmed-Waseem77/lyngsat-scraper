@@ -44,7 +44,9 @@ const main = async () => {
 	
 	if (!(args.includes('-wc') || args.includes('--without-channels'))) {
 		console.log( colors.magenta + format.bold + 'scraping channels..' + colors.reset);
-		channelData = await satChannelsScrape(browser, satellites , url);
+		satellitesSlice = satellites.slice(10,15);
+		console.log(satellitesSlice);
+		channelData = await satChannelsScrape(browser, satellitesSlice , url);
 	}
 	else {
 		channelData = [];
@@ -72,7 +74,7 @@ const main = async () => {
 	}
 	
 	let joinedSats = joinJSON(satData, launchData, 'satellite');
-	fs.writeFileSync('./final_satelliteData.json', JSON.stringify(joinedSats, null, 2));
+	fs.writeFileSync('./final_satelliteData.json', JSON.stringify(joinedSats, null, 2));	
 
 	console.log(colors.green + 'Scraping complete' + colors.reset);
 	await browser.close();
