@@ -3,6 +3,7 @@ const utils = require('./utils');
 const regions = require('./config').regions;
 const packageScrape = require('./packages-scrape');
 const fs = require('fs');
+const { channel } = require('diagnostics_channel');
 
 const linkScraperAndFilter = async (browser, page, url) => {
 
@@ -114,10 +115,11 @@ const satChannelExtractor = async (satellite, channelName, page) => {
         const langText = await lang.jsonValue();
         const encryptionText = await encryption.jsonValue();
 
-        console.log(satelliteText, beamText, freqText, systemText, SRFECText, videoText, langText, encryptionText);
+        console.log(satelliteText, channelName, beamText, freqText, systemText, SRFECText, videoText, langText, encryptionText);
 
         const relationsObj = {
             satellite: satelliteText.trim(),
+			tvchannel: channelName.trim(),
             beam: beamText.trim(),
             freq: freqText.trim(),
             system: systemText.trim(),
@@ -134,7 +136,7 @@ const satChannelExtractor = async (satellite, channelName, page) => {
 }
 
 
-const satChannelsScrape = async (browser, satellites, url) => {
+const satChannelsScrape_s = async (browser, satellites, url) => {
 	const page = await browser.newPage();
 	satChannelData = [];
 	satellitesConverted = satellites.map(sat => utils.convertToUrl(sat));
@@ -311,7 +313,6 @@ const satChannelsScrape = async (browser, satellites, url) => {
 
 	await page.close();
 	return { providerDataObjArray, tvChannelDataObjArray, satChannelDataObjArray };
-};
-
+}
 
 module.exports = satChannelsScrape;

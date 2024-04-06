@@ -36,12 +36,14 @@ const main = async () => {
 	}
 	console.log('Browser opened');
 
-	console.log( colors.magenta + format.bold + 'scraping satellites..' + colors.reset);
-	satData = await satScrape(browser, regions, url);
+	if (!(args.includes('-t') || args.includes('--test'))) {
+		console.log( colors.magenta + format.bold + 'scraping satellites..' + colors.reset);
+		satData = await satScrape(browser, regions, url);
 
-	satellites = satData.map(sat => sat.satellite);
-	console.log( satellites.length + ' satellites found');
-	
+		satellites = satData.map(sat => sat.satellite);
+		console.log( satellites.length + ' satellites found');
+	}	
+
 	if (!(args.includes('-wc') || args.includes('--without-channels'))) {
 		console.log( colors.magenta + format.bold + 'scraping channels..' + colors.reset);
 		({ providerData, channelData, satChannelData } = await satChannelsScrape(browser, satellites.slice(0,184), url));
@@ -53,6 +55,8 @@ const main = async () => {
 	if (!(args.includes('-wl') || args.includes('--without-launches'))) {
 		console.log( colors.magenta + format.bold + 'scraping launches..' + colors.reset);
 		launchData = await satLaunchesScrape(browser, satellites, url);	
+	    let joinedSats = joinJSON(satData, launchData, 'satellite');
+	    fs.writeFileSync('./final_satelliteData.json', JSON.stringify(joinedSats, null, 2));	
 	}
 	else {
 		launchData = [];
@@ -60,7 +64,51 @@ const main = async () => {
 
 	// testing arguement to test any functionality independently
 	if(args.includes('-t') || args.includes('--test')) {
-		console.log(colors.green + 'No Unit Tests Being Done' + colors.reset);
+		console.log(colors.green + 'testing' + colors.reset);
+
+
+	    // cleaning and db connection
+	    console.log(colors.green + 'Cleaning up' + colors.reset);
+	    // read files into json obj arrays
+	    let satChannelData1 = JSON.parse(fs.readFileSync('./final_satChannelData.json'));
+	    let satChannelData2 = JSON.parse(fs.readFileSync('./final_satChannelData2.json'));
+
+	    let tvChannelData1 = JSON.parse(fs.readFileSync('./final_satChannelData.json'));
+	    let tvChannelData2 = JSON.parse(fs.readFileSync('./final_satChannelData2.json'));
+
+	    let providerData1 = JSON.parse(fs.readFileSync('./final_satChannelData.json'));
+	    let providerData2 = JSON.parse(fs.readFileSync('./final_satChannelData2.json'));
+
+	    let satelliteData1 = JSON.parse(fs.readFileSync('./final_satChannelData.json'));
+
+	    // join json obj arrays
+	    let final_satChannelData = (satChannelData1.concat(satChannelData2)).flat();
+	    let final_tvChannelData = (tvChannelData1.concat(tvChannelData2)).flat();
+	    let final_providerData = (providerData1.concat(providerData2)).flat();
+		let final_satelliteData = satelliteData1.flat();
+		console.log(final_providerData.length)
+		console.log(final_satelliteData.length)
+		console.log(final_satChannelData.length)
+		console.log(final_tvChannelData.length)
+
+
+	    // remove duplicate json objs
+
+	    final_satChannelData = final_satChannelData.filter((v,i,a)=>a.findIndex(t=>(t === v))===i);
+		final_providerData = final_providerData.filter((v,i,a)=>a.findIndex(t=>(t === v))===i);
+		final_tvChannelData = final_tvChannelData.filter((v,i,a)=>a.findIndex(t=>(t=== v))===i);
+		console.log(final_providerData.length)
+		console.log(final_satelliteData.length)
+		console.log(final_satChannelData.length)
+		console.log(final_tvChannelData.length)
+
+		// write to cleaned up files
+		fs.writeFileSync('./clean_satChannelData.json', JSON.stringify(final_satChannelData, null, 2));
+		fs.writeFileSync('./clean_tvChannelData.json', JSON.stringify(final_tvChannelData, null, 2));
+		fs.writeFileSync('./clean_providerData.json', JSON.stringify(final_providerData, null, 2));
+		fs.writeFileSync('./clean_satelliteData.json', JSON.stringify(final_satelliteData, null, 2));
+
+		await browser.close();
 		return;
 	}
 
@@ -71,11 +119,6 @@ const main = async () => {
 		console.log( colors.cyan + format.bold + '\n\nChannel data:\n' + colors.reset, channelData);
 	}
 	
-	let joinedSats = joinJSON(satData, launchData, 'satellite');
-	fs.writeFileSync('./final_satelliteData.json', JSON.stringify(joinedSats, null, 2));	
-	fs.writeFileSync('./final_providerData.json', JSON.stringify(providerData, null, 2));
-	fs.writeFileSync('./final_channelData.json', JSON.stringify(channelData, null, 2));
-	fs.writeFileSync('./satChannelData.json', JSON.stringify(satChannelData, null, 2));
 
 	console.log(colors.green + 'Scraping complete' + colors.reset);
 	await browser.close();
