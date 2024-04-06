@@ -71,8 +71,6 @@ const linkScraperAndFilter = async (browser, page, url) => {
 	}
 
 	console.log('Grouped Links: ' + groupedLinks.length);
-	console.log(groupedLinks);
-
 	return groupedLinks;
 }
 
@@ -99,13 +97,13 @@ const satChannelExtractor = async (satellite, channelName, page) => {
 				if (freq === null) { continue; }
         const system = await cells[4]?.getProperty('textContent') || null;
 				if (system === null) { continue; }
-        const SRFEC = await cells[5]?.getProperty('textContent');
+        const SRFEC = await cells[5]?.getProperty('textContent') || null;
 				if (SRFEC === null) { continue; }
-        const video = await cells[6]?.getProperty('textContent');
+        const video = await cells[6]?.getProperty('textContent') || null ;
 				if (video === null) { continue; }
-        const lang = await cells[7]?.getProperty('textContent');
+        const lang = await cells[7]?.getProperty('textContent') || null;
 				if (lang === null) { continue; }
-        const encryption = await cells[8]?.getProperty('textContent');
+        const encryption = await cells[8]?.getProperty('textContent') || null;
 				if (encryption === null) { continue; }
 
         const beamText = await beam.jsonValue();
@@ -129,6 +127,7 @@ const satChannelExtractor = async (satellite, channelName, page) => {
             encryption: encryptionText.trim()
         };
 
+
         relationsObjsArray.push(relationsObj);
     }
     return relationsObjsArray;
@@ -142,6 +141,61 @@ const satChannelsScrape = async (browser, satellites, url) => {
 	const providerDataObjArray = [];
 	const tvChannelDataObjArray = [];
 	const satChannelDataObjArray = [];
+
+	const satChannelRelationshipFilepath = './final_satChannelData.json';
+	const tvChannelFilepath = './final_tvChannelData.json';
+	const providerFilepath = './final_providerData.json';
+
+	// write empty array to files if they are empty
+
+	fs.readFile(satChannelRelationshipFilepath, 'utf8', (err, data) => {
+		if (err) {
+			return;
+		}
+
+		if (data === '') {
+			fs.writeFile(satChannelRelationshipFilepath, '[\n]', 'utf8', (err) => {
+				if (err) {
+				  console.error(err);
+				  return;
+				}
+				console.log('Empty array written to file');
+			});
+		}
+	});
+
+	fs.readFile(tvChannelFilepath, 'utf8', (err, data) => {
+		if (err) {
+			return;
+		}
+
+		if (data === '') {
+			fs.writeFile(tvChannelFilepath, '[\n]', 'utf8', (err) => {
+				if (err) {
+				  console.error(err);
+				  return;
+				}
+				console.log('Empty array written to file');
+			});
+		}
+	});
+
+
+	fs.readFile(providerFilepath, 'utf8', (err, data) => {
+		if (err) {
+			return;
+		}
+
+		if (data === '') {
+			fs.writeFile(providerFilepath, '[\n]', 'utf8', (err) => {
+				if (err) {
+				  console.error(err);
+				  return;
+				}
+				console.log('Empty array written to file');
+			});
+		}
+	});
 
 	// loop through all satellites
 	for (let i=0; i<satellites.length; i++) {
@@ -157,7 +211,6 @@ const satChannelsScrape = async (browser, satellites, url) => {
 		// append links json to a file 
 		// read the existing data from the JSON file
 
-		const satChannelRelationshipFilepath = './satChannelData.json';
 
 		// need to have 3 routines here 
 		// 1) to construct a json for every channel data					
@@ -186,7 +239,7 @@ const satChannelsScrape = async (browser, satellites, url) => {
 
 		for (let group of groupedLinks) {
 				if (group.providerLink === null) { continue; }
-				await page.goto(group.providerLink);	 
+				await page.goto(group.providerLink, {waitUntil: 'domcontentloaded'});	 
 
 				const providerNameElements		= await page.$$(providerNameSelector);
 				const providerLogoElements 		= await page.$$(providerLogoSelector);
@@ -194,11 +247,7 @@ const satChannelsScrape = async (browser, satellites, url) => {
 				const providerCountryElements = await page.$$(providerCountrySelector);
 			
 				const providerName = providerNameElements.length > 0 ? await page.evaluate(el => el.innerText, providerNameElements[0]) : null;
-
-				// for providerCountry we need to extract the country from the url betwee  the last '/' and '.html'
-				const providerCountryRegex = /\/([a-zA-Z]+)\.html/;
-
-				providerCountry = providerCountryElements.length > 0 ? await page.evaluate(el => el.href, providerCountryElements[0]) : null;
+				providerCountry = providerCountryElements.length > 0 ? await page.evaluate(el => el.textContent, providerCountryElements[0]) : null;
 
 				providerData = {
 						satellite: satellites[i],
@@ -208,12 +257,16 @@ const satChannelsScrape = async (browser, satellites, url) => {
 						providerCountry: providerCountry
 				};
 
-				console.log(providerData);
+				utils.appendToJSON(providerFilepath, providerData, (err) => {
+					if (err) {
+						console.error(err);
+					}
+				});
 				providerDataObjArray.push(providerData); 
 
 				for (let tvChannel of group.tvchannels) {
 					if (tvChannel === null) { continue; }
-					await page.goto(tvChannel);
+					await page.goto(tvChannel, { waitUntil: 'domcontentloaded' });
 
 					const tvChannelElements					= await page.$$(tvChannelSelector);
 					const tvChannelLogoElements 		= await page.$$(tvChannelLogoSelector);
@@ -222,7 +275,15 @@ const satChannelsScrape = async (browser, satellites, url) => {
 
 					//call satChannelRelationship function
 					const tvChannelName = tvChannelElements.length > 0 ? await page.evaluate(el => el.innerText, tvChannelElements[0]) : null;
-					satChannelDataObjArray.push( await satChannelExtractor(satellites[i], tvChannelName ,page));
+					const satChannelData = await satChannelExtractor(satellites[i], tvChannelName, page);
+
+					utils.appendToJSON(satChannelRelationshipFilepath, satChannelData, (err) => {
+						if (err) {
+							console.error(err);
+						}
+					});
+
+					satChannelDataObjArray.push(satChannelData);
 
 					tvChannelData = {
 						providerName: providerName,
@@ -232,8 +293,16 @@ const satChannelsScrape = async (browser, satellites, url) => {
 						tvChannelCountry: tvChannelCountryElements.length > 0 ? await page.evaluate(el => el.textContent, tvChannelCountryElements[0]) : null
 					};
 
-					console.log(tvChannelData);
+					utils.appendToJSON(tvChannelFilepath, tvChannelData, (err) => {
+						if (err) {
+							console.error(err);
+						}
+					});
 					tvChannelDataObjArray.push(tvChannelData);	
+
+					//append files
+
+
 				}
 
 		}

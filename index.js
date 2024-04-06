@@ -44,9 +44,7 @@ const main = async () => {
 	
 	if (!(args.includes('-wc') || args.includes('--without-channels'))) {
 		console.log( colors.magenta + format.bold + 'scraping channels..' + colors.reset);
-		satellitesSlice = satellites.slice(0,366);
-		console.log(satellitesSlice);
-		({ providerData, channelData, satChannelData } = await satChannelsScrape(browser, satellitesSlice , url));
+		({ providerData, channelData, satChannelData } = await satChannelsScrape(browser, satellites.slice(12,366), url));
 	}
 	else {
 		channelData = [];
