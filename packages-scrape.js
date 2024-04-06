@@ -5,7 +5,7 @@ const packageScrape = async (browser, page, url) => {
 	console.log('Found Package: ' + url);
 	console.log('Scraping Package Channels...');
 	
-	await page.goto(url);
+	await page.goto(url, { waitUntil: 'domcontentloaded' });
 
 	filteredTables = [];
 	const tables = await page.$$('table');

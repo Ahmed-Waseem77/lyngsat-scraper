@@ -7,13 +7,20 @@ const satChannelsScrape		= require('./satChannel-scrape');
 const { regions, url } 		= require('./config');
 const fs 									= require('fs');
 const { joinJSON }				= require('./utils');
-
+const connectAndInsertData = require('./db_connect');
 
 const main = async () => {
 
   const args = process.argv.slice(2);
 
 	fs.writeFileSync('./satChannelData.json', '[\n]');	
+
+	// write to db 
+	if (args.includes('-db') || args.includes('--write-to-db')) {
+		console.log(colors.green + 'InsertingDB' + colors.reset);
+		connectAndInsertData();
+		return;
+	}
 
 	if ( args.includes('-h') || args.includes('--help') ) {
 		console.log(colors.magenta+ format.bold + 
@@ -22,7 +29,9 @@ const main = async () => {
 			'	[-h | --help] \n	Prints Help \n\n' +
 			' [-hs | --headless]\n	Runs the browser in headless mode\n\n' +
 			'	[-wl | --without-launches]\n	Skips scraping of launch data\n\n' +
-			'	[-wc | --without-channels]\n	Skips scraping of channel data\n\n'
+			'	[-wc | --without-channels]\n	Skips scraping of channel data\n\n' +
+			' [-c | --clean]\n	Cleans up the data and writes to cleaned up files\n\n' +
+			' [-db | --write-to-db]\n	Writes the data to the database\n\n' +
 
 			+ colors.reset);
 		return;
@@ -36,7 +45,7 @@ const main = async () => {
 	}
 	console.log('Browser opened');
 
-	if (!(args.includes('-t') || args.includes('--test'))) {
+	if (!(args.includes('-ws') || args.includes('--without-satellites'))) {
 		console.log( colors.magenta + format.bold + 'scraping satellites..' + colors.reset);
 		satData = await satScrape(browser, regions, url);
 
@@ -46,7 +55,7 @@ const main = async () => {
 
 	if (!(args.includes('-wc') || args.includes('--without-channels'))) {
 		console.log( colors.magenta + format.bold + 'scraping channels..' + colors.reset);
-		({ providerData, channelData, satChannelData } = await satChannelsScrape(browser, satellites.slice(0,184), url));
+		({ providerData, channelData, satChannelData } = await satChannelsScrape(browser, satellites.slice(0,200), url));
 	}
 	else {
 		channelData = [];
@@ -62,8 +71,7 @@ const main = async () => {
 		launchData = [];
 	}
 
-	// testing arguement to test any functionality independently
-	if(args.includes('-t') || args.includes('--test')) {
+	if(args.includes('-c') || args.includes('--clean')) {
 		console.log(colors.green + 'testing' + colors.reset);
 
 
@@ -71,32 +79,24 @@ const main = async () => {
 	    console.log(colors.green + 'Cleaning up' + colors.reset);
 	    // read files into json obj arrays
 	    let satChannelData1 = JSON.parse(fs.readFileSync('./final_satChannelData.json'));
-	    let satChannelData2 = JSON.parse(fs.readFileSync('./final_satChannelData2.json'));
-
-	    let tvChannelData1 = JSON.parse(fs.readFileSync('./final_satChannelData.json'));
-	    let tvChannelData2 = JSON.parse(fs.readFileSync('./final_satChannelData2.json'));
-
-	    let providerData1 = JSON.parse(fs.readFileSync('./final_satChannelData.json'));
-	    let providerData2 = JSON.parse(fs.readFileSync('./final_satChannelData2.json'));
-
-	    let satelliteData1 = JSON.parse(fs.readFileSync('./final_satChannelData.json'));
+	    let tvChannelData1 = JSON.parse(fs.readFileSync('./final_tvChannelData.json'));
+	    let providerData1 = JSON.parse(fs.readFileSync('./final_providerData.json'));
+	    let satelliteData1 = JSON.parse(fs.readFileSync('./final_satelliteData.json'));
 
 	    // join json obj arrays
-	    let final_satChannelData = (satChannelData1.concat(satChannelData2)).flat();
-	    let final_tvChannelData = (tvChannelData1.concat(tvChannelData2)).flat();
-	    let final_providerData = (providerData1.concat(providerData2)).flat();
+	    let final_satChannelData = satChannelData1.flat();
+	    let final_tvChannelData = tvChannelData1.flat();
+	    let final_providerData = providerData1.flat();
 		let final_satelliteData = satelliteData1.flat();
 		console.log(final_providerData.length)
 		console.log(final_satelliteData.length)
 		console.log(final_satChannelData.length)
 		console.log(final_tvChannelData.length)
 
-
 	    // remove duplicate json objs
-
 	    final_satChannelData = final_satChannelData.filter((v,i,a)=>a.findIndex(t=>(t === v))===i);
-		final_providerData = final_providerData.filter((v,i,a)=>a.findIndex(t=>(t === v))===i);
-		final_tvChannelData = final_tvChannelData.filter((v,i,a)=>a.findIndex(t=>(t=== v))===i);
+		final_providerData = final_providerData.filter((v,i,a)=>a.findIndex(t=>(t.providerName === v.providerName))===i);
+		final_tvChannelData = final_tvChannelData.filter((v,i,a)=>a.findIndex(t=>(t.tvChannelName === v.tvChannelName))===i);
 		console.log(final_providerData.length)
 		console.log(final_satelliteData.length)
 		console.log(final_satChannelData.length)
@@ -112,6 +112,7 @@ const main = async () => {
 		return;
 	}
 
+
 	// print data if -v flag is passed
 	if (args.includes('-v') || args.includes('--verbose')) {
 		console.log( colors.cyan + format.bold + '\n\nSatellite data:\n' + colors.reset, satData);
@@ -119,7 +120,6 @@ const main = async () => {
 		console.log( colors.cyan + format.bold + '\n\nChannel data:\n' + colors.reset, channelData);
 	}
 	
-
 	console.log(colors.green + 'Scraping complete' + colors.reset);
 	await browser.close();
 }

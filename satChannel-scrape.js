@@ -136,7 +136,7 @@ const satChannelExtractor = async (satellite, channelName, page) => {
 }
 
 
-const satChannelsScrape_s = async (browser, satellites, url) => {
+const satChannelsScrape = async (browser, satellites, url) => {
 	const page = await browser.newPage();
 	satChannelData = [];
 	satellitesConverted = satellites.map(sat => utils.convertToUrl(sat));

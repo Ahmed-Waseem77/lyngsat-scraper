@@ -1,2 +1,954 @@
 [
+  {
+    "satellite": "NSS 9",
+    "providerName": "American Forces Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/american-forces-network-us.png",
+    "providerWebsite": "http://myafn.dodmedia.osd.mil/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Intelsat 18",
+    "providerName": "American Forces Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/american-forces-network-us.png",
+    "providerWebsite": "http://myafn.dodmedia.osd.mil/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Intelsat 18",
+    "providerName": "Anuvu",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/anuvu-us.svg",
+    "providerWebsite": "https://www.anuvu.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Intelsat 18",
+    "providerName": "Canal + Calédonie on Intelsat 18 at 180.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 18",
+    "providerName": "Vini on Intelsat 18 at 180.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 18",
+    "providerName": "France TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ff/france-tv-fr.svg",
+    "providerWebsite": "https://www.france.tv/",
+    "providerCountry": "France"
+  },
+  {
+    "satellite": "Eutelsat 172B",
+    "providerName": "Walesi",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ww/walesi-fj.png",
+    "providerWebsite": "https://www.walesi.com.fj/",
+    "providerCountry": "Fiji"
+  },
+  {
+    "satellite": "Eutelsat 172B",
+    "providerName": "ABC NT",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/abc-au.png",
+    "providerWebsite": "https://www.abc.net.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Eutelsat 172B",
+    "providerName": "ABC WA",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/abc-au.png",
+    "providerWebsite": "https://www.abc.net.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Eutelsat 172B",
+    "providerName": "ABC Queensland",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/abc-au.png",
+    "providerWebsite": "https://www.abc.net.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Eutelsat 172B",
+    "providerName": "SBS WA",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sbs_au.png",
+    "providerWebsite": "https://www.sbs.com.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Eutelsat 172B",
+    "providerName": "SBS Queensland",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sbs_au.png",
+    "providerWebsite": "https://www.sbs.com.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Horizons 3e",
+    "providerName": "MySat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/my_sat.png",
+    "providerWebsite": "https://mysat.com.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Intelsat 19",
+    "providerName": "Warner Bros. Discovery",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ww/warner-bros-discovery-us.svg",
+    "providerWebsite": "https://wbd.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Intelsat 19",
+    "providerName": "Sky Pacific on Intelsat 19 at 166.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 19",
+    "providerName": "Paramount International Networks",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/paramount-international-networks-us.png",
+    "providerWebsite": "https://www.paramount.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Intelsat 19",
+    "providerName": "ABS-CBN",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/abs-cbn-br.png",
+    "providerWebsite": "https://www.abs-cbn.com/",
+    "providerCountry": "Philippines"
+  },
+  {
+    "satellite": "Intelsat 19",
+    "providerName": "China Radio International",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/cc/china_radio_international_cn.png",
+    "providerWebsite": "http://www.cri.cn/",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "Intelsat 19",
+    "providerName": "Intelsat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/intelsat-lu.png",
+    "providerWebsite": "http://www.intelsat.com/",
+    "providerCountry": "Luxembourg"
+  },
+  {
+    "satellite": "Intelsat 19",
+    "providerName": "NHK World Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/nn/nhk_global_media_services.png",
+    "providerWebsite": "http://www.nhk.or.jp/nhkworld/",
+    "providerCountry": "Japan"
+  },
+  {
+    "satellite": "Intelsat 19",
+    "providerName": "Pasifika TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/pp/pasifika-tv-nz.png",
+    "providerWebsite": "https://www.pasifikatv.co.nz/",
+    "providerCountry": "New Zealand"
+  },
+  {
+    "satellite": "Intelsat 19",
+    "providerName": "BBC World Service",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/bb/bbc-world-service-uk.svg",
+    "providerWebsite": "https://www.bbc.co.uk/worldserviceradio",
+    "providerCountry": "United Kingdom"
+  },
+  {
+    "satellite": "Intelsat 19",
+    "providerName": "Nine Entertainment",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/nn/nine_au_entertainment.png",
+    "providerWebsite": "http://www.nineentertainment.com.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Intelsat 19",
+    "providerName": "EXRN Radio Network",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Intelsat 19",
+    "providerName": "Telstra Broadcast Services",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/telstra-broadcast-services-au.png",
+    "providerWebsite": "http://www.telstra.com.au/business-enterprise/solutions/digital-media/telstra-broadcast-services",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "Sky New Zealand on Optus D2 at 160.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "ABC Sydney",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "ABC Melbourne",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "Freeview",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ff/freeview_nz.png",
+    "providerWebsite": "http://www.freeviewnz.tv/",
+    "providerCountry": "New Zealand"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "ABC NSW",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/abc-au.png",
+    "providerWebsite": "https://www.abc.net.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "ABC SA",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/abc-au.png",
+    "providerWebsite": "https://www.abc.net.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "ABC NT",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/abc-au.png",
+    "providerWebsite": "https://www.abc.net.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "ABC WA",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/abc-au.png",
+    "providerWebsite": "https://www.abc.net.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "ABC Victoria",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/abc-au.png",
+    "providerWebsite": "https://www.abc.net.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "ABC Queensland",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/abc-au.png",
+    "providerWebsite": "https://www.abc.net.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "SBS Victoria",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sbs_au.png",
+    "providerWebsite": "https://www.sbs.com.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "SBS WA",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sbs_au.png",
+    "providerWebsite": "https://www.sbs.com.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "SBS Tasmania",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sbs_au.png",
+    "providerWebsite": "https://www.sbs.com.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "SBS NSW",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sbs_au.png",
+    "providerWebsite": "https://www.sbs.com.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "SBS Queensland",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sbs_au.png",
+    "providerWebsite": "https://www.sbs.com.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D2",
+    "providerName": "SBS SA",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sbs_au.png",
+    "providerWebsite": "https://www.sbs.com.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "Optus D3",
+    "providerName": "VAST on Optus D3/10 at 156.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Optus D3",
+    "providerName": "Foxtel on Optus D3/10 at 156.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Optus 10",
+    "providerName": "Foxtel on Optus D3/10 at 156.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Optus 10",
+    "providerName": "VAST on Optus D3/10 at 156.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "BRIsat",
+    "providerName": "Bricast",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Nusantara Satu",
+    "providerName": "PSN",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/psn-id.png",
+    "providerWebsite": "https://www.psn.co.id/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "Express AMU7",
+    "providerName": "RTRS 1",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AMU7",
+    "providerName": "RTRS",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AMU7",
+    "providerName": "RTRS 2",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Superbird C2",
+    "providerName": "Sound Planet on Superbird C2 at 144.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Express AM5",
+    "providerName": "Telekarta on Express AM5 at 140.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Express AM5",
+    "providerName": "Arktik Telekom",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/arktik-telekom-ru.png",
+    "providerWebsite": "https://www.a-telecom.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AT2",
+    "providerName": "NTV Plus Dalniy Vostok on Express AT2 at 140.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Telstar 18 Vantage",
+    "providerName": "GMA Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/gma_network_ph.png",
+    "providerWebsite": "http://www.gmanetwork.com/",
+    "providerCountry": "Philippines"
+  },
+  {
+    "satellite": "Telstar 18 Vantage",
+    "providerName": "Solar Entertainment",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/solar-entertainment-ph.png",
+    "providerWebsite": "http://www.solarentertainmentcorp.com/",
+    "providerCountry": "Philippines"
+  },
+  {
+    "satellite": "Telstar 18 Vantage",
+    "providerName": "Zoe Broadcasting Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/zz/zoe-broadcasting-network-ph.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Telstar 18 Vantage",
+    "providerName": "Viva Entertainment",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/vv/viva_entertainment_ph.png",
+    "providerWebsite": "https://viva.com.ph/",
+    "providerCountry": "Philippines"
+  },
+  {
+    "satellite": "Telstar 18 Vantage",
+    "providerName": "People's TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/pp/peoples-tv-ph.svg",
+    "providerWebsite": "https://ptni.gov.ph/",
+    "providerCountry": "Philippines"
+  },
+  {
+    "satellite": "Telstar 18 Vantage",
+    "providerName": "SpeedCast",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/speed_cast_hk.png",
+    "providerWebsite": "https://www.speedcast.com/",
+    "providerCountry": "Hong Kong"
+  },
+  {
+    "satellite": "Telstar 18 Vantage",
+    "providerName": "TV 5 Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tv-5-network-ph.png",
+    "providerWebsite": "https://www.tv5.com.ph/",
+    "providerCountry": "Philippines"
+  },
+  {
+    "satellite": "Telstar 18 Vantage",
+    "providerName": "D-Sky on Telstar 18 Vantage at 138.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Telstar 18 Vantage",
+    "providerName": "Mongolsat on Telstar 18 Vantage at 138.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Telstar 18 Vantage",
+    "providerName": "Great Wall",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/great_wall.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Telstar 18 Vantage",
+    "providerName": "APT",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/apstar_hk.png",
+    "providerWebsite": "http://www.apstar.com/",
+    "providerCountry": "Hong Kong"
+  },
+  {
+    "satellite": "Apstar 6C",
+    "providerName": "VTV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/vv/vtv-vn.svg",
+    "providerWebsite": "https://vtv.vn/",
+    "providerCountry": "Vietnam"
+  },
+  {
+    "satellite": "Apstar 6C",
+    "providerName": "CCTV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/cctv_cn.png",
+    "providerWebsite": "http://tv.cctv.com/",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "Apstar 6C",
+    "providerName": "China National Radio",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/china-national-radio-cn.png",
+    "providerWebsite": "http://www.cnr.cn/",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "Apstar 6C",
+    "providerName": "CEN TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/cen_tv_cn.png",
+    "providerWebsite": "http://www.centv.cn/",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "Apstar 6C",
+    "providerName": "CBTV Sat on Apstar 6C at 134.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Vinasat 1",
+    "providerName": "VTC Digital on Vinasat 1 at 132.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Vinasat 1",
+    "providerName": "K+ on Vinasat 1 at 132.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Vinasat 2",
+    "providerName": "HTVC",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/hh/htvc_vn.png",
+    "providerWebsite": "http://www.htvc.vn/",
+    "providerCountry": "Vietnam"
+  },
+  {
+    "satellite": "Vinasat 2",
+    "providerName": "AVG on Vinasat 2 at 131.8°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "LaoSat 1",
+    "providerName": "MWD Digital TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/mwd_mm.png",
+    "providerWebsite": "http://www.mwddigitaltv.com/",
+    "providerCountry": "Myanmar"
+  },
+  {
+    "satellite": "LaoSat 1",
+    "providerName": "LaoSat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ll/laosat-la.png",
+    "providerWebsite": "https://www.laosat.la/",
+    "providerCountry": "Laos"
+  },
+  {
+    "satellite": "LaoSat 1",
+    "providerName": "LaoSat TV on LaoSat 1 at 128.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "JCSAT 3A",
+    "providerName": "Sky PerfecTV! on JCSAT 3A at 128.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "ChinaSat 6D",
+    "providerName": "CCTV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/cctv_cn.png",
+    "providerWebsite": "http://tv.cctv.com/",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "ChinaSat 6D",
+    "providerName": "Top V on ChinaSat 6D at 125.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "ChinaSat 6D",
+    "providerName": "Shanghai Media Group",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/shanghai_media_group.png",
+    "providerWebsite": "http://www.smg.cn/",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "ChinaSat 6D",
+    "providerName": "Xizang TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/xx/xizang_tv_cn.png",
+    "providerWebsite": "http://www.vtibet.com/ds/",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "ChinaSat 6D",
+    "providerName": "Xinjiang TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/xx/xinjiang_tv_cn.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "JCSAT 4B",
+    "providerName": "Digicel Play on JCSAT 4B at 124.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "JCSAT 4B",
+    "providerName": "Sky PerfecTV!",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sky-perfectv-jp.png",
+    "providerWebsite": "https://www.skyperfectv.co.jp/",
+    "providerCountry": "Japan"
+  },
+  {
+    "satellite": "JCSAT 4B",
+    "providerName": "Sky PerfecTV! on JCSAT 4B at 124.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "AsiaSat 9",
+    "providerName": "Chunghwa Telecom",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/chunghwa_telecom.png",
+    "providerWebsite": "http://www.cht.com.tw/",
+    "providerCountry": "Taiwan"
+  },
+  {
+    "satellite": "AsiaSat 9",
+    "providerName": "AsiaSat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/asiasat_hk.png",
+    "providerWebsite": "https://www.asiasat.com/",
+    "providerCountry": "Hong Kong"
+  },
+  {
+    "satellite": "AsiaSat 9",
+    "providerName": "MYTV Broadcasting on AsiaSat 9 at 122.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "AsiaSat 9",
+    "providerName": "Sydney Teleport Services",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sydney_teleport_services.png",
+    "providerWebsite": "http://www.sydneyteleport.com.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "AsiaSat 9",
+    "providerName": "MySat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/my_sat.png",
+    "providerWebsite": "https://mysat.com.au/",
+    "providerCountry": "Australia"
+  },
+  {
+    "satellite": "AsiaSat 6/Thaicom 7",
+    "providerName": "Top V on AsiaSat 6/Thaicom 7 at 120.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "AsiaSat 6/Thaicom 7",
+    "providerName": "SiTV on AsiaSat 6/Thaicom 7 at 120.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Thaicom 4",
+    "providerName": "Aora TV Satelit",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/aora_tv_satelit.png",
+    "providerWebsite": "http://www.aora.tv/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "Bangabandhu 1",
+    "providerName": "Bangladesh Betar",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Bangladesh"
+  },
+  {
+    "satellite": "Bangabandhu 1",
+    "providerName": "Bangladesh TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/bb/bangladesh_tv_bd.png",
+    "providerWebsite": "http://btv.portal.gov.bd/",
+    "providerCountry": "Bangladesh"
+  },
+  {
+    "satellite": "Bangabandhu 1",
+    "providerName": "Sony Pictures Networks India",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sony_pictures_networks_in.png",
+    "providerWebsite": "http://www.sonypicturesnetworks.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Bangabandhu 1",
+    "providerName": "Zee Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/zz/zee_network.png",
+    "providerWebsite": "http://www.zeetelevision.com/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Bangabandhu 1",
+    "providerName": "Akash DTH on Bangabandhu 1 at 119.1°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Telkom 3S",
+    "providerName": "Metra TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/metra-tv-id.png",
+    "providerWebsite": "http://metra.tv/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "Telkom 3S",
+    "providerName": "Transvision on Telkom 3S at 118.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Koreasat 6",
+    "providerName": "SkyLife on Koreasat 6/7 at 116.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Koreasat 6",
+    "providerName": "KBS",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/kk/kbs.png",
+    "providerWebsite": "http://www.kbs.co.kr/",
+    "providerCountry": "South Korea"
+  },
+  {
+    "satellite": "Koreasat 7",
+    "providerName": "SkyLife on Koreasat 6/7 at 116.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Koreasat 7",
+    "providerName": "SatLite on Koreasat 7 at 116.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "ChinaSat 6E",
+    "providerName": "CGTN",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/cgtn_cn.png",
+    "providerWebsite": "https://www.cgtn.com/tv",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "ChinaSat 6E",
+    "providerName": "Shanghai Media Group",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/shanghai_media_group.png",
+    "providerWebsite": "http://www.smg.cn/",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "ChinaSat 6E",
+    "providerName": "CCTV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/cctv_cn.png",
+    "providerWebsite": "http://tv.cctv.com/",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "ChinaSat 6E",
+    "providerName": "Sichuan TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/sichuan_tv_cn.png",
+    "providerWebsite": "https://www.sctv.com/",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "ChinaSat 6E",
+    "providerName": "JSBC",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "ChinaSat 6E",
+    "providerName": "CETV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/cetv_cn.png",
+    "providerWebsite": "http://www.centv.cn/",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "ChinaSat 6E",
+    "providerName": "CHC on ChinaSat 6B at 115.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "ChinaSat 6E",
+    "providerName": "CDM on ChinaSat 6B at 115.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "ChinaSat 6E",
+    "providerName": "Nei Monggol TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/nn/nei_monggol_tv.png",
+    "providerWebsite": "http://www.nmtv.cn/",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "ChinaSat 6E",
+    "providerName": "China National Radio",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Koreasat 5",
+    "providerName": "CGN TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/cgn-kr.png",
+    "providerWebsite": "http://www.cgntv.net/",
+    "providerCountry": "South Korea"
+  },
+  {
+    "satellite": "Koreasat 5A",
+    "providerName": "Ddish TV on Koreasat 5A at 113.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Koreasat 5A",
+    "providerName": "G Sat on Koreasat 5A at 113.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Koreasat 5A",
+    "providerName": "American Forces Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/american-forces-network-us.png",
+    "providerWebsite": "http://myafn.dodmedia.osd.mil/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Koreasat 5A",
+    "providerName": "MediaCan",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/mediacan-kr.png",
+    "providerWebsite": "http://www.mediacan.co.kr/",
+    "providerCountry": "South Korea"
+  },
+  {
+    "satellite": "ChinaSat 10",
+    "providerName": "Nei Monggol TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/nn/nei_monggol_tv.png",
+    "providerWebsite": "http://www.nmtv.cn/",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "BSAT 3A",
+    "providerName": "BS Digital on BSAT 3A & BSAT 3C/JCSAT 110R & BSAT 4A at 110.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "BSAT 3C/JCSAT 110R",
+    "providerName": "BS Digital on BSAT 3A & BSAT 3C/JCSAT 110R & BSAT 4A at 110.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "JCSAT 15",
+    "providerName": "Sky PerfecTV! on JCSAT 15 at 110.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "BSAT 4A",
+    "providerName": "BS Digital on BSAT 3A & BSAT 3C/JCSAT 110R & BSAT 4A at 110.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "SES 7",
+    "providerName": "MNC Vision on SES 7 at 108.2°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "SES 7",
+    "providerName": "Cignal on SES 7 at 108.2°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "SES 7",
+    "providerName": "Airtel on SES 7/9 at 108.2°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "SES 9",
+    "providerName": "Club TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/club-tv-ph.png",
+    "providerWebsite": "http://clubtv.ph/",
+    "providerCountry": "Philippines"
+  },
+  {
+    "satellite": "SES 9",
+    "providerName": "InTech",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/intech-id.png",
+    "providerWebsite": "https://www.intechbroadcasting.com/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "SES 9",
+    "providerName": "Nex on SES 9 at 108.2°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "SES 9",
+    "providerName": "Airtel on SES 7/9 at 108.2°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "SES 9",
+    "providerName": "G Sat on SES 9 at 108.2°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "Telkomsat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/telkomsat-id.png",
+    "providerWebsite": "https://www.telkomsat.co.id/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "KG Media",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/kk/kg-media-id.svg",
+    "providerWebsite": "https://kgmedia.id/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "InTech",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/intech-id.png",
+    "providerWebsite": "https://www.intechbroadcasting.com/",
+    "providerCountry": "Indonesia"
+  }
 ]
