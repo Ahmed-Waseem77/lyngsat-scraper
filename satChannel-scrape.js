@@ -200,7 +200,7 @@ const satChannelsScrape = async (browser, satellites, url) => {
 	// loop through all satellites
 	for (let i=0; i<satellites.length; i++) {
 		satelliteURL = url + satellitesConverted[i] + '.html';
-		await page.goto(satelliteURL); 
+		await page.goto(satelliteURL, { waitUntil: 'domcontentloaded'}); 
 		j = i + 1;
 		console.log('\nScraping Sattellite ' + j + ' : ' + satellitesConverted[i]);
 		console.log(colors.blue + format.underline + url + satellitesConverted[i] + '.html' + colors.reset);
