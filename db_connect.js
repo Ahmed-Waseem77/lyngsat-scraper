@@ -1,6 +1,6 @@
 const mysql = require('mysql2');
 const fs = require('fs');
-
+const regions = require('./config').regions;
 
 function connectAndInsertData() {
     const connection = mysql.createConnection({
@@ -54,7 +54,7 @@ function connectAndInsertData() {
             const tvChannelData = JSON.parse(data);
             tvChannelData.forEach((channel) => {
                 connection.query('INSERT INTO Channels SET ?', channel, (err, res) => {
-                    if (err) { throw err } 
+                    if (err) { return; } 
                     console.log('Inserted TV channel with ID: ' + res.insertId);
                 });
             });
@@ -77,7 +77,31 @@ function connectAndInsertData() {
             });
         }); 
 
+
+        //insert fake users into Users table
+        const users = [];
+
+        // random user generation 
+        for (let i = 0; i < 25; i++) {
+            users.push({
+                user_email: 'user' + i + '@email.com',
+                username: 'user' + i,
+                region: regions[Math.floor(Math.random() * regions.length)],
+                dob: i % 2 === 0 ? '1993-01-01' : '1992-01-01',
+                gender: i % 2 === 0 ? 'M' : 'F'
+            });
+        }
+
+        users.forEach((user) => {
+            connection.query('INSERT INTO Users SET ?', user, (err, res) => {
+                if (err) { throw err } 
+                console.log('Inserted user with ID: ' + res.insertId);
+            });
+        });
+
     });
+
 }
+
 
 module.exports = connectAndInsertData;
