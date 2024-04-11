@@ -39,7 +39,8 @@ function connectAndInsertData() {
             providerData.forEach((provider) => {
                 connection.query('INSERT INTO Providers SET ?', provider, (err, res) => {
                     if (err) {
-                    throw err;
+                        console.error(err);
+                        return; 
                     };
                     console.log('Inserted provider with ID: ' + res.insertId);
                 });

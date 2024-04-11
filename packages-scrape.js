@@ -6,6 +6,7 @@ const packageScrape = async (browser, page, url) => {
 	console.log('Scraping Package Channels...');
 	
 	await page.goto(url, { waitUntil: 'domcontentloaded' });
+	page.setDefaultTimeout(500000000);
 
 	filteredTables = [];
 	const tables = await page.$$('table');

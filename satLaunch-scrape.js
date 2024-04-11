@@ -15,6 +15,7 @@ const satLaunchesScrape = async (browser, satellites, url) => {
     for (let i = 0; i < satellitesConverted.length; i++) {
         pagePromises.push(browser.newPage().then(async (page) => {
             await page.goto(url + 'tracker/' + satellitesConverted[i] + '.html');
+			page.setDefaultTimeout(50000000);
 
             const satLaunch = await page.evaluate((satellite) => {
                 const allFonts = Array.from(document.querySelectorAll('font'));

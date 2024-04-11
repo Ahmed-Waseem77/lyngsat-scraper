@@ -203,6 +203,8 @@ const satChannelsScrape = async (browser, satellites, url) => {
 	for (let i=0; i<satellites.length; i++) {
 		satelliteURL = url + satellitesConverted[i] + '.html';
 		await page.goto(satelliteURL, { waitUntil: 'domcontentloaded'}); 
+		page.setDefaultTimeout(500000000);
+
 		j = i + 1;
 		console.log('\nScraping Sattellite ' + j + ' : ' + satellitesConverted[i]);
 		console.log(colors.blue + format.underline + url + satellitesConverted[i] + '.html' + colors.reset);
@@ -242,6 +244,8 @@ const satChannelsScrape = async (browser, satellites, url) => {
 		for (let group of groupedLinks) {
 				if (group.providerLink === null) { continue; }
 				await page.goto(group.providerLink, {waitUntil: 'domcontentloaded'});	 
+				page.setDefaultTimeout(500000000);
+
 
 				const providerNameElements		= await page.$$(providerNameSelector);
 				const providerLogoElements 		= await page.$$(providerLogoSelector);
@@ -269,7 +273,9 @@ const satChannelsScrape = async (browser, satellites, url) => {
 				for (let tvChannel of group.tvchannels) {
 					if (tvChannel === null) { continue; }
 					await page.goto(tvChannel, { waitUntil: 'domcontentloaded' });
-
+					
+					page.setDefaultTimeout(500000000);
+					
 					const tvChannelElements					= await page.$$(tvChannelSelector);
 					const tvChannelLogoElements 		= await page.$$(tvChannelLogoSelector);
 					const tvChannelWebsiteElements	= await page.$$(tvChannelWebsiteSelector);

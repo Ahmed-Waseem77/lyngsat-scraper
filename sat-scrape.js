@@ -8,6 +8,8 @@ const satScrape = async (browser, regions, url) => {
 
 	for (let i = 0; i < regions.length; i++) {
 		await page.goto(url + '/tracker/' + regions[i] + '.html');
+		page.setDefaultTimeout(500000000);
+
 
 		const satRegionData = await page.evaluate((regions, i) => {
 			rows = Array.from(document.querySelectorAll('tr'));

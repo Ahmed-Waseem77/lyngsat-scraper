@@ -810,5 +810,5689 @@
     "providerLogo": "https://www.lyngsat.com/logo/corp/kk/kg-media-id.svg",
     "providerWebsite": "https://kgmedia.id/",
     "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "Rodja TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rodja-tv-id.png",
+    "providerWebsite": "https://rodja.tv/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "Viva",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/vv/viva-id.png",
+    "providerWebsite": "https://www.viva.co.id/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "K Vision on Telkom 4 at 108.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "Surau TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/surau_tv_id.png",
+    "providerWebsite": "https://surautv.id/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "TransMedia",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/transmedia-id.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "Nex on Telkom 4 at 108.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "TVRI",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tvri-id.png",
+    "providerWebsite": "https://tvri.go.id/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "RRI",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rri_id.png",
+    "providerWebsite": "http://rri.co.id/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "RTTL",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rttl-tl.png",
+    "providerWebsite": "https://rttlep.tl/",
+    "providerCountry": "Timor Leste"
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "Emtek",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ee/emtek_id.png",
+    "providerWebsite": "http://www.emtek.co.id/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "MNC Media",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/mnc_id_media.png",
+    "providerWebsite": "http://www.mediacom.co.id/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "Indosat Ooredoo Hutchison",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/indosat-ooredoo-hutchison-id.svg",
+    "providerWebsite": "https://indosatooredoo.com/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "GMN",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/gg/gmn_tl.png",
+    "providerWebsite": "https://gmntv.tl/",
+    "providerCountry": "Timor Leste"
+  },
+  {
+    "satellite": "Telkom 4",
+    "providerName": "Media Group",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/media-group-id.png",
+    "providerWebsite": "http://www.mediagroup.co.id/",
+    "providerCountry": "Indonesia"
+  },
+  {
+    "satellite": "AsiaSat 7",
+    "providerName": "Sahara Samay",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/sahara_samay_in.png",
+    "providerWebsite": "http://www.saharasamay.com/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "AsiaSat 7",
+    "providerName": "ABP",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/abp_in.png",
+    "providerWebsite": "http://www.abplive.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "AsiaSat 7",
+    "providerName": "Nepal TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/nn/nepal-tv-np.png",
+    "providerWebsite": "https://nepaltvonline.com/",
+    "providerCountry": "Nepal"
+  },
+  {
+    "satellite": "AsiaSat 7",
+    "providerName": "Zee Network on AsiaSat 7 at 105.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "AsiaSat 7",
+    "providerName": "SS Creative Solutions",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/ss-creative-solutions-ae.png",
+    "providerWebsite": "https://ssbroadcast.com/",
+    "providerCountry": "United Arab Emirates"
+  },
+  {
+    "satellite": "AsiaSat 7",
+    "providerName": "STAR TV on AsiaSat 7 at 105.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "AsiaSat 7",
+    "providerName": "Turner International Asia",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/turner_international_asia.png",
+    "providerWebsite": "http://www.turner.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "AsiaSat 7",
+    "providerName": "ARY Digital Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/ary_digital_network.png",
+    "providerWebsite": "http://arydigitalnetwork.tv/",
+    "providerCountry": "Pakistan"
+  },
+  {
+    "satellite": "AsiaSat 7",
+    "providerName": "Phoenix New Media",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/phoenix_new_media_cn.png",
+    "providerWebsite": "http://ir.ifeng.com/",
+    "providerCountry": "Hong Kong"
+  },
+  {
+    "satellite": "Express AMU3",
+    "providerName": "RTRS Yakutia",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AMU3",
+    "providerName": "RTRS Vladivostok",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AMU3",
+    "providerName": "RTRS Khabarovsk",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AMU3",
+    "providerName": "RTRS Blagoveshchensk",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AMU3",
+    "providerName": "RTRS Chita",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AMU3",
+    "providerName": "RSCC",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rscc-ru.png",
+    "providerWebsite": "https://www.rscc.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "AsiaSat 5",
+    "providerName": "Macau Satellite TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/mm/macau_satellite_tv_mo.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "AsiaSat 5",
+    "providerName": "EBU",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ee/ebu_ch.png",
+    "providerWebsite": "http://www.ebu.ch/",
+    "providerCountry": "Switzerland"
+  },
+  {
+    "satellite": "AsiaSat 5",
+    "providerName": "STAR TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/star-tv-hk.png",
+    "providerWebsite": "http://www.startv.com/",
+    "providerCountry": "Hong Kong"
+  },
+  {
+    "satellite": "AsiaSat 5",
+    "providerName": "Globecast",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/globecast-fr.svg",
+    "providerWebsite": "http://www.globecast.com/",
+    "providerCountry": "France"
+  },
+  {
+    "satellite": "AsiaSat 5",
+    "providerName": "SETN",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/set_tw_n.png",
+    "providerWebsite": "http://www.setn.com/",
+    "providerCountry": "Taiwan"
+  },
+  {
+    "satellite": "AsiaSat 5",
+    "providerName": "TVBS News",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tvbs_tw_news.png",
+    "providerWebsite": "https://news.tvbs.com.tw/",
+    "providerCountry": "Taiwan"
+  },
+  {
+    "satellite": "ChinaSat 11",
+    "providerName": "Medianet on ChinaSat 11 at 98.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "G-Sat 9",
+    "providerName": "ISRO",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/isro_india.png",
+    "providerWebsite": "https://www.isro.gov.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Express 103",
+    "providerName": "Russkiy Mir",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/russkiy-mir-ru.png",
+    "providerWebsite": "https://russkiymir.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "SES 8",
+    "providerName": "Dish TV India on SES 8 at 95.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "SES 12",
+    "providerName": "Freesat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ff/freesat-lk.png",
+    "providerWebsite": "https://freesat.lk/",
+    "providerCountry": "Sri Lanka"
+  },
+  {
+    "satellite": "G-Sat 15",
+    "providerName": "E-Vidya",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ee/e-vidya-in.png",
+    "providerWebsite": "https://www.swayamprabha.gov.in/index.php/schooledu",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 15",
+    "providerName": "DD Free Dish",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ff/free_dish_in_dd.png",
+    "providerWebsite": "https://prasarbharati.gov.in/free-dish/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 15",
+    "providerName": "Dish TV India on G-Sat 15 at 93.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "G-Sat 15",
+    "providerName": "VANDE Gujarat",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/bisag_in_vande_gujarat.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "G-Sat 15",
+    "providerName": "Swayam Prabha",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/swayam-prabha-in.png",
+    "providerWebsite": "https://www.swayamprabha.gov.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 15",
+    "providerName": "Digi Shala",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/digi_shala_in.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "DD Meghalaya",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dd_meghalaya.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "DD Mizoram",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dd-mizoram-in.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "DD Assam",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dd-assam-in.png",
+    "providerWebsite": "https://prasarbharati.gov.in/dd-north-east-homepage/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "DD Assamese",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "Doordarshan",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/dd/dd_doordarshan.png",
+    "providerWebsite": "http://www.ddindia.gov.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "DD Bangla",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dd_bangla.png",
+    "providerWebsite": "https://prasarbharati.gov.in/dd-bangla-homepage/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "DD Punjabi",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dd-punjabi-in.png",
+    "providerWebsite": "https://prasarbharati.gov.in/dd-punjabi-homepage/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "DD Girnar",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dd_girnar.png",
+    "providerWebsite": "https://prasarbharati.gov.in/dd-girnar/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "DD Odia",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dd_odiya.png",
+    "providerWebsite": "https://prasarbharati.gov.in/dd-oriya-homepage/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "DD Malayalam",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dd-malayalam-in.png",
+    "providerWebsite": "https://prasarbharati.gov.in/dd-malayalam-homepage/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "DD Tamil",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dd-tamil-in.png",
+    "providerWebsite": "https://prasarbharati.gov.in/dd-podhigai-homepage/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "DD Himachal Pradesh",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dd-himachal-pradesh-in.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "ITV Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/itv_network_in.png",
+    "providerWebsite": "http://www.itvnetwork.com/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "DD Rajasthan",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dd_rajasthan.png",
+    "providerWebsite": "https://prasarbharati.gov.in/dd-rajasthan-homepage/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "DD Madhya Pradesh",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dd-madhya-pradesh-in.png",
+    "providerWebsite": "https://prasarbharati.gov.in/dd-madhya-pradesh-homepage/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 17",
+    "providerName": "DD Uttar Pradesh",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dd-uttar-pradesh-in.png",
+    "providerWebsite": "https://prasarbharati.gov.in/dd-uttar-praesh-homepage/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Measat 3b",
+    "providerName": "Astro on Measat 3b/3d at 91.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Measat 3b",
+    "providerName": "Sun Direct on Measat 3b at 91.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Measat 3b",
+    "providerName": "K Vision on Measat 3b at 91.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Measat 3b",
+    "providerName": "Transvision on Measat 3b at 91.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Measat 3d",
+    "providerName": "RTM Sabah",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtm-my.png",
+    "providerWebsite": "http://www.rtm.gov.my/",
+    "providerCountry": "Malaysia"
+  },
+  {
+    "satellite": "Measat 3d",
+    "providerName": "RTM Sarawak",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtm-my.png",
+    "providerWebsite": "http://www.rtm.gov.my/",
+    "providerCountry": "Malaysia"
+  },
+  {
+    "satellite": "Measat 3d",
+    "providerName": "RTM",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtm-my.png",
+    "providerWebsite": "http://www.rtm.gov.my/",
+    "providerCountry": "Malaysia"
+  },
+  {
+    "satellite": "Measat 3d",
+    "providerName": "Manila Broadcasting Company",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/manila-broadcasting-company-ph.png",
+    "providerWebsite": "https://manilabroadcasting.com.ph/",
+    "providerCountry": "Philippines"
+  },
+  {
+    "satellite": "Measat 3d",
+    "providerName": "KC Global Media Entertainment",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/kk/kc-global-media-entertainment-us.png",
+    "providerWebsite": "https://kcglobalmedia.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Measat 3a",
+    "providerName": "Encompass",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ee/encompass_us.png",
+    "providerWebsite": "http://www.encompass.tv/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Measat 3a",
+    "providerName": "Planetcast",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/planetcast_in.png",
+    "providerWebsite": "https://www.planetc.net/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Measat 3a",
+    "providerName": "IKO MG",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/ikomg-it.png",
+    "providerWebsite": "http://www.ikomg.com/",
+    "providerCountry": "Italy"
+  },
+  {
+    "satellite": "Measat 3a",
+    "providerName": "Astro",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/astro_my.png",
+    "providerWebsite": "http://www.astro.com.my/",
+    "providerCountry": "Malaysia"
+  },
+  {
+    "satellite": "Yamal 401",
+    "providerName": "Gazprom Space Systems",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/gazprom-space-systems-ru.svg",
+    "providerWebsite": "https://www.gazprom-spacesystems.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 401",
+    "providerName": "RTRS Krasnoyarsk",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 401",
+    "providerName": "RTRS Tomsk",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 401",
+    "providerName": "RTRS Novosibirsk",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 401",
+    "providerName": "RTRS Hakasiya",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 401",
+    "providerName": "RTRS Altai",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 401",
+    "providerName": "RTRS Omsk",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 401",
+    "providerName": "RTRS Gornij Altai",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 401",
+    "providerName": "RTRS Tyva",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 401",
+    "providerName": "RTRS Irkutsk",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 401",
+    "providerName": "RTRS Kuzbass",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 401",
+    "providerName": "RTRS Ulan-Ude",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 401",
+    "providerName": "RuSat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rusat_ru.png",
+    "providerWebsite": "http://www.rusat.com/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 401",
+    "providerName": "Kuzbass 1",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/kk/kuzbass-1-ru.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "ChinaSat 12",
+    "providerName": "Voice of Strait",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/vv/vos_voice_of_strait_cn.png",
+    "providerWebsite": "http://www.vos.com.cn/",
+    "providerCountry": "China"
+  },
+  {
+    "satellite": "ChinaSat 12",
+    "providerName": "Raj TV Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/raj_tv_network_in.png",
+    "providerWebsite": "http://www.rajtvnet.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 10",
+    "providerName": "Gyandarshan 1",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/gg/gyandarshan-in.png",
+    "providerWebsite": "http://gd.ignouonline.ac.in/gyandarshan/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 10",
+    "providerName": "Kanak Teleport",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 10",
+    "providerName": "AIR",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/aa/air_fm_in.png",
+    "providerWebsite": "https://prasarbharati.gov.in/homepage-air",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 10",
+    "providerName": "AIR Vijayawada",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/aa/air_fm_in.png",
+    "providerWebsite": "https://prasarbharati.gov.in/homepage-air",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 24",
+    "providerName": "Tata Play on G-Sat 10/24/30 at 83.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "G-Sat 30",
+    "providerName": "ETV Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ee/etv-network-in.png",
+    "providerWebsite": "http://www.etv.co.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 30",
+    "providerName": "Indiasign",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/indiasign-in.png",
+    "providerWebsite": "https://www.indiasign.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 30",
+    "providerName": "SVBC",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 30",
+    "providerName": "Kasthuri TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/kk/kasthuri-tv-in.png",
+    "providerWebsite": "http://www.kasthuritv.co.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 30",
+    "providerName": "Mega TV Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/mega_tv_network_in.png",
+    "providerWebsite": "http://www.megatv.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 30",
+    "providerName": "Vanitha TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/vv/vanitha_tv.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "G-Sat 30",
+    "providerName": "Brahmaputra Tele Productions",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/bb/brahmaputra_in.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "G-Sat 30",
+    "providerName": "Mh One TV Network",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 30",
+    "providerName": "Lamhas",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ll/lamhas_sat_services.png",
+    "providerWebsite": "http://www.lamhas.com/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 30",
+    "providerName": "Sun 18 Media Services",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sun_18_media_services.png",
+    "providerWebsite": "http://www.sun18.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 30",
+    "providerName": "BBS",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/bb/bbs-bt.png",
+    "providerWebsite": "http://www.bbs.bt/",
+    "providerCountry": "Bhutan"
+  },
+  {
+    "satellite": "G-Sat 30",
+    "providerName": "Manorama News",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Express 80",
+    "providerName": "Telekarta on Express 80 at 80.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Thaicom 6",
+    "providerName": "MRTV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/mm/mrtv-mm.png",
+    "providerWebsite": "https://mrtv.gov.mm/",
+    "providerCountry": "Myanmar"
+  },
+  {
+    "satellite": "Thaicom 6",
+    "providerName": "Thaicom",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/thaicom.png",
+    "providerWebsite": "http://www.thaicom.net/",
+    "providerCountry": "Thailand"
+  },
+  {
+    "satellite": "Thaicom 6",
+    "providerName": "PSI",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/psi_th.png",
+    "providerWebsite": "http://www.psisat.com/",
+    "providerCountry": "Thailand"
+  },
+  {
+    "satellite": "Thaicom 6",
+    "providerName": "CAT Telecom",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/cat_telecom.png",
+    "providerWebsite": "http://www.cattelecom.com/",
+    "providerCountry": "Thailand"
+  },
+  {
+    "satellite": "Thaicom 6",
+    "providerName": "NBT TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/nn/nbt_th.png",
+    "providerWebsite": "http://nbt2hd.prd.go.th/",
+    "providerCountry": "Thailand"
+  },
+  {
+    "satellite": "Thaicom 6",
+    "providerName": "Radio Thailand",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/rr/radio-thailand-th.png",
+    "providerWebsite": "https://nbt1.prd.go.th/",
+    "providerCountry": "Thailand"
+  },
+  {
+    "satellite": "Thaicom 6",
+    "providerName": "Canal + Myanmar on Thaicom 6 at 78.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Thaicom 6",
+    "providerName": "DLTV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dltv-th.png",
+    "providerWebsite": "https://www.dltv.ac.th/",
+    "providerCountry": "Thailand"
+  },
+  {
+    "satellite": "Thaicom 8",
+    "providerName": "TrueVisions on Thaicom 8 at 78.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Thaicom 8",
+    "providerName": "Cambodian DTH UHD on Thaicom 8 at 78.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Thaicom 8",
+    "providerName": "Good TV on Thaicom 8 at 78.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Apstar 7",
+    "providerName": "Kantipur Media Group",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/kk/kantipur_media_group_np.png",
+    "providerWebsite": "http://www.kmg.com.np/",
+    "providerCountry": "Nepal"
+  },
+  {
+    "satellite": "Apstar 7",
+    "providerName": "TeleNest",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/telenest-pk.png",
+    "providerWebsite": "https://telenest.net/",
+    "providerCountry": "Pakistan"
+  },
+  {
+    "satellite": "Apstar 7",
+    "providerName": "SES",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/ses_group.png",
+    "providerWebsite": "https://www.ses.com/",
+    "providerCountry": "Luxembourg"
+  },
+  {
+    "satellite": "Apstar 7",
+    "providerName": "Trinity Broadcasting",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tbn_us.png",
+    "providerWebsite": "http://www.tbn.org/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Apstar 7",
+    "providerName": "Bol",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/bol_news_pk.png",
+    "providerWebsite": "https://www.bolnetwork.com/",
+    "providerCountry": "Pakistan"
+  },
+  {
+    "satellite": "Apstar 7",
+    "providerName": "HBO Asia",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/hh/hbo_asia.png",
+    "providerWebsite": "https://hboasia.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Apstar 7",
+    "providerName": "A1 Telekom Austria",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/a1-at.png",
+    "providerWebsite": "https://www.a1.net/",
+    "providerCountry": "Austria"
+  },
+  {
+    "satellite": "Apstar 7",
+    "providerName": "PSM",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/public_service_media_mv.png",
+    "providerWebsite": "http://www.psm.mv/",
+    "providerCountry": "Maldives"
+  },
+  {
+    "satellite": "Apstar 7",
+    "providerName": "Sky Net on Apstar 7 at 76.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Apstar 7",
+    "providerName": "TAS",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tas_tw.png",
+    "providerWebsite": "http://www.tasc.com.tw/",
+    "providerCountry": "Taiwan"
+  },
+  {
+    "satellite": "ABS 2",
+    "providerName": "MYTV Broadcasting",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/mytv-broadcasting-my.png",
+    "providerWebsite": "http://www.mytvbroadcasting.my/",
+    "providerCountry": "Malaysia"
+  },
+  {
+    "satellite": "ABS 2",
+    "providerName": "TAP DMV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tap-dmv-ph.png",
+    "providerWebsite": "http://www.tapdmv.com/",
+    "providerCountry": "Philippines"
+  },
+  {
+    "satellite": "ABS 2",
+    "providerName": "BFBS",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/bb/bfbs-uk.png",
+    "providerWebsite": "https://www.bfbs.com/",
+    "providerCountry": "United Kingdom"
+  },
+  {
+    "satellite": "ABS 2A",
+    "providerName": "GeoTelecommunications",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/geo_telecom_ru.png",
+    "providerWebsite": "http://www.gtss.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "ABS 2A",
+    "providerName": "STV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/stv-ru.png",
+    "providerWebsite": "https://www.sattele.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "ABS 2A",
+    "providerName": "MTS on ABS 2A at 75.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "ABS 2A",
+    "providerName": "SMV FreeSat TV on ABS 2A at 75.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "ABS 2A",
+    "providerName": "OK Vision on ABS 2A at 75.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "G-Sat 18",
+    "providerName": "Utkarsh Channel",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/uu/utkarsh-channel-in.png",
+    "providerWebsite": "https://utkarsh.com/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "G-Sat 18",
+    "providerName": "KITE VICTERS",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/kk/kite-victers-in.png",
+    "providerWebsite": "https://victers.kite.kerala.gov.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Intelsat 22",
+    "providerName": "KTN",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/kk/ktn-ke.png",
+    "providerWebsite": "https://www.standardmedia.co.ke/",
+    "providerCountry": "Kenya"
+  },
+  {
+    "satellite": "Intelsat 22",
+    "providerName": "IPP Media",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/ipp_media_tz.png",
+    "providerWebsite": "http://www.ippmedia.com/",
+    "providerCountry": "Tanzania"
+  },
+  {
+    "satellite": "Intelsat 22",
+    "providerName": "TBC",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tbc-tz.png",
+    "providerWebsite": "http://tbc.go.tz/",
+    "providerCountry": "Tanzania"
+  },
+  {
+    "satellite": "Eutelsat 70B",
+    "providerName": "TRBNA",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/trbna_am.png",
+    "providerWebsite": "http://tna.am/",
+    "providerCountry": "Armenia"
+  },
+  {
+    "satellite": "Eutelsat 70B",
+    "providerName": "Voice of America",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/vv/voa_radio_us.png",
+    "providerWebsite": "http://www.voa.gov/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Eutelsat 70B",
+    "providerName": "M-Three satcom",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/m-three-satcom-it.png",
+    "providerWebsite": "http://www.m3sat.com/",
+    "providerCountry": "Italy"
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "Aastha TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/aa/aastha-tv-in.png",
+    "providerWebsite": "https://www.aasthatv.tv/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "Indo Teleports",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/indo_teleports_in.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "Viacom 18",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/vv/viacom_18_in.png",
+    "providerWebsite": "http://www.viacom18.com/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "Sports Inspires Life",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sports-inspires-life-in.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "India TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ii/india_tv_in.png",
+    "providerWebsite": "https://www.indiatv.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "The Times Group",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/the_times_group_in.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "Zee Zest",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/zz/zee-zest-in.png",
+    "providerWebsite": "https://www.zeezest.com/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "Network 18",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/nn/network_18.png",
+    "providerWebsite": "http://www.network18online.com/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "Sanskar TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/sanskar-tv-in.png",
+    "providerWebsite": "https://app.sanskargroup.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "Jaya Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/jj/jaya_tv_id_network.png",
+    "providerWebsite": "http://www.jayatvnetwork.com/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "Du",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/dd/dutelecom-ae.png",
+    "providerWebsite": "https://www.du.ae/",
+    "providerCountry": "United Arab Emirates"
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "India Today Group",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/india_today_in.png",
+    "providerWebsite": "http://www.indiatodaygroup.com/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "DSTV South Africa on Intelsat 20/36 at 68.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "Openview on Intelsat 20 at 68.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "Sentech",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sentech.png",
+    "providerWebsite": "http://www.sentech.co.za/",
+    "providerCountry": "South Africa"
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "Satelio",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/satelio_de.png",
+    "providerWebsite": "https://www.satelio.tv/",
+    "providerCountry": "Germany"
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "ViewMedia",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/vv/viewmedia-uk.png",
+    "providerWebsite": "https://www.viewmedia.tv/",
+    "providerCountry": "United Kingdom"
+  },
+  {
+    "satellite": "Intelsat 20",
+    "providerName": "IRIB",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/irib.png",
+    "providerWebsite": "https://www.pririb.ir/",
+    "providerCountry": "Iran"
+  },
+  {
+    "satellite": "Intelsat 17",
+    "providerName": "TV5Monde",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv5monde-fr.png",
+    "providerWebsite": "http://www.tv5monde.com/",
+    "providerCountry": "France"
+  },
+  {
+    "satellite": "Intelsat 17",
+    "providerName": "Tata Communications",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tata_communications.png",
+    "providerWebsite": "https://www.tatacommunications.com/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Intelsat 17",
+    "providerName": "Sun TV Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sun_network.png",
+    "providerWebsite": "http://www.sunnetwork.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Intelsat 17",
+    "providerName": "New Delhi TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/nn/ndtv.png",
+    "providerWebsite": "http://www.ndtv.com/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Intelsat 17",
+    "providerName": "GoTV South Africa on Intelsat 17 at 66.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 17",
+    "providerName": "Connecto TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/connecto_tv.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Amos 4",
+    "providerName": "DishHome on Amos 4 at 65.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 39",
+    "providerName": "RMS Radio",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rms_radio_ke.png",
+    "providerWebsite": "https://rmsradio.co.ke/",
+    "providerCountry": "Kenya"
+  },
+  {
+    "satellite": "Intelsat 39",
+    "providerName": "Taban TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/taban_tv_ir.png",
+    "providerWebsite": "http://yazd.irib.ir/",
+    "providerCountry": "Iran"
+  },
+  {
+    "satellite": "Intelsat 39",
+    "providerName": "Semnan TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/semnan_tv.png",
+    "providerWebsite": "http://semnan.irib.ir/tv",
+    "providerCountry": "Iran"
+  },
+  {
+    "satellite": "Intelsat 39",
+    "providerName": "Zanjan TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/zz/zanjan_tv.png",
+    "providerWebsite": "http://zanjan.irib.ir/tv",
+    "providerCountry": "Iran"
+  },
+  {
+    "satellite": "Intelsat 39",
+    "providerName": "Jahanbin TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/jj/jahanbin_tv.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 39",
+    "providerName": "Isfahan TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ii/isfahan_tv_ir.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 39",
+    "providerName": "Azarbayjan-e Gharbi TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/aa/azarbayjan_e_gharbi_tv.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 33e",
+    "providerName": "ZNBC",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/zz/znbc_zm.png",
+    "providerWebsite": "http://www.znbc.co.zm/",
+    "providerCountry": "Zambia"
+  },
+  {
+    "satellite": "Intelsat 33e",
+    "providerName": "Alghad FM",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/aa/alghad-fm-iq.png",
+    "providerWebsite": "http://alghad.fm/",
+    "providerCountry": "Iraq"
+  },
+  {
+    "satellite": "KazSat 3",
+    "providerName": "Otau TV on KazSat 3 at 58.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "KazSat 3",
+    "providerName": "Alma TV on KazSat 3 at 58.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "NSS 12",
+    "providerName": "Mediavision",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/mediavision.png",
+    "providerWebsite": "http://mediavision-ks.com/",
+    "providerCountry": "United Arab Emirates"
+  },
+  {
+    "satellite": "NSS 12",
+    "providerName": "EthioSat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ee/ethiosat-et.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "NSS 12",
+    "providerName": "Teleradiokom",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/teleradiokom-tj.png",
+    "providerWebsite": "http://teleradiocom.tj/",
+    "providerCountry": "Tajikistan"
+  },
+  {
+    "satellite": "NSS 12",
+    "providerName": "RRTM",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rrtm-uz.png",
+    "providerWebsite": "http://www.crrt.uz/",
+    "providerCountry": "Uzbekistan"
+  },
+  {
+    "satellite": "Express AT1",
+    "providerName": "Trikolor on Express AT1 at 56.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Express AT1",
+    "providerName": "NTV Plus Vostok on Express AT1 at 56.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Express AT1",
+    "providerName": "Russkiy Mir on Express AT1 at 56.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "G-Sat 8",
+    "providerName": "T-Sat",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/t-sat-in.png",
+    "providerWebsite": "http://softnet.telangana.gov.in/",
+    "providerCountry": "India"
+  },
+  {
+    "satellite": "Yamal 402",
+    "providerName": "TPA",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tpa_ao.png",
+    "providerWebsite": "http://tpa.sapo.ao/",
+    "providerCountry": "Angola"
+  },
+  {
+    "satellite": "Yamal 402",
+    "providerName": "Telemedia",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/telemedia-za.svg",
+    "providerWebsite": "https://www.telemedia.co.za/",
+    "providerCountry": "South Africa"
+  },
+  {
+    "satellite": "Express AM6",
+    "providerName": "RTRS Smolensk",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM6",
+    "providerName": "RTRS Bryansk",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM6",
+    "providerName": "RTRS Yaroslavl",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://vesti-yaroslavl.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM6",
+    "providerName": "RTRS Belgorod",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM6",
+    "providerName": "RTRS Rostov",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "http://rostov.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM6",
+    "providerName": "RTRS Krasnodar",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "http://krasnodar.rtrn.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM6",
+    "providerName": "RTRS Sochi",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM6",
+    "providerName": "Wide Network Solutions",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ww/wide_network_solutions.png",
+    "providerWebsite": "https://widenetworks.net/",
+    "providerCountry": "United Kingdom"
+  },
+  {
+    "satellite": "Al Yah 1",
+    "providerName": "Saudi Broadcasting Authority",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/saudi-broadcasting-authority-sa.png",
+    "providerWebsite": "http://www.sba.sa/",
+    "providerCountry": "Saudi Arabia"
+  },
+  {
+    "satellite": "Al Yah 1",
+    "providerName": "North Telecom",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/nn/north-telecom-de.png",
+    "providerWebsite": "https://www.northtelecom.com/",
+    "providerCountry": "Germany"
+  },
+  {
+    "satellite": "Al Yah 1",
+    "providerName": "Twofour54",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/twofour54-ae.svg",
+    "providerWebsite": "https://www.twofour54.com/",
+    "providerCountry": "United Arab Emirates"
+  },
+  {
+    "satellite": "Al Yah 1",
+    "providerName": "GEM Group",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/gem_ae_group.png",
+    "providerWebsite": "http://www.gemonline.tv/",
+    "providerCountry": "Canada"
+  },
+  {
+    "satellite": "Al Yah 1",
+    "providerName": "Arqiva",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/arqiva.png",
+    "providerWebsite": "http://www.arqiva.com/",
+    "providerCountry": "United Kingdom"
+  },
+  {
+    "satellite": "TurkmenÄlem/MonacoSat",
+    "providerName": "Persiana Media Group",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/persiana-media-group-fr.png",
+    "providerWebsite": "http://persianagroup.tv/",
+    "providerCountry": "France"
+  },
+  {
+    "satellite": "TurkmenÄlem/MonacoSat",
+    "providerName": "Älem TV on TurkmenÄlem/MonacoSat at 52.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "TurkmenÄlem/MonacoSat",
+    "providerName": "TMT",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/turkmen_telekom_tm.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Belintersat 1",
+    "providerName": "EBC",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ee/ebc-et.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Belintersat 1",
+    "providerName": "Metro Digital TV on Belintersat 1 at 51.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Belintersat 1",
+    "providerName": "Panbetting",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/panbetting-de.png",
+    "providerWebsite": "https://www.panaccess.com/betting-channels-hosting/",
+    "providerCountry": "Germany"
+  },
+  {
+    "satellite": "Yamal 601",
+    "providerName": "RTRS Yamal",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 601",
+    "providerName": "RTRS Saratov",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 601",
+    "providerName": "RTRS Yugoria",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 601",
+    "providerName": "RTRS Tyumen",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 601",
+    "providerName": "RTRS Chelyabinsk",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 601",
+    "providerName": "RTRS Ufa",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 601",
+    "providerName": "RTRS Sankt Peterburg",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 601",
+    "providerName": "RTRS Samara",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "http://samara.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 601",
+    "providerName": "RTRS Ekaterinburg",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 601",
+    "providerName": "RTRS Udmurtia",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 601",
+    "providerName": "RTRS Kurgan",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 601",
+    "providerName": "RTRS Perm",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 601",
+    "providerName": "RTRS Astrakhan",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://astrakhan.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Yamal 601",
+    "providerName": "RTRS Ulyanovsk",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://ulyanovsk.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Azerspace 1",
+    "providerName": "Silverbird TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/silverbird_tv.png",
+    "providerWebsite": "https://silverbirdtv.com/",
+    "providerCountry": "Nigeria"
+  },
+  {
+    "satellite": "Azerspace 1",
+    "providerName": "Azam TV on Azerspace 1 at 46.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Azerspace 1",
+    "providerName": "ARB Media Qrup",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/arb_az_media_qrup.png",
+    "providerWebsite": "http://www.arbtv.az/",
+    "providerCountry": "Azerbaijan"
+  },
+  {
+    "satellite": "Azerspace 1",
+    "providerName": "Azercosmos",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/azercosmos.png",
+    "providerWebsite": "https://azercosmos.az/",
+    "providerCountry": "Azerbaijan"
+  },
+  {
+    "satellite": "Azerspace 1",
+    "providerName": "Teleradio",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/teleradio_az.png",
+    "providerWebsite": "http://www.teleradio.az/",
+    "providerCountry": "Azerbaijan"
+  },
+  {
+    "satellite": "Azerspace 2/Intelsat 38",
+    "providerName": "Vivacom on Azerspace 2/Intelsat 38 at 45.1°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Azerspace 2/Intelsat 38",
+    "providerName": "Dialog TV on Azerspace 2/Intelsat 38 at 45.1°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Azerspace 2/Intelsat 38",
+    "providerName": "Cosmonova Broadcast",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/cosmonova-broadcast-ua.svg",
+    "providerWebsite": "https://cosmonova-broadcast.tv/",
+    "providerCountry": "Ukraine"
+  },
+  {
+    "satellite": "NigComSat 1R",
+    "providerName": "Sairtek",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Nigeria"
+  },
+  {
+    "satellite": "NigComSat 1R",
+    "providerName": "TFMediaCast",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tfmediacast-ng.png",
+    "providerWebsite": "https://www.tfmediacast.com/",
+    "providerCountry": "Nigeria"
+  },
+  {
+    "satellite": "NigComSat 1R",
+    "providerName": "Our TV on NigComSat 1R at 42.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "NigComSat 1R",
+    "providerName": "Nixsat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/nn/nixsat-za.png",
+    "providerWebsite": "https://www.nixsat.com/",
+    "providerCountry": "South Africa"
+  },
+  {
+    "satellite": "NigComSat 1R",
+    "providerName": "TSTV Africa",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tstv-africa-ng.png",
+    "providerWebsite": "https://www.tstvafrica.com/",
+    "providerCountry": "Nigeria"
+  },
+  {
+    "satellite": "Türksat 3A",
+    "providerName": "TRT",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/trt-tr.png",
+    "providerWebsite": "http://www.trt.net.tr/",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Türksat 3A",
+    "providerName": "Türksat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/turksat_tr.png",
+    "providerWebsite": "http://www.turksat.com.tr/",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Türksat 3A",
+    "providerName": "Ciner",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/ciner_grubu.png",
+    "providerWebsite": "http://www.cinergrubu.com.tr/",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Türksat 3A",
+    "providerName": "TRT Antalya",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/tt/trt-antalya-radyosu-tr.svg",
+    "providerWebsite": "https://radyo.trt.net.tr/kanallar/antalya",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Türksat 3A",
+    "providerName": "TRT Erzurum",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/tt/trt-erzurum-radyosu-tr.svg",
+    "providerWebsite": "https://radyo.trt.net.tr/kanallar/erzurum",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Türksat 3A",
+    "providerName": "TRT Trabzon",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/tt/trt-trabzon-radyosu-tr.svg",
+    "providerWebsite": "https://radyo.trt.net.tr/kanallar/trabzon",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Türksat 3A",
+    "providerName": "TRT GAP Diyarbakir",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/tt/trt-gap-diyarbakir-radyosu-tr.svg",
+    "providerWebsite": "https://radyo.trt.net.tr/kanallar/gap-diyarbakir",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Türksat 3A",
+    "providerName": "Digiturk on Türksat 3A/4A/5B at 42.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Türksat 4A",
+    "providerName": "Tivibu on Türksat 4A at 42.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Türksat 4A",
+    "providerName": "Turkuvaz",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/turkuvaz.png",
+    "providerWebsite": "http://www.turkuvazyayin.com.tr/",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Türksat 4A",
+    "providerName": "D-Smart on Türksat 3A/4A at 42.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Türksat 4A",
+    "providerName": "Dogus Yayin Grubu",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/dd/dogus_yayin_grubu_tr.png",
+    "providerWebsite": "http://www.dogusyayingrubu.com/",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Türksat 4A",
+    "providerName": "Kanal 7",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/kk/kanal-7-tr.svg",
+    "providerWebsite": "https://www.kanal7.com/",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Türksat 4A",
+    "providerName": "The Walt Disney Company Turkey",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/the-walt-disney-company-turkey-us-tr.png",
+    "providerWebsite": "https://www.disney.com.tr/hakkimizda",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Türksat 4A",
+    "providerName": "TGRT",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tgrt_tr.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Türksat 4A",
+    "providerName": "Güç Telekom Medya ve Iletisim Ticaret",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/guc-telekom-medya-tr.png",
+    "providerWebsite": "http://www.guctelekom.com.tr/",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Türksat 4A",
+    "providerName": "TürkMedya",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/turkmedya-tr.png",
+    "providerWebsite": "http://turkmedya.com.tr/",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Türksat 4A",
+    "providerName": "Acunmedya",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/acun_medya_tr.png",
+    "providerWebsite": "http://www.acunmedya.com/",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Türksat 4A",
+    "providerName": "Mega-Choice",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/mega_choice_gh.png",
+    "providerWebsite": "http://www.megachoicedigital.com/",
+    "providerCountry": "Ghana"
+  },
+  {
+    "satellite": "Türksat 4A",
+    "providerName": "Satview Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/satview-network-ng.png",
+    "providerWebsite": "https://satviewnetwork.com/",
+    "providerCountry": "Nigeria"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Stavropol",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Tula",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Kaluga",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://kaluga.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Karelija",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Murmansk",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Voronezh",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Mari El",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Makhachkala",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Ryazan",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Penza",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Arkhangelsk",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Lipetsk",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Tambov",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Elista",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Mordovia",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Cheboksary",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Velikiy Novgorod",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Kabardino Balkarija",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Syktyvkar",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Nazran",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Vologda",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Maykop",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Vladimir",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Orel",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Cherkessk",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Ivanovo",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Kirov",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Vladikavkaz",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Kostroma",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Naryan-Mar",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Tatarstan",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Nizhny Novgorod",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://nnovgorod.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Chechnya",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Volgograd",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "http://volgograd.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Pskov",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Express AM7",
+    "providerName": "RTRS Tver",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtrs_ru.png",
+    "providerWebsite": "https://www.rtrs.ru/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Hellas Sat 3",
+    "providerName": "A1 Bulgaria on Hellas Sat 3 at 39.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Hellas Sat 3",
+    "providerName": "Bulsatcom on Hellas Sat 3 at 39.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Hellas Sat 3",
+    "providerName": "Orange România on Hellas Sat 3 at 39.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Hellas Sat 3",
+    "providerName": "ERT",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ee/ert_gr.png",
+    "providerWebsite": "http://www.ert.gr/",
+    "providerCountry": "Greece"
+  },
+  {
+    "satellite": "Hellas Sat 3",
+    "providerName": "Digea",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/dd/digea_gr.png",
+    "providerWebsite": "http://www.digea.gr/",
+    "providerCountry": "Greece"
+  },
+  {
+    "satellite": "Hellas Sat 3",
+    "providerName": "Intact Media Group",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/intact_media_group_ro.png",
+    "providerWebsite": "http://www.intactmediagroup.ro/",
+    "providerCountry": "Romania"
+  },
+  {
+    "satellite": "Hellas Sat 4",
+    "providerName": "Tring on Hellas Sat 4 at 39.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Paksat 1R",
+    "providerName": "Dunya Media Group",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/dd/dunya-media-group-pk.png",
+    "providerWebsite": "http://dunyanews.tv/",
+    "providerCountry": "Pakistan"
+  },
+  {
+    "satellite": "Paksat 1R",
+    "providerName": "VU TV Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/vv/virtual_university_pk.png",
+    "providerWebsite": "https://www.vu.edu.pk/",
+    "providerCountry": "Pakistan"
+  },
+  {
+    "satellite": "Paksat 1R",
+    "providerName": "Suno FM",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/ss/suno-fm-pk.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Paksat 1R",
+    "providerName": "Geo TV Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/geo_tv_network.png",
+    "providerWebsite": "http://www.geo.tv/",
+    "providerCountry": "Pakistan"
+  },
+  {
+    "satellite": "Paksat 1R",
+    "providerName": "Express",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ee/express_pk.png",
+    "providerWebsite": "http://www.express.pk/",
+    "providerCountry": "Pakistan"
+  },
+  {
+    "satellite": "Paksat 1R",
+    "providerName": "Radio Pakistan",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/rr/radio_pakistan.png",
+    "providerWebsite": "http://www.radio.gov.pk/",
+    "providerCountry": "Pakistan"
+  },
+  {
+    "satellite": "Paksat 1R",
+    "providerName": "PTV Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/ptv_network.png",
+    "providerWebsite": "http://www.ptv.com.pk/",
+    "providerCountry": "Pakistan"
+  },
+  {
+    "satellite": "Paksat 1R",
+    "providerName": "AVT Channels",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/avt_channels.png",
+    "providerWebsite": "http://www.avtchannels.com/",
+    "providerCountry": "Pakistan"
+  },
+  {
+    "satellite": "Paksat 1R",
+    "providerName": "KTN Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/kk/ktn_pk.png",
+    "providerWebsite": "http://www.ktntv.tv/",
+    "providerCountry": "Pakistan"
+  },
+  {
+    "satellite": "Paksat 1R",
+    "providerName": "Hum Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/hh/hum_network_pk.png",
+    "providerWebsite": "http://www.humnetwork.tv/",
+    "providerCountry": "Pakistan"
+  },
+  {
+    "satellite": "Eutelsat 36B",
+    "providerName": "GeoSat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/geosat_ge.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 36B",
+    "providerName": "Zap on Eutelsat 36B at 35.9°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 36B",
+    "providerName": "Stereo Plus",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Georgia"
+  },
+  {
+    "satellite": "Eutelsat 36B",
+    "providerName": "Vivacom MCPC",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/vv/vivacom-bg.png",
+    "providerWebsite": "https://www.vivacom.bg/",
+    "providerCountry": "Bulgaria"
+  },
+  {
+    "satellite": "Eutelsat 36B",
+    "providerName": "DSTV Africa on Eutelsat 36B & Express AMU1 at 36.1°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 36B",
+    "providerName": "Global Link",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/gg/global-link-ge.png",
+    "providerWebsite": "https://globlink.info/",
+    "providerCountry": "Georgia"
+  },
+  {
+    "satellite": "Eutelsat 36B",
+    "providerName": "Trikolor on Eutelsat 36B & Express AMU1 at 36.1°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 36B",
+    "providerName": "NTV Plus on Eutelsat 36B & Express AMU1 at 36.1°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 33F",
+    "providerName": "Vidi TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/vv/vidi-tv-ba.png",
+    "providerWebsite": "https://viditv.ba/",
+    "providerCountry": "Bosnia and Herzegovina"
+  },
+  {
+    "satellite": "Eutelsat 33F",
+    "providerName": "Vivacom DTT",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/vv/vivacom-bg.png",
+    "providerWebsite": "https://www.vivacom.bg/",
+    "providerCountry": "Bulgaria"
+  },
+  {
+    "satellite": "Intelsat 28",
+    "providerName": "UAU!TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/uu/uau_ao.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Arabsat 5A",
+    "providerName": "ORTAS",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/oo/ortas-sy.png",
+    "providerWebsite": "http://www.ortas.online/",
+    "providerCountry": "Syria"
+  },
+  {
+    "satellite": "Arabsat 6A",
+    "providerName": "Sharjah Broadcasting Authority",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sharjah-broadcasting-authority-ae.svg",
+    "providerWebsite": "https://sba.net.ae/",
+    "providerCountry": "United Arab Emirates"
+  },
+  {
+    "satellite": "Astra 2E",
+    "providerName": "Sky UK on Astra 2E/2F/2G at 28.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 2F",
+    "providerName": "WAP",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 2F",
+    "providerName": "Multi TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/multi_tv_gh.png",
+    "providerWebsite": "http://www.multitvworld.com/",
+    "providerCountry": "Ghana"
+  },
+  {
+    "satellite": "Astra 2F",
+    "providerName": "HD+ Ghana on Astra 2F/2G at 28.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Badr 7",
+    "providerName": "MFM Radio",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/mm/mfm-radio-ma.png",
+    "providerWebsite": "https://www.mfmradio.ma/",
+    "providerCountry": "Morocco"
+  },
+  {
+    "satellite": "Badr 7",
+    "providerName": "RCS",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rcs-gh.png",
+    "providerWebsite": "https://rcs.com.gh/",
+    "providerCountry": "Ghana"
+  },
+  {
+    "satellite": "Badr 7",
+    "providerName": "MBC",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/mm/mbc-sa.svg",
+    "providerWebsite": "https://www.mbc.net/channels?title=MBC1",
+    "providerCountry": "Saudi Arabia"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "TNT Niger",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Niger"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "Jordan Media City",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/jj/jordan-media-city-jo.png",
+    "providerWebsite": "https://www.jordanmediacity.com/",
+    "providerCountry": "Jordan"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "Arabsat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/arabsat-sa.png",
+    "providerWebsite": "https://www.arabsat.com/",
+    "providerCountry": "Saudi Arabia"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "Asharq",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Saudi Arabia"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "Palsat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/pal_sat_ps.png",
+    "providerWebsite": "http://www.palsat.ps/",
+    "providerCountry": "Palestine"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "Profen",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/profen-tr.svg",
+    "providerWebsite": "https://profen.com/",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "Dubai Media",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/dd/dubai_media_inc.png",
+    "providerWebsite": "https://www.dmi.gov.ae/",
+    "providerCountry": "United Arab Emirates"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "Qatar TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/qq/qatar_tv.png",
+    "providerWebsite": "http://www.qtv.qa/",
+    "providerCountry": "Qatar"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "Bahrain TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/bahrain_tv.png",
+    "providerWebsite": "https://www.mia.gov.bh/",
+    "providerCountry": "Bahrain"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "Al Kass",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/aa/al_kass_qa.png",
+    "providerWebsite": "https://www.alkass.net/",
+    "providerCountry": "Qatar"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "GOBX on Badr 8 at 26.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "IEN Doros",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Saudi Arabia"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "Oman TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/oo/oman_tv.png",
+    "providerWebsite": "https://www.omaninfo.om/",
+    "providerCountry": "Oman"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "Al-Majd Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/al_majd_sa_network.png",
+    "providerWebsite": "http://www.almajdtv.com/",
+    "providerCountry": "Saudi Arabia"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "Kuwait TV",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Kuwait"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "Sudan TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/sudan-tv-sd.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "TDM",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tdm-mr.png",
+    "providerWebsite": "http://www.tdm.mr/",
+    "providerCountry": "Mauritania"
+  },
+  {
+    "satellite": "Badr 8",
+    "providerName": "SNRT",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/snrt_ma.png",
+    "providerWebsite": "http://www.snrt.ma/",
+    "providerCountry": "Morocco"
+  },
+  {
+    "satellite": "Es'hail 2",
+    "providerName": "Al Rayyan",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/aa/al_rayyan_tv.png",
+    "providerWebsite": "https://www.alrayyan.tv/",
+    "providerCountry": "Qatar"
+  },
+  {
+    "satellite": "Es'hail 2",
+    "providerName": "BeIn on Es'hail 2 at 25.8°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Es'hail 2",
+    "providerName": "Rotana",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rotana_sa.png",
+    "providerWebsite": "https://rotana.net/",
+    "providerCountry": "Saudi Arabia"
+  },
+  {
+    "satellite": "Es'hail 1",
+    "providerName": "Aljazeera",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/al_jazeera_qa.png",
+    "providerWebsite": "http://www.aljazeera.net/",
+    "providerCountry": "Qatar"
+  },
+  {
+    "satellite": "Astra 3B",
+    "providerName": "Grupa ZPR Media",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/grupa-zpr-media-pl.png",
+    "providerWebsite": "https://www.grupazpr.pl/",
+    "providerCountry": "Poland"
+  },
+  {
+    "satellite": "Astra 3B",
+    "providerName": "Grupa Radiowa Agory",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/grupa-radiowa-agory-pl.png",
+    "providerWebsite": "https://radioagora.pl/",
+    "providerCountry": "Poland"
+  },
+  {
+    "satellite": "Astra 3B",
+    "providerName": "Grupa RMF",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/grupa-rmf-pl.png",
+    "providerWebsite": "https://www.gruparmf.pl/",
+    "providerCountry": "Poland"
+  },
+  {
+    "satellite": "Astra 3B",
+    "providerName": "M:Sat TV on Astra 3B at 23.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 3B",
+    "providerName": "M7 Group",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/m7-group-lu.png",
+    "providerWebsite": "http://www.m7group.eu/",
+    "providerCountry": "Luxembourg"
+  },
+  {
+    "satellite": "Astra 3B",
+    "providerName": "Skylink on Astra 3B/3C at 23.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 3B",
+    "providerName": "Canal Digitaal on Astra 3B at 23.5°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 3C",
+    "providerName": "SES Ukraine",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/ses_ua.png",
+    "providerWebsite": "https://www.ses.com/",
+    "providerCountry": "Luxembourg"
+  },
+  {
+    "satellite": "Astra 3C",
+    "providerName": "RRT",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rrt-ua.png",
+    "providerWebsite": "https://www.rrt.ua/",
+    "providerCountry": "Ukraine"
+  },
+  {
+    "satellite": "Astra 3C",
+    "providerName": "Towercom",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/towercom_sk.png",
+    "providerWebsite": "http://www.towercom.sk/",
+    "providerCountry": "Slovakia"
+  },
+  {
+    "satellite": "Eutelsat 21B",
+    "providerName": "Arryadia",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png",
+    "providerWebsite": "https://arryadia.snrt.ma/",
+    "providerCountry": "Morocco"
+  },
+  {
+    "satellite": "Eutelsat 21B",
+    "providerName": "MBC Maser",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png",
+    "providerWebsite": "https://www.mbc.net/channels?title=MBC%20MASR",
+    "providerCountry": "Saudi Arabia"
+  },
+  {
+    "satellite": "Eutelsat 21B",
+    "providerName": "Medi 1 Radio",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/mm/medi-1-radio-ma.png",
+    "providerWebsite": "https://www.medi1.com/",
+    "providerCountry": "Morocco"
+  },
+  {
+    "satellite": "Arabsat 5C",
+    "providerName": "DalSat Global",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/dd/dalsat-global-so.png",
+    "providerWebsite": "http://www.dalsatglobal.com/",
+    "providerCountry": "Somalia"
+  },
+  {
+    "satellite": "Arabsat 5C",
+    "providerName": "Hit Radio",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/hh/hit_radio_ma.png",
+    "providerWebsite": "https://www.hitradio.ma/",
+    "providerCountry": "Morocco"
+  },
+  {
+    "satellite": "Arabsat 5C",
+    "providerName": "ASBU Bouquet",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/asbu-tn.png",
+    "providerWebsite": "https://www.asbu.net/",
+    "providerCountry": "Tunisia"
+  },
+  {
+    "satellite": "Astra 1KR",
+    "providerName": "HD+ on Astra 1KR/1L/1N at 19.2°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 1KR",
+    "providerName": "Movistar+ on Astra 1KR/1L/1M at 19.2°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 1KR",
+    "providerName": "Sky Deutschland on Astra 1KR/1L/1M/1N at 19.2°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 1KR",
+    "providerName": "ORF Digital on Astra 1KR/1L/1N at 19.2°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 1KR",
+    "providerName": "ZDF Vision",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/zz/zdf_vision.png",
+    "providerWebsite": "http://www.zdfvision.de/",
+    "providerCountry": "Germany"
+  },
+  {
+    "satellite": "Astra 1L",
+    "providerName": "Beta Digital",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/bb/beta-digital-ie.png",
+    "providerWebsite": "https://www.betadigital.net/",
+    "providerCountry": "Ireland"
+  },
+  {
+    "satellite": "Astra 1L",
+    "providerName": "ARD Digital",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/ard_digital.png",
+    "providerWebsite": "http://www.ard-digital.de/",
+    "providerCountry": "Germany"
+  },
+  {
+    "satellite": "Astra 1L",
+    "providerName": "Telefónica Servicios Audiovisuales",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/telefonica-es.svg",
+    "providerWebsite": "https://www.telefonicaserviciosaudiovisuales.com/",
+    "providerCountry": "Spain"
+  },
+  {
+    "satellite": "Astra 1L",
+    "providerName": "TrendSports",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/trendsports-de.png",
+    "providerWebsite": "https://trendsports.eu/",
+    "providerCountry": "Germany"
+  },
+  {
+    "satellite": "Astra 1L",
+    "providerName": "ORF Digital",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/oo/orf_digital.png",
+    "providerWebsite": "http://digital.orf.at/",
+    "providerCountry": "Austria"
+  },
+  {
+    "satellite": "Astra 1L",
+    "providerName": "RTL Group",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtl-group-de.png",
+    "providerWebsite": "https://company.rtl.com/",
+    "providerCountry": "Germany"
+  },
+  {
+    "satellite": "Astra 1L",
+    "providerName": "ProSiebenSat. 1 Media",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/pro_sieben_sat1_media.png",
+    "providerWebsite": "http://www.prosiebensat1.com/",
+    "providerCountry": "Germany"
+  },
+  {
+    "satellite": "Astra 1L",
+    "providerName": "High View",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/hh/high-view-de.png",
+    "providerWebsite": "https://www.highview.com/",
+    "providerCountry": "Germany"
+  },
+  {
+    "satellite": "Astra 1L",
+    "providerName": "Canal + France on Astra 1L/1M/1N at 19.2°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 1N",
+    "providerName": "HD+",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/hh/hdplus-de.svg",
+    "providerWebsite": "http://www.hd-plus.de/",
+    "providerCountry": "Germany"
+  },
+  {
+    "satellite": "Astra 1N",
+    "providerName": "HD Austria on Astra 1N at 19.2°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 1N",
+    "providerName": "Media Broadcast Satellite",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/media-broadcast-satellite-de.png",
+    "providerWebsite": "https://mb-satellite.com/",
+    "providerCountry": "Germany"
+  },
+  {
+    "satellite": "Amos 17",
+    "providerName": "Signet",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/signet_ke.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "EClutch",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "DigitAlb on Eutelsat 16A at 16.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "New World on Eutelsat 16A at 16.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Canal + Réunion on Eutelsat 16A at 16.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Parabole Réunion on Eutelsat 16A at 16.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Total TV on Eutelsat 16A at 16.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Castor Networks",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/castor-networks-nl.png",
+    "providerWebsite": "https://castornetworks.com/",
+    "providerCountry": "Netherlands"
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Broadcast Partners",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/bb/broadcast-partners-nl.png",
+    "providerWebsite": "https://www.broadcastpartners.nl/",
+    "providerCountry": "Netherlands"
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Antik Sat on Eutelsat 16A at 16.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Team:Media",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/team_media_ba.png",
+    "providerWebsite": "http://www.team-media.ba/",
+    "providerCountry": "Bosnia and Herzegovina"
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "A1 Croatia",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/a1-croatia-hr.png",
+    "providerWebsite": "https://www.a1.hr/privatni/televizija/satelitska-televizija",
+    "providerCountry": "Croatia"
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Max TV on Eutelsat 16A at 16.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "TV Româna",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tvr_ro.png",
+    "providerWebsite": "http://www.tvr.ro/",
+    "providerCountry": "Romania"
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "A1 Croatia on Eutelsat 16A at 16.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "OIV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/oo/oiv-hr.png",
+    "providerWebsite": "https://www.oiv.hr/",
+    "providerCountry": "Croatia"
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Orange Réunion on Eutelsat 16A at 16.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Pro TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/pp/pro-tv-ro.png",
+    "providerWebsite": "http://www.protv.ro/",
+    "providerCountry": "Romania"
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "AlbanicaSat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/albanica_sat_rs.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Freesat on Eutelsat 16A at 16.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Red Media",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/red-media-tr.png",
+    "providerWebsite": "https://redmediatv.com/",
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "RTSH",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtsh-al.png",
+    "providerWebsite": "https://rtsh.al/",
+    "providerCountry": "Albania"
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Premium Free",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/premium-free-za.png",
+    "providerWebsite": "https://www.premiumfree.tv/",
+    "providerCountry": "South Africa"
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "SNAI",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/snai_it_corp.png",
+    "providerWebsite": "http://www.snai.it/",
+    "providerCountry": "Italy"
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Centrul National Media",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/centrul_national_media_ro.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Ippica",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Italy"
+  },
+  {
+    "satellite": "Eutelsat 16A",
+    "providerName": "Canal 2 International",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/canal2_international_cm.png",
+    "providerWebsite": "http://www.canal2international.net/",
+    "providerCountry": "Cameroon"
+  },
+  {
+    "satellite": "Hotbird 13F",
+    "providerName": "Kabelio on Hotbird 13F/13G at 13.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Hotbird 13F",
+    "providerName": "STN",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/stn_si.png",
+    "providerWebsite": "http://www.stn.eu/",
+    "providerCountry": "Slovenia"
+  },
+  {
+    "satellite": "Hotbird 13F",
+    "providerName": "Mediaset",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/mediaset.png",
+    "providerWebsite": "http://www.tv.mediaset.it/",
+    "providerCountry": "Italy"
+  },
+  {
+    "satellite": "Hotbird 13F",
+    "providerName": "RAI",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rai.png",
+    "providerWebsite": "https://www.rai.it/",
+    "providerCountry": "Italy"
+  },
+  {
+    "satellite": "Hotbird 13F",
+    "providerName": "Sky Italia on Hotbird 13F at 13.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Hotbird 13F",
+    "providerName": "Nova on Hotbird 13F at 13.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Hotbird 13F",
+    "providerName": "Telespazio",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/telespazio_it.png",
+    "providerWebsite": "http://www.telespazio.it/",
+    "providerCountry": "Italy"
+  },
+  {
+    "satellite": "Hotbird 13F",
+    "providerName": "Vivacom on Hotbird 13F at 13.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Hotbird 13F",
+    "providerName": "Mediawan Thematics",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/mediawan-thematics-fr.png",
+    "providerWebsite": "https://mediawan.fr/",
+    "providerCountry": "France"
+  },
+  {
+    "satellite": "Hotbird 13G",
+    "providerName": "Platforma Canal + on Hotbird 13G at 13.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Hotbird 13G",
+    "providerName": "Polsat Box on Hotbird 13G at 13.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Hotbird 13G",
+    "providerName": "Eutelsat",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ee/eutelsat-fr.svg",
+    "providerWebsite": "https://www.eutelsat.com/",
+    "providerCountry": "France"
+  },
+  {
+    "satellite": "Hotbird 13G",
+    "providerName": "Svoboda Satellite Bouquet",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/svoboda-satellite-bouquet-fr.png",
+    "providerWebsite": "https://www.denisdiderot.net/svoboda-ru",
+    "providerCountry": "France"
+  },
+  {
+    "satellite": "Hotbird 13G",
+    "providerName": "Canal + Polska",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/canal-plus-polska-pl.png",
+    "providerWebsite": "https://pl.canalplus.com/",
+    "providerCountry": "Poland"
+  },
+  {
+    "satellite": "Hotbird 13G",
+    "providerName": "Platforma Canal +",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/platforma-canal-plus-pl.png",
+    "providerWebsite": "https://pl.canalplus.com/",
+    "providerCountry": "Poland"
+  },
+  {
+    "satellite": "Hotbird 13G",
+    "providerName": "Bis TV on Hotbird 13F/13G at 13.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Hotbird 13G",
+    "providerName": "VoA",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/vv/voa_us.png",
+    "providerWebsite": "http://www.voanews.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Hotbird 13G",
+    "providerName": "Etisalat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ee/etisalat-ae.svg",
+    "providerWebsite": "https://www.etisalat.ae/",
+    "providerCountry": "United Arab Emirates"
+  },
+  {
+    "satellite": "Eutelsat 10B",
+    "providerName": "Rwanda TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rwanda-tv-rw.png",
+    "providerWebsite": "https://www.rba.co.rw/tv",
+    "providerCountry": "Rwanda"
+  },
+  {
+    "satellite": "Eutelsat 10B",
+    "providerName": "StarTimes TV Kenya",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/startimes_ke.png",
+    "providerWebsite": "https://www.startimestv.com/",
+    "providerCountry": "Kenya"
+  },
+  {
+    "satellite": "Eutelsat 10B",
+    "providerName": "New World TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/nn/new-world-tv-tg.png",
+    "providerWebsite": "https://www.newworldtv.com/",
+    "providerCountry": "Togo"
+  },
+  {
+    "satellite": "Eutelsat 10B",
+    "providerName": "TVT",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tvt-tg.png",
+    "providerWebsite": "https://tvt.tg/",
+    "providerCountry": "Togo"
+  },
+  {
+    "satellite": "Eutelsat Ka-Sat 9A",
+    "providerName": "2RN",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rte_2rn_ie.png",
+    "providerWebsite": "http://www.2rn.ie/",
+    "providerCountry": "Ireland"
+  },
+  {
+    "satellite": "Eutelsat 9B",
+    "providerName": "Televisa Networks",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/televisa_mx_networks.png",
+    "providerWebsite": "https://televisa-networks.com/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Eutelsat 9B",
+    "providerName": "M7 Deutschland on Eutelsat 9B at 9.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 9B",
+    "providerName": "American Forces Network on Eutelsat 9B at 9.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 9B",
+    "providerName": "Skylogic",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/skylogic.png",
+    "providerWebsite": "http://www.skylogic.com/",
+    "providerCountry": "Italy"
+  },
+  {
+    "satellite": "Eutelsat 9B",
+    "providerName": "Cosmote TV on Eutelsat 9B at 9.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 9B",
+    "providerName": "MTVA",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/mtva_hu.png",
+    "providerWebsite": "http://www.mtva.hu/",
+    "providerCountry": "Hungary"
+  },
+  {
+    "satellite": "Eutelsat 9B",
+    "providerName": "Cairo Communication",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/cairo_communication_it.png",
+    "providerWebsite": "http://www.cairocommunication.it/",
+    "providerCountry": "Italy"
+  },
+  {
+    "satellite": "Eutelsat 9B",
+    "providerName": "ZeonBud",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/zz/zeonbud_ua.png",
+    "providerWebsite": "http://www.zeonbud.com.ua/",
+    "providerCountry": "Ukraine"
+  },
+  {
+    "satellite": "Eutelsat 9B",
+    "providerName": "RL Piemonte 1",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Italy"
+  },
+  {
+    "satellite": "Eutelsat 9B",
+    "providerName": "Persidera",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/persidera_it.png",
+    "providerWebsite": "http://www.persidera.it/",
+    "providerCountry": "Italy"
+  },
+  {
+    "satellite": "Eutelsat 9B",
+    "providerName": "RL Liguria 1",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Italy"
+  },
+  {
+    "satellite": "Eutelsat 9B",
+    "providerName": "RL Valle d'Aosta",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Italy"
+  },
+  {
+    "satellite": "Eutelsat 7B",
+    "providerName": "IVG",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Turkey"
+  },
+  {
+    "satellite": "Eutelsat 7B",
+    "providerName": "Vivacom",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/vv/vivacom-bg.png",
+    "providerWebsite": "https://www.vivacom.bg/bg/eon-sat",
+    "providerCountry": "Bulgaria"
+  },
+  {
+    "satellite": "Eutelsat 7B",
+    "providerName": "Zim Digital",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/zz/zim_digital_zw.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 7C",
+    "providerName": "Azam TV on Eutelsat 7B/7C at 7.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 7C",
+    "providerName": "Canal + Ethiopia on Eutelsat 7C at 7.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 7C",
+    "providerName": "Moreplex TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/mm/moreplex-tv-ng.png",
+    "providerWebsite": "http://moreplexdth.com/main/apackages",
+    "providerCountry": "Nigeria"
+  },
+  {
+    "satellite": "SES 5",
+    "providerName": "TV Continental",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tv_continental_ng.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "SES 5",
+    "providerName": "Zuku on SES 5 at 5.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "SES 5",
+    "providerName": "StarSat on SES 5 at 5.0°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 4A",
+    "providerName": "NEP Connect",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/nn/nep-connect-uk.png",
+    "providerWebsite": "https://www.nepconnect.live/",
+    "providerCountry": "United Kingdom"
+  },
+  {
+    "satellite": "Astra 4A",
+    "providerName": "Viasat Ukraina on Astra 4A at 4.8°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 4A",
+    "providerName": "Home 3 on Astra 4A at 4.8°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 4A",
+    "providerName": "Inter Media Grup",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ii/inter-media-group-ua.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Astra 4A",
+    "providerName": "Satelio on Astra 4A at 4.8°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 3B",
+    "providerName": "StarTimes TV Nigeria on Eutelsat 3B at 3.1°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 3B",
+    "providerName": "StarTimes TV Tanzania",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/startimes-tv-tanzania-tz.png",
+    "providerWebsite": "https://www.startimestv.com/",
+    "providerCountry": "Tanzania"
+  },
+  {
+    "satellite": "Eutelsat 3B",
+    "providerName": "StarTimes TV Uganda",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/star_times_ug.png",
+    "providerWebsite": "https://www.startimestv.com/",
+    "providerCountry": "Uganda"
+  },
+  {
+    "satellite": "Eutelsat 3B",
+    "providerName": "StarTimes TV Uganda on Eutelsat 3B at 3.1°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 3B",
+    "providerName": "StarTimes TV Moçambique on Eutelsat 3B at 3.1°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 3B",
+    "providerName": "2M",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Morocco"
+  },
+  {
+    "satellite": "Eutelsat 3B",
+    "providerName": "Channel 8",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/channel-8-iq.png",
+    "providerWebsite": "https://channel8.com/",
+    "providerCountry": "Iraq"
+  },
+  {
+    "satellite": "Rascom QAF 1R",
+    "providerName": "Dash Media",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/dd/dash-media-cm.png",
+    "providerWebsite": "https://dashacomedia.com/",
+    "providerCountry": "Cameroon"
+  },
+  {
+    "satellite": "Rascom QAF 1R",
+    "providerName": "Vicus Luxlink",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/vv/vicus-luxlink-de.png",
+    "providerWebsite": "http://www.vicusluxlink.net/",
+    "providerCountry": "Germany"
+  },
+  {
+    "satellite": "Rascom QAF 1R",
+    "providerName": "Muvi TV on Rascom QAF 1R at 2.8°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "BulgariaSat 1",
+    "providerName": "Neosat on BulgariaSat 1 at 1.9°E",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Thor 7",
+    "providerName": "Direct One on Thor 5/6/7 at 0.6°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Thor 7",
+    "providerName": "Slovak Telekom",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/telekom_sk.png",
+    "providerWebsite": "https://www.telekom.sk/",
+    "providerCountry": "Slovakia"
+  },
+  {
+    "satellite": "Thor 7",
+    "providerName": "Telenor",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/telenor.png",
+    "providerWebsite": "http://www.telenorsat.com/",
+    "providerCountry": "Norway"
+  },
+  {
+    "satellite": "Thor 7",
+    "providerName": "Allente on Thor 5/6 at 0.6°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Thor 5",
+    "providerName": "Digi România on Thor 5/6 & Intelsat 10-02 at 0.6°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Thor 6",
+    "providerName": "Focus Sat on Thor 6 at 0.8°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 10-02",
+    "providerName": "NBC",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/nn/nbc_na.png",
+    "providerWebsite": "http://www.nbc.na/",
+    "providerCountry": "Namibia"
+  },
+  {
+    "satellite": "Intelsat 10-02",
+    "providerName": "TV 2",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv2_hu.png",
+    "providerWebsite": "https://tv2play.hu/tv2",
+    "providerCountry": "Hungary"
+  },
+  {
+    "satellite": "ABS 3A",
+    "providerName": "IMPD TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ii/impd_tv_br.png",
+    "providerWebsite": "https://impd.org.br/?tv=",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "ABS 3A",
+    "providerName": "IMPD TV Worldwide",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ii/impd_tv_br_worldwide.png",
+    "providerWebsite": "https://impd.org.br/?tv=",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "ABS 3A",
+    "providerName": "IMPD TV Rondônia",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ii/impd_tv_br.png",
+    "providerWebsite": "https://impd.org.br/?tv=",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "ABS 3A",
+    "providerName": "CruiseSat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/cruisesat-us.png",
+    "providerWebsite": "https://www.cruisesat.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "ABS 3A",
+    "providerName": "WiTV Africa",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ww/witv-africa-us.png",
+    "providerWebsite": "https://witvafrica.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "ABS 3A",
+    "providerName": "BT Media Group",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/bb/bt-media-group-cm.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "ABS 3A",
+    "providerName": "PSTV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/pstv-cg.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "ABS 3A",
+    "providerName": "Dream TV Satellite",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/dd/dream-tv-satellite-gy.png",
+    "providerWebsite": "https://www.enetworks.gy/tv/",
+    "providerCountry": "Guyana"
+  },
+  {
+    "satellite": "ABS 3A",
+    "providerName": "SkyVision",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sky_vision_uk.png",
+    "providerWebsite": "http://www.skyvision.net/",
+    "providerCountry": "United Kingdom"
+  },
+  {
+    "satellite": "Amos 7",
+    "providerName": "Yes on Amos 3/7 at 3.9°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Amos 3",
+    "providerName": "T-Home on Amos 3 at 4.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Amos 3",
+    "providerName": "Antenna Hungária",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/antenna_hungaria.png",
+    "providerWebsite": "http://www.ahrt.hu/",
+    "providerCountry": "Hungary"
+  },
+  {
+    "satellite": "Amos 3",
+    "providerName": "Tippmix",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tippmix_hu.png",
+    "providerWebsite": "https://www.tippmix.hu/",
+    "providerCountry": "Hungary"
+  },
+  {
+    "satellite": "Eutelsat 5 West B",
+    "providerName": "Fransat on Eutelsat 5 West B at 5.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 5 West B",
+    "providerName": "Rai Way Sicilia 1",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 5 West B",
+    "providerName": "TowerCast",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/towercast-fr.png",
+    "providerWebsite": "http://www.towercast.fr/",
+    "providerCountry": "France"
+  },
+  {
+    "satellite": "Eutelsat 5 West B",
+    "providerName": "Alouette",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/aa/alouette_fr.png",
+    "providerWebsite": "https://www.alouette.fr/",
+    "providerCountry": "France"
+  },
+  {
+    "satellite": "Eutelsat 5 West B",
+    "providerName": "TDF",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tdf-fr.png",
+    "providerWebsite": "https://www.tdf.fr/",
+    "providerCountry": "France"
+  },
+  {
+    "satellite": "Eutelsat 5 West B",
+    "providerName": "Bis TV on Eutelsat 5 West B at 5.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 5 West B",
+    "providerName": "Sardegna Locale 1",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Italy"
+  },
+  {
+    "satellite": "Nilesat 201",
+    "providerName": "OSN TV on Nilesat 201 & Eutelsat 8 West B at 7.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Nilesat 201",
+    "providerName": "ERTU",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ee/ertu.png",
+    "providerWebsite": "http://www.ertu.org/",
+    "providerCountry": "Egypt"
+  },
+  {
+    "satellite": "Nilesat 201",
+    "providerName": "Nilesat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/nn/nilesat.png",
+    "providerWebsite": "https://www.nilesat.com.eg/",
+    "providerCountry": "Egypt"
+  },
+  {
+    "satellite": "Nilesat 201",
+    "providerName": "On TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/oo/on-tv-eg.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Nilesat 201",
+    "providerName": "DMC",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dmc_eg.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 7 West A",
+    "providerName": "Gulfsat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/gulfsat.png",
+    "providerWebsite": "http://www.gulfsat.com/",
+    "providerCountry": "Kuwait"
+  },
+  {
+    "satellite": "Eutelsat 7 West A",
+    "providerName": "Viewsat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/vv/viewsat-uk.png",
+    "providerWebsite": "https://www.viewsat.eu/",
+    "providerCountry": "United Kingdom"
+  },
+  {
+    "satellite": "Eutelsat 7 West A",
+    "providerName": "Eutelsat MENA",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ee/eutelsat-fr.svg",
+    "providerWebsite": "https://www.eutelsatmena.com/",
+    "providerCountry": "France"
+  },
+  {
+    "satellite": "Eutelsat 7 West A",
+    "providerName": "TDA",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tda_telediffusion_algerie.png",
+    "providerWebsite": "https://www.tda.dz/",
+    "providerCountry": "Algeria"
+  },
+  {
+    "satellite": "Eutelsat 7 West A",
+    "providerName": "Saba World",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/saba-world-lb.png",
+    "providerWebsite": "https://www.sabaworld.com/",
+    "providerCountry": "Lebanon"
+  },
+  {
+    "satellite": "Eutelsat 7 West A",
+    "providerName": "Abu Dhabi Media Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/abu-dhabi-media-network-ae.svg",
+    "providerWebsite": "https://www.admn.ae/",
+    "providerCountry": "United Arab Emirates"
+  },
+  {
+    "satellite": "Eutelsat 7 West A",
+    "providerName": "BHS Telecom",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/bb/bhs_telecom_ae.png",
+    "providerWebsite": "http://bhs-media.com/",
+    "providerCountry": "United Arab Emirates"
+  },
+  {
+    "satellite": "Eutelsat 7 West A",
+    "providerName": "ONT",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/oo/ont_tn.png",
+    "providerWebsite": "http://www.telediffusion.net.tn/",
+    "providerCountry": "Tunisia"
+  },
+  {
+    "satellite": "Eutelsat 7 West A",
+    "providerName": "BeIn on Eutelsat 7 West A & Eutelsat 8 West B at 8.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 8 West B",
+    "providerName": "CRTV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/crtv-cm.png",
+    "providerWebsite": "https://www.crtv.cm/",
+    "providerCountry": "Cameroon"
+  },
+  {
+    "satellite": "Eutelsat 8 West B",
+    "providerName": "TopStar",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/topstar-zm.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 8 West B",
+    "providerName": "RFI",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/rr/rfi_fr.png",
+    "providerWebsite": "http://www.rfi.fr/",
+    "providerCountry": "France"
+  },
+  {
+    "satellite": "Eutelsat 8 West B",
+    "providerName": "My TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/mm/mytv.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 8 West B",
+    "providerName": "Iraqi Media Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/iraqi_media_network.png",
+    "providerWebsite": "http://imn.iq/",
+    "providerCountry": "Iraq"
+  },
+  {
+    "satellite": "Express AM8",
+    "providerName": "TV Goiânia",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv_goiania.png",
+    "providerWebsite": "https://tvgoiania.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Express AM8",
+    "providerName": "RT",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rt-ru.svg",
+    "providerWebsite": "https://www.rt.com/",
+    "providerCountry": "Russia"
+  },
+  {
+    "satellite": "Telstar 12 Vantage",
+    "providerName": "TuVes HD on Telstar 12 Vantage at 15.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Telstar 12 Vantage",
+    "providerName": "ESPN",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ee/espn-us.svg",
+    "providerWebsite": "https://www.espn.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Intelsat 37e",
+    "providerName": "TV Sul Bahia",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-sul-bahia-br.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 37e",
+    "providerName": "TV Barriga Verde",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-barriga-verde-br.png",
+    "providerWebsite": "https://www.tvbv.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Intelsat 37e",
+    "providerName": "Rede Centro Oeste",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rede_centro_oeste_br.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 37e",
+    "providerName": "ORTM",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/oo/ortm-ml.png",
+    "providerWebsite": "https://www.ortm.ml/",
+    "providerCountry": "Mali"
+  },
+  {
+    "satellite": "SES 4",
+    "providerName": "Easy TV Côte d'Ivoire on SES 4 at 22.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "SES 4",
+    "providerName": "TV Cidade Fortaleza",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv_cidade_fortaleza.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "SES 4",
+    "providerName": "Rede Pampa de Rádios",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rede-pampa-de-radios-br.png",
+    "providerWebsite": "http://www.redepampa.com.br/radios/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "SES 4",
+    "providerName": "TV Cidade Verde Piauí",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv_cidade_verde_br.png",
+    "providerWebsite": "https://cidadeverde.com/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "SES 4",
+    "providerName": "TV Pampa",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-pampa-br.png",
+    "providerWebsite": "https://www.tvpampa.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "SES 4",
+    "providerName": "TV Antena 10",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv_antena_10_br.png",
+    "providerWebsite": "https://a10mais.com/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "SES 4",
+    "providerName": "TV Tropical",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-tropical-br.png",
+    "providerWebsite": "https://portaldatropical.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "SES 4",
+    "providerName": "TV Correio",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv_correio.png",
+    "providerWebsite": "https://tvcorreio.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "SES 4",
+    "providerName": "Canal + Afrique on SES 4 at 22.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 901",
+    "providerName": "RTP",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtp-pt.png",
+    "providerWebsite": "http://www.rtp.pt/",
+    "providerCountry": "Portugal"
+  },
+  {
+    "satellite": "Intelsat 901",
+    "providerName": "I Radio",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/ii/iradio-ie.png",
+    "providerWebsite": "https://iradio.ie/",
+    "providerCountry": "Ireland"
+  },
+  {
+    "satellite": "Intelsat 901",
+    "providerName": "Q Radio",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/qq/q-radio-uk.png",
+    "providerWebsite": "https://www.qradio.com/",
+    "providerCountry": "United Kingdom"
+  },
+  {
+    "satellite": "Hispasat 30W-5",
+    "providerName": "RTVE",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtve.png",
+    "providerWebsite": "http://www.rtve.es/",
+    "providerCountry": "Spain"
+  },
+  {
+    "satellite": "Hispasat 30W-5",
+    "providerName": "Aragón TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/aa/aragon_tv.png",
+    "providerWebsite": "http://www.aragontelevision.es/",
+    "providerCountry": "Spain"
+  },
+  {
+    "satellite": "Hispasat 30W-5",
+    "providerName": "Meo on Hispasat 30W-5 at 30.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Hispasat 30W-5",
+    "providerName": "Nos on Hispasat 30W-5 at 30.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Hispasat 30W-6",
+    "providerName": "Telecom CLM",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/telecom_clm_es.png",
+    "providerWebsite": "http://telecomclm.net/",
+    "providerCountry": "Spain"
+  },
+  {
+    "satellite": "Hispasat 30W-6",
+    "providerName": "Cellnex",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/cellnex_es.png",
+    "providerWebsite": "http://www.cellnextelecom.com/",
+    "providerCountry": "Spain"
+  },
+  {
+    "satellite": "Hispasat 30W-6",
+    "providerName": "ICRT",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/icrt_cu.png",
+    "providerWebsite": "http://www.tvcubana.icrt.cu/",
+    "providerCountry": "Cuba"
+  },
+  {
+    "satellite": "Intelsat 35e",
+    "providerName": "Orange Caraïbes on Intelsat 35e at 34.5°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 35e",
+    "providerName": "Canal + Caraïbes on Intelsat 35e at 34.5°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 35e",
+    "providerName": "SiBCI",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sibci_ve.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 35e",
+    "providerName": "SMTD",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/smtd-ml.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "NSS 10",
+    "providerName": "Unitel",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/uu/unitel_gr.png",
+    "providerWebsite": "http://www.unitel.gr/",
+    "providerCountry": "Greece"
+  },
+  {
+    "satellite": "NSS 10",
+    "providerName": "Antenna Group",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/antenna_group.png",
+    "providerWebsite": "http://www.antennagroup.gr/",
+    "providerCountry": "Greece"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "Liga 1",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ll/liga-1-pe.png",
+    "providerWebsite": "https://liga1play.com/",
+    "providerCountry": "Peru"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "TV Nazaré",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede_nazare_comunicacao.png",
+    "providerWebsite": "https://fundacaonazare.com.br/tv-nazare/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "AMC Networks International Latin America",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/amc_networks_us.png",
+    "providerWebsite": "http://www.amcnetworkslatam.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "América",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/aa/america-pe.png",
+    "providerWebsite": "https://www.americatv.com.pe/",
+    "providerCountry": "Peru"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "City TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/city-tv-co.svg",
+    "providerWebsite": "https://citytv.eltiempo.com/",
+    "providerCountry": "Colombia"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "Canal Capital",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/canal-capital-co.png",
+    "providerWebsite": "https://www.canalcapital.gov.co/",
+    "providerCountry": "Colombia"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "ESPN Brasil",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "Trece",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/trece_co.png",
+    "providerWebsite": "https://canaltrece.com.co/",
+    "providerCountry": "Colombia"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "RTVC",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rtvc_co.png",
+    "providerWebsite": "http://www.rtvc.gov.co/",
+    "providerCountry": "Colombia"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "RCN",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rcn_co.png",
+    "providerWebsite": "http://www.canalrcnmsn.com/",
+    "providerCountry": "Colombia"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "Canal TRO",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/canal-tro-co.png",
+    "providerWebsite": "https://www.canaltro.com/",
+    "providerCountry": "Colombia"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "Novo Tempo",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/nn/novo_tempo_br_corp.png",
+    "providerWebsite": "http://novotempo.com/tv/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "Telecafé",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/telecafe-co.png",
+    "providerWebsite": "https://telecafe.gov.co/",
+    "providerCountry": "Colombia"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "Teleantioquia",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/teleantioquia-co.png",
+    "providerWebsite": "https://www.teleantioquia.co/",
+    "providerCountry": "Colombia"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "Telepacífico",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/telepacifico-co.png",
+    "providerWebsite": "https://telepacifico.com/",
+    "providerCountry": "Colombia"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "Ideal TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ii/ideal-tv-br.svg",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "United Teleports",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/uu/united_teleports_us.png",
+    "providerWebsite": "http://www.unitedteleports.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "Telecaribe",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/telecaribe-co.png",
+    "providerWebsite": "https://www.telecaribe.co/",
+    "providerCountry": "Colombia"
+  },
+  {
+    "satellite": "SES 6",
+    "providerName": "Oi TV on SES 6 at 40.5°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Sky Brasil 1",
+    "providerName": "Sky Brasil on Sky Brasil 1 at 43.1°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "TV Tarobá Cascavel",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv_taroba_br_cascavel.png",
+    "providerWebsite": "https://tarobanews.com/tv/cascavel",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "TV Guararapes",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-guararapes-br.svg",
+    "providerWebsite": "https://www.tvguararapes.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "Sertel",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sertel_do.png",
+    "providerWebsite": "http://www.sertel.com.do/",
+    "providerCountry": "Dominican Republic"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "Box Brazil",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/bb/box_brazil.png",
+    "providerWebsite": "https://www.boxbrazil.tv.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "Suyapa TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/suyapa_tv_hn.png",
+    "providerWebsite": "https://suyapamedios.hn/suyapa-tv/",
+    "providerCountry": "Honduras"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "Rede Amazônica",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede-amazonica-br.png",
+    "providerWebsite": "https://redeglobo.globo.com/redeamazonica/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "TV Pai Eterno",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-pai-eterno-br.svg",
+    "providerWebsite": "https://www.paieterno.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "Rede Mais",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede-mais-br.png",
+    "providerWebsite": "https://redemais.tv.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "Grupo ATV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/andina_tv_pe_grupo.png",
+    "providerWebsite": "http://www.atv.pe/",
+    "providerCountry": "Peru"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "Antena 7",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/aa/antena_latina_do.png",
+    "providerWebsite": "https://www.antena7.com.do/",
+    "providerCountry": "Dominican Republic"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "CRP Radios",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/crp-radios-pe.svg",
+    "providerWebsite": "https://www.crpradios.pe/",
+    "providerCountry": "Peru"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "Latina",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ll/latina-pe.png",
+    "providerWebsite": "https://www.latina.pe/",
+    "providerCountry": "Peru"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "IRTP",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/irtp-pe.png",
+    "providerWebsite": "https://www.gob.pe/irtp",
+    "providerCountry": "Peru"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "Televicentro",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/televicentro.png",
+    "providerWebsite": "http://televicentro.hn/",
+    "providerCountry": "Honduras"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "Grupo RPP",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/grupo_rpp.png",
+    "providerWebsite": "http://www.gruporpp.com.pe/",
+    "providerCountry": "Peru"
+  },
+  {
+    "satellite": "Intelsat 14",
+    "providerName": "Telesur English",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/telesur-ve.png",
+    "providerWebsite": "https://www.telesurenglish.net/",
+    "providerCountry": "Venezuela"
+  },
+  {
+    "satellite": "SES 14",
+    "providerName": "Sersat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sersat_ar.png",
+    "providerWebsite": "http://www.sersat.com/",
+    "providerCountry": "Argentina"
+  },
+  {
+    "satellite": "SES 14",
+    "providerName": "Paramount Networks Americas",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/paramount-international-networks-us.png",
+    "providerWebsite": "https://www.paramount.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Intelsat 34",
+    "providerName": "HBO Network Latinoamérica",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/hh/hbo_network_lam.png",
+    "providerWebsite": "http://www.hbomax.tv/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Intelsat 34",
+    "providerName": "Artear",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/artear_ar.png",
+    "providerWebsite": "http://www.comercial.artear.com.ar/",
+    "providerCountry": "Argentina"
+  },
+  {
+    "satellite": "Intelsat 34",
+    "providerName": "Albavisión",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/albavision-ni.png",
+    "providerWebsite": "https://albavision.tv/",
+    "providerCountry": "Nicaragua"
+  },
+  {
+    "satellite": "Intelsat 34",
+    "providerName": "Walt Disney TV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ww/walt-disney-tv-us.png",
+    "providerWebsite": "https://www.dgepress.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Intelsat 34",
+    "providerName": "Repretel",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/repretel_cr.png",
+    "providerWebsite": "http://www.repretel.com/",
+    "providerCountry": "Costa Rica"
+  },
+  {
+    "satellite": "Intelsat 34",
+    "providerName": "Turner",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/turner_international_us.png",
+    "providerWebsite": "http://www.turner.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Intelsat 34",
+    "providerName": "CNN",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/cnn-us.svg",
+    "providerWebsite": "https://edition.cnn.com/tv",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Intelsat 34",
+    "providerName": "Bloomberg TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/blommberg-tv-us.png",
+    "providerWebsite": "https://www.bloomberg.com/tv/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Intelsat 34",
+    "providerName": "Igreja Cristã Maranata",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ii/igreja-crista-maranata-br.png",
+    "providerWebsite": "https://www.igrejacristamaranata.org.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Intelsat 34",
+    "providerName": "SportsMax",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/sportsmax-jm.png",
+    "providerWebsite": "https://www.sportsmax.tv/",
+    "providerCountry": "Jamaica"
+  },
+  {
+    "satellite": "Intelsat 21",
+    "providerName": "Caracol TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/caracol-tv-co.png",
+    "providerWebsite": "https://www.caracoltv.com/",
+    "providerCountry": "Colombia"
+  },
+  {
+    "satellite": "Intelsat 21",
+    "providerName": "TV Nacional de Chile",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tv-nacional-de-chile-cl.png",
+    "providerWebsite": "http://www.tvn.cl/",
+    "providerCountry": "Chile"
+  },
+  {
+    "satellite": "Intelsat 21",
+    "providerName": "Enlace",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ee/enlace_cr_tv.png",
+    "providerWebsite": "https://www.enlace.org/",
+    "providerCountry": "Costa Rica"
+  },
+  {
+    "satellite": "Intelsat 21",
+    "providerName": "CTN",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/ctn-us.png",
+    "providerWebsite": "https://www.ctnonline.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Intelsat 21",
+    "providerName": "María+Visión",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/mm/maria-plus-vision-mx.png",
+    "providerWebsite": "https://www.mariavision.com/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Intelsat 21",
+    "providerName": "Sky México on Intelsat 21 at 58.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 21",
+    "providerName": "Sky México",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sky_mx.png",
+    "providerWebsite": "https://www.sky.com.mx/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Amazonas 2",
+    "providerName": "Movistar on Amazonas 2/5 at 61.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Amazonas 3",
+    "providerName": "SBT Rio Grande",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/sbt-nacional-br.svg",
+    "providerWebsite": "https://www.sbt.com.br/riograndedosul/jornalismo/sbt-rio-grande",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Amazonas 3",
+    "providerName": "Grupo Vierci",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/grupo_vierci_py.png",
+    "providerWebsite": "http://www.grupovierci.com/",
+    "providerCountry": "Paraguay"
+  },
+  {
+    "satellite": "Amazonas 3",
+    "providerName": "TV Pajuçara",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-pajucara-br.png",
+    "providerWebsite": "https://pajucara.tnh1.com.br/tv/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Amazonas 3",
+    "providerName": "Grupo JBB",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/grupo-jbb-py.png",
+    "providerWebsite": "http://www.grupojbb.com/",
+    "providerCountry": "Paraguay"
+  },
+  {
+    "satellite": "Amazonas 3",
+    "providerName": "América Paraguay",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/aa/america-paraguay-ar-py.png",
+    "providerWebsite": "https://www.americatv.com.py/",
+    "providerCountry": "Argentina"
+  },
+  {
+    "satellite": "Amazonas 3",
+    "providerName": "DTCom",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/dtcom-br.png",
+    "providerWebsite": "https://dtcom.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Amazonas 5",
+    "providerName": "Claro Americas Sur on Amazonas 5 at 61.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "EchoStar 16",
+    "providerName": "Dish USA on EchoStar 16 at 61.5°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Telstar 14R",
+    "providerName": "Teletrak",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Chile"
+  },
+  {
+    "satellite": "Telstar 14R",
+    "providerName": "Unisa",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/uu/unisa-br.png",
+    "providerWebsite": "http://www.unisa.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C2",
+    "providerName": "TV Paranaíba",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-paranaiba-br.png",
+    "providerWebsite": "https://tvparanaiba.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C2",
+    "providerName": "TV Sucesso",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-sucesso-br.png",
+    "providerWebsite": "https://recordtv.r7.com/recordtv-emissoras/centro-oeste/tv-sucesso",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C2",
+    "providerName": "Transamérica",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Record Cabrália",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/record-cabralia-br.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Record Interior SP",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede_record_br.png",
+    "providerWebsite": "https://recordtv.r7.com/recordtv-interior-sp",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Record Rio Preto",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/record-rio-preto-br.png",
+    "providerWebsite": "https://www.recordtvriopreto.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Record News",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/record-news-br.svg",
+    "providerWebsite": "https://noticias.r7.com/record-news/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Record Paulista",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/record-paulista-br.png",
+    "providerWebsite": "http://www.recordpaulista.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Record Litoral e Vale",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/record-litoral-e-vale-br.png",
+    "providerWebsite": "https://recordtv.r7.com/record-tv-litoral-e-vale",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Record Interior RJ",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede_record_br.png",
+    "providerWebsite": "https://recordtv.r7.com/recordtv-emissoras/sudeste/record-tv-interior-rj",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Record Rio",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/record-rio-br.png",
+    "providerWebsite": "https://recordtv.r7.com/recordtv-emissoras/sudeste/record-tv-rio",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "TV Cachoeira",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-cachoeira-us-br.png",
+    "providerWebsite": "https://tvcachoeira.novotempo.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Record Minas",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/record-minas-br.png",
+    "providerWebsite": "https://recordminas.tv.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Rede Família",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede-familia-br.png",
+    "providerWebsite": "https://www.redefamilia.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Record Goiás",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/record-goias-br.png",
+    "providerWebsite": "https://www.recordtvgoias.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Record RS",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/record-rio-grande-do-sul-br.png",
+    "providerWebsite": "http://www.recordtvrs.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Record Bahia",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/record-itapoan-br.png",
+    "providerWebsite": "https://recordtv.r7.com/recordtv-emissoras/nordeste/record-tv-itapoan",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Record Belém",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede_record_br.png",
+    "providerWebsite": "https://recordtv.r7.com/recordtv-emissoras/norte/record-tv-belem",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "TV UNAM",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-unam-mx.png",
+    "providerWebsite": "https://tv.unam.mx/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "TV ALEPE",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-alepe-br.png",
+    "providerWebsite": "https://www.alepe.pe.gov.br/tv-alepe/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "TV TEM Bauru",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-tem-br.png",
+    "providerWebsite": "http://redeglobo.globo.com/sp/tvtem/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "Band Triângulo",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/band-nacional-br.svg",
+    "providerWebsite": "https://www.band.uol.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "TV TEM São José do Rio Preto",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-tem-br.png",
+    "providerWebsite": "http://redeglobo.globo.com/sp/tvtem/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "TV Integração Juiz de Fora",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-integracao-br.png",
+    "providerWebsite": "http://redeglobo.globo.com/mg/tvintegracao/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "TV ALBA",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-alba-br.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "TV TEM Itapetininga",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-tem-br.png",
+    "providerWebsite": "http://redeglobo.globo.com/sp/tvtem/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "TV Integração",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-integracao-br.png",
+    "providerWebsite": "http://redeglobo.globo.com/mg/tvintegracao/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Eutelsat 65 West A",
+    "providerName": "TVE",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tve-br.png",
+    "providerWebsite": "http://www.tve.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "SES 10",
+    "providerName": "Kiwisat on SES 10 at 67.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Star One C4",
+    "providerName": "Claro Americas Norte on Star One C4 at 70.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Star One C4",
+    "providerName": "CANTV TV Satelital on Star One C4 at 70.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Star One C4",
+    "providerName": "Claro Brasil on Star One C4/D2 at 70.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "TV Morena Campo Grande",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-morena-br.png",
+    "providerWebsite": "https://redeglobo.globo.com/tvmorena/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "TV Centro América Cuiabá",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-centro-america-br.png",
+    "providerWebsite": "https://redeglobo.globo.com/tvcentroamerica/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "Fundação Padre Anchieta",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ff/fundacao_padre_anchieta_br.png",
+    "providerWebsite": "http://www2.tvcultura.com.br/fpa/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "Rede Gospel",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede_gospel.png",
+    "providerWebsite": "https://www.redegospel.tv.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "Boas Novas",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede-boas-novas-br.png",
+    "providerWebsite": "https://boasnovas.tv/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "TV Anhanguera Goiânia",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-anhanguera-br.png",
+    "providerWebsite": "https://redeglobo.globo.com/tvanhanguera/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "EPTV Sul de Minas",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ee/eptv_br.png",
+    "providerWebsite": "https://redeglobo.globo.com/sp/eptv/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "TV Câmara",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/camara_br_tv_1.png",
+    "providerWebsite": "https://www.camara.leg.br/tv",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "EPTV Campinas e região",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ee/eptv_br.png",
+    "providerWebsite": "https://redeglobo.globo.com/sp/eptv/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "TV Senado",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-senado-br.svg",
+    "providerWebsite": "https://www12.senado.leg.br/tv#/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "TV Mirante São Luís",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv_mirante_br.png",
+    "providerWebsite": "https://redeglobo.globo.com/ma/tvmirante/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "TV Aparecida",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/aa/aparecida_br_tv.png",
+    "providerWebsite": "https://www.a12.com/tv",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "Grupo Bandeirantes",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rede_bandeirantes.png",
+    "providerWebsite": "http://www.band.uol.com.br/grupo/grupo.asp",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "SBA",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/sba_br.png",
+    "providerWebsite": "http://www.sba1.com/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "SBT Rede 1",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/sbt-nacional-br.svg",
+    "providerWebsite": "https://www.sbt.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "TV Canção Nova Rede",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv_cancao_nova_pt.png",
+    "providerWebsite": "https://tv.cancaonova.com/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "Rede Minas",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede-minas-br.png",
+    "providerWebsite": "https://redeminas.tv/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "TV Evangelizar",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-evangelizar-br.png",
+    "providerWebsite": "https://www.padrereginaldomanzotti.org.br/rec/tv-evangelizar/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "Rede Amazônica Porto Velho",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede-amazonica-br.png",
+    "providerWebsite": "https://redeglobo.globo.com/redeamazonica/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "Rede Século 21",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede-seculo-21-br.png",
+    "providerWebsite": "https://www.asj.org.br/rs21/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "Rede Vida",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede_vida_br.png",
+    "providerWebsite": "https://www.redevida.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "Rede CNT Satélite",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede-cnt-br.png",
+    "providerWebsite": "http://www.cnt.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "Assembleia do Amazonas",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/aa/assembleia-do-amazonas-br.png",
+    "providerWebsite": "https://www.aleam.gov.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "TV Brasil Central",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-brasil-central-br.png",
+    "providerWebsite": "https://www.abc.go.gov.br/tv-radio-imprensa-oficial/ao-vivo-tbc.html",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "Rede TV!",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede-tv-br.png",
+    "providerWebsite": "https://www.redetv.uol.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "Speedcast",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/speedcast-br.svg",
+    "providerWebsite": "https://www.speedcast.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D2",
+    "providerName": "Nossa TV on Star One D2 at 70.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Arsat 1",
+    "providerName": "Arsat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/arsat-ar.png",
+    "providerWebsite": "https://www.arsat.com.ar/",
+    "providerCountry": "Argentina"
+  },
+  {
+    "satellite": "Arsat 1",
+    "providerName": "Nice TV on Arsat 1 at 71.8°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Arsat 1",
+    "providerName": "T5 Satelital",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/t5-satelital-ar.png",
+    "providerWebsite": "https://t5satelital.com/",
+    "providerCountry": "Argentina"
+  },
+  {
+    "satellite": "Nimiq 5",
+    "providerName": "Dish USA on Nimiq 5 at 72.7°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Hispasat 74W-1",
+    "providerName": "TVD on Hispasat 74W-1 at 73.9°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "TV A Crítica",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-a-critica-br.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Rede Bahia",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rede_bahia_br.png",
+    "providerWebsite": "http://www.redebahia.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "TV Jangadeiro",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-jangadeiro-br.svg",
+    "providerWebsite": "https://jangadeiro.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "TV Mais Família",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-mais-familia-br.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "TV Alterosa",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv_alterosa_br.png",
+    "providerWebsite": "https://www.alterosa.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "TV Serra Dourada",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv_serra_dourada_br.png",
+    "providerWebsite": "https://tvsd.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "RBI TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rbi-tv-br.png",
+    "providerWebsite": "https://www.rbitv.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Rede 21",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede21.png",
+    "providerWebsite": "https://canal21rede.blogspot.com/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "TV Gazeta Alagoas",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv_gazeta_alagoas_br.png",
+    "providerWebsite": "https://redeglobo.globo.com/al/tvgazetaal/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "TV Thathi Vale",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-thathi-campinas-br.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Boa Vontade TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/boa-vontade-tv-br.png",
+    "providerWebsite": "https://www.boavontade.com/pt/tv",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Rede CNT Rio de Janeiro",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede-cnt-br.png",
+    "providerWebsite": "http://www.cnt.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "SIC TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/sic-tv-br.png",
+    "providerWebsite": "https://www.sictv.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "TV Gazeta São Paulo",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-gazeta-sao-paulo-br.svg",
+    "providerWebsite": "https://www.tvgazeta.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Fundação Cultural Riograndense",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "SBT Rio",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/sbt-nacional-br.svg",
+    "providerWebsite": "https://www.sbt.com.br/tv/rio/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "TV Thathi Campinas",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-thathi-campinas-br.png",
+    "providerWebsite": "https://recordtv.r7.com/recordtv-emissoras/sudeste/tv-thathi-campinas",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Band Vale",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/band-nacional-br.svg",
+    "providerWebsite": "https://www.band.uol.com.br/band-vale",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Band Amazonas",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/band-nacional-br.svg",
+    "providerWebsite": "https://www.band.uol.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Band Bahia",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/band-nacional-br.svg",
+    "providerWebsite": "https://www.band.uol.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Canais Globo",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/canais-globo-br.png",
+    "providerWebsite": "https://canaisglobo.globo.com/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "TV Canção Nova",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Band SP Interior",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/band-nacional-br.svg",
+    "providerWebsite": "https://www.band.uol.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Band Minas",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/band-nacional-br.svg",
+    "providerWebsite": "https://www.band.uol.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Band Rio Interior",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/band-nacional-br.svg",
+    "providerWebsite": "https://www.band.uol.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Band Paraná",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/band-nacional-br.svg",
+    "providerWebsite": "https://bandparana.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Band Campinas",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/band-nacional-br.svg",
+    "providerWebsite": "https://bandcampinas.band.uol.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Big Brother Brasil",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Band RS",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/bb/band-nacional-br.svg",
+    "providerWebsite": "https://www.band.uol.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Inter TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ii/inter_tv_br.png",
+    "providerWebsite": "http://intertvonline.globo.com/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One C3",
+    "providerName": "Fish TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ff/fish_tv_br.png",
+    "providerWebsite": "https://www.fishtv.com/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "QuetzSat 1",
+    "providerName": "Dish Mexico on QuetzSat 1 at 77.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "QuetzSat 1",
+    "providerName": "TV Méxiquense",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-mexiquense-mx.png",
+    "providerWebsite": "https://radioytvmexiquense.mx/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Sky Mexico 1",
+    "providerName": "Sky México on Sky Mexico 1 at 78.8°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Arsat 2",
+    "providerName": "INTV on Arsat 2 at 81.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Nimiq 4",
+    "providerName": "Bell TV on Nimiq 4 at 82.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Star One D1",
+    "providerName": "TV Mirante",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv_mirante_br.png",
+    "providerWebsite": "https://redeglobo.globo.com/ma/tvmirante/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D1",
+    "providerName": "TV Encontro das Águas",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-encontro-das-aguas-br.png",
+    "providerWebsite": "https://tveradioencontrodasaguas.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D1",
+    "providerName": "Rede Massa",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/rr/rede-massa-br.png",
+    "providerWebsite": "https://www.redemassa.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D1",
+    "providerName": "TV Cultura do Pará",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-cultura-do-para-br.png",
+    "providerWebsite": "http://www.portalcultura.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D1",
+    "providerName": "Canais Globo on Star One D1 at 84.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Star One D1",
+    "providerName": "TV Assembléia Piauí",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-assembleia-piaui-br.png",
+    "providerWebsite": "https://www.al.pi.leg.br/tv",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D1",
+    "providerName": "NET",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "Star One D1",
+    "providerName": "TV PE",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-pe-br.png",
+    "providerWebsite": "https://portalepc.com.br/",
+    "providerCountry": "Brazil"
+  },
+  {
+    "satellite": "XM 3",
+    "providerName": "Sirius XM Satellite Radio on XM 3 at 85.1°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "SES 2",
+    "providerName": "LPB",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ww/wlpb-tv-us-la.png",
+    "providerWebsite": "http://www.lpb.org/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "TKSat 1",
+    "providerName": "Entel on TKSat 1 at 87.2°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "TKSat 1",
+    "providerName": "ABE",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/abe_bo.png",
+    "providerWebsite": "https://www.abe.bo/",
+    "providerCountry": "Bolivia"
+  },
+  {
+    "satellite": "Galaxy 32",
+    "providerName": "MASN",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/mm/masn-us.svg",
+    "providerWebsite": "https://www.masnsports.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 32",
+    "providerName": "Fox Corporation",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ff/fox-corporation-us.svg",
+    "providerWebsite": "https://www.foxcorporation.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 32",
+    "providerName": "NHL Network",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/nn/nhl-network-us.png",
+    "providerWebsite": "https://www.nhl.com/info/network",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 32",
+    "providerName": "TCT",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tct_us.png",
+    "providerWebsite": "https://www.tct.tv/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 32",
+    "providerName": "The CW Plus",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 32",
+    "providerName": "Roberts Communications Network",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/rr/rcn_us.png",
+    "providerWebsite": "http://www.robertscomnet.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Nimiq 6",
+    "providerName": "Bell TV on Nimiq 6 at 91.1°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Galaxy 3C",
+    "providerName": "DirecTV USA on Galaxy 3C & Spaceway 3",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 31",
+    "providerName": "DirecTV Sur on Intelsat 31 at 95.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Intelsat 30",
+    "providerName": "DirecTV Norte on Intelsat 30 at 95.1°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Galaxy 19",
+    "providerName": "Televisa",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/televisa_mx.png",
+    "providerWebsite": "https://www.televisa.com/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Galaxy 16",
+    "providerName": "Family Broadcasting Corporation",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ff/family-broadcasting-corporation-us.png",
+    "providerWebsite": "https://familybroadcastingcorporation.com/whr/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 16",
+    "providerName": "Azteca",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/azteca_mx.png",
+    "providerWebsite": "http://www.tvazteca.com.mx/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Galaxy 16",
+    "providerName": "Family Radio",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/ff/family-radio-us.svg",
+    "providerWebsite": "https://www.familyradio.org/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 16",
+    "providerName": "PBS",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/pbs-provider-us.png",
+    "providerWebsite": "http://www.pbs.org/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "T16",
+    "providerName": "DirecTV USA on T9S/T16 at 100.8°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "SES 1",
+    "providerName": "Hallmark",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 1",
+    "providerName": "Paramount Domestic Media Networks HD Plex 4",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/paramount-domestic-media-networks-us.png",
+    "providerWebsite": "https://www.paramount.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 1",
+    "providerName": "Paramount Domestic Media Networks HD Plex 2",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/paramount-domestic-media-networks-us.png",
+    "providerWebsite": "https://www.paramount.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 1",
+    "providerName": "Paramount Domestic Media Networks HD Plex",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/paramount-domestic-media-networks-us.png",
+    "providerWebsite": "https://www.paramount.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 1",
+    "providerName": "Jewelry TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/jj/jewelry-tv-us.png",
+    "providerWebsite": "https://www.jtv.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 1",
+    "providerName": "NBC Universal",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/nn/nbc_universal.png",
+    "providerWebsite": "http://www.nbcuni.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 1",
+    "providerName": "Educational Media Foundation",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ee/emf_us.png",
+    "providerWebsite": "http://www.emfbroadcasting.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 1",
+    "providerName": "American Family Radio",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/aa/american-family-radio-us.png",
+    "providerWebsite": "https://afr.net/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 18",
+    "providerName": "Gulfcom",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/gulf_com_bb.png",
+    "providerWebsite": "http://www.gulfcom.net/",
+    "providerCountry": "Barbados"
+  },
+  {
+    "satellite": "SES 18",
+    "providerName": "ION Media Networks",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ii/ion_media_networks_us.png",
+    "providerWebsite": "http://www.ionmedia.tv/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 18",
+    "providerName": "QVC",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/qq/qvc-us.png",
+    "providerWebsite": "https://www.qvc.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 18",
+    "providerName": "Univisión",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/uu/univision_us.png",
+    "providerWebsite": "http://www.univision.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 18",
+    "providerName": "HSN",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/hh/hsn-us.png",
+    "providerWebsite": "https://www.hsn.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "SES 18",
+    "providerName": "Showtime HD West Plex 2",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/showtime_us.png",
+    "providerWebsite": "http://www.sho.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "EchoStar 105/SES 11",
+    "providerName": "VA+",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/vv/vaplus-mx.png",
+    "providerWebsite": "https://ryta.com.mx/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "EchoStar 105/SES 11",
+    "providerName": "A Más +",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/aa/a-mas-plus-mx.svg",
+    "providerWebsite": "https://www.tvazteca.com/amastv",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "EchoStar 105/SES 11",
+    "providerName": "Paramount Domestic Media Networks HD Plex 1",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/paramount-domestic-media-networks-us.png",
+    "providerWebsite": "https://www.paramount.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "EchoStar 105/SES 11",
+    "providerName": "OlympuSat on EchoStar 105/SES 11 at 105.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "EchoStar 105/SES 11",
+    "providerName": "Veterans Affairs Knowledge Network",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/vv/vakn_us.png",
+    "providerWebsite": "https://www.va.gov/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Anik G1",
+    "providerName": "Shaw Direct on Anik G1 at 107.3°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "T5",
+    "providerName": "DirecTV USA on T5 at 109.8°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "EchoStar 10",
+    "providerName": "Dish USA on EchoStar 10/11 at 109.8°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 115 West B",
+    "providerName": "Grupo Radio Centro",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 115 West B",
+    "providerName": "Canal 10 Chiapas",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/canal_diez_chiapas_mx.png",
+    "providerWebsite": "http://radiotvycine.chiapas.gob.mx/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Eutelsat 115 West B",
+    "providerName": "Canal del Congreso 45.1",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/canal_del_congreso_mexico.png",
+    "providerWebsite": "https://www.canaldelcongreso.gob.mx/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Sirius XM 5",
+    "providerName": "Sirius XM Satellite Radio on Sirius XM 5 at 115.2°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "Edusat",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ee/edusat_mx.png",
+    "providerWebsite": "http://edusat.ilce.edu.mx/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "PCTV",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/pp/pctv-mx.png",
+    "providerWebsite": "http://www.pctvcanales.mx/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "SICOM TV",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "TM Global Communications",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tm-global-communications-hn.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "Canal 28 Nuevo León",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/canal-28-nuevo-leon-mx.png",
+    "providerWebsite": "https://www.nl.gob.mx/srtvnl",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "TV Azteca Guate",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv-azteca-guate-mx-gt.png",
+    "providerWebsite": "https://tvaztecaguate.com/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "TV Cuatro",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/tt/tv_cuatro_mx.png",
+    "providerWebsite": "https://www.tvcuatro.com/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "UDG TV",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "TPSD",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/tpsd_do.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "Ecuador TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ee/ecuador-tv-ec.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "Emisoras Unidas",
+    "providerLogo": "https://www.lyngsat.com/logo/radio/ee/emisoras-unidas-gt.png",
+    "providerWebsite": "https://emisorasunidas.com/",
+    "providerCountry": "Guatemala"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "Grupo ACIR",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/grupo-acir-mx.png",
+    "providerWebsite": "https://grupoacir.com.mx/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "Cable Color",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/cc/cable-color-hn.png",
+    "providerWebsite": "https://cablecolor.hn/",
+    "providerCountry": "Honduras"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "Az TV de Paga",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/az_tv_de_paga_mx.png",
+    "providerWebsite": "http://www.aztvdepaga.com/",
+    "providerCountry": "Mexico"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "Panamericana TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/pp/panamericana_tv_pe.png",
+    "providerWebsite": "https://panamericana.pe/",
+    "providerCountry": "Peru"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "Ecuavisa",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ee/ecuavisa-ec.png",
+    "providerWebsite": "https://www.ecuavisa.com/",
+    "providerCountry": "Ecuador"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "Grupo Telemicro",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "The Erotic Networks",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/ten_the_erotic_networks_corp.png",
+    "providerWebsite": "https://www.eroticnets.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "Atresmedia",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/atresmedia_es.png",
+    "providerWebsite": "http://www.atresmediacorporacion.com/",
+    "providerCountry": "Spain"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "Thema America",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/tt/thema-fr.svg",
+    "providerWebsite": "https://www.thematv.us/",
+    "providerCountry": "France"
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "Multimedios",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 117 West A",
+    "providerName": "Tigo on Eutelsat 117 West A/B at 116.8°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Eutelsat 117 West B",
+    "providerName": "Star TV México on Eutelsat 117 West B at 117.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Anik F3",
+    "providerName": "CTV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/ctv-ca.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Anik F3",
+    "providerName": "Dish USA on Anik F3 & EchoStar 14 at 118.8°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "T8",
+    "providerName": "DirecTV USA on T8 at 119.0°W",
+    "providerLogo": null,
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Galaxy 18",
+    "providerName": "MLB Network",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/mm/mlb_network.png",
+    "providerWebsite": "https://www.mlb.com/network",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 18",
+    "providerName": "Daystar TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/dd/daystar-tv-us.png",
+    "providerWebsite": "https://www.daystar.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 30",
+    "providerName": "GCI",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/gg/gci_us.png",
+    "providerWebsite": "http://www.gci.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 30",
+    "providerName": "ShopHQ",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/ss/shophq-us.png",
+    "providerWebsite": "https://www.shophq.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 30",
+    "providerName": "C-SPAN",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/cc/c-span-us.png",
+    "providerWebsite": "https://www.c-span.org/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 30",
+    "providerName": "AMC Networks",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/amc_networks_us.png",
+    "providerWebsite": "http://www.amcnetworks.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 30",
+    "providerName": "A+E Networks",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/aa/apluse-networks-us.svg",
+    "providerWebsite": "https://www.aenetworks.tv/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 30",
+    "providerName": "Showtime HD East Plex 2",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/showtime_us.png",
+    "providerWebsite": "http://www.sho.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 37/Horizons 4",
+    "providerName": "NASA TV",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/nn/nasa-tv-us.svg",
+    "providerWebsite": "https://www.nasa.gov/nasatv/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 37/Horizons 4",
+    "providerName": "Starz",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/ss/starz_us_corp.png",
+    "providerWebsite": "http://www.starz.com/",
+    "providerCountry": "United States"
+  },
+  {
+    "satellite": "Galaxy 37/Horizons 4",
+    "providerName": "Herring Networks",
+    "providerLogo": "https://www.lyngsat.com/logo/corp/hh/herring_networks_us.png",
+    "providerWebsite": null,
+    "providerCountry": null
+  },
+  {
+    "satellite": "Galaxy 37/Horizons 4",
+    "providerName": "MBC America",
+    "providerLogo": "https://www.lyngsat.com/logo/tv/mm/mbc-america-kr-us.png",
+    "providerWebsite": "http://www.mbc-america.com/",
+    "providerCountry": "South Korea"
   }
 ]

@@ -69,10 +69,10 @@ function appendToJSON(filename, newData, callback) {
         const updatedJsonData = JSON.stringify(jsonData, null, 2);
 
         // Write the updated JSON data back to the file
-        fs.writeFile(filename, updatedJsonData, 'utf8', (writeErr) => {
+        fs.writeFileSync(filename, updatedJsonData, 'utf8', (writeErr) => {
             if (writeErr) {
                 // Pass any write error to the callback
-                return callback(writeErr);
+                return callback(writeErr); 
             }
             
             // If everything is successful, invoke the callback with null (no error)
